@@ -68,7 +68,7 @@
                     <navigationItem key="navigationItem" title="Ingredient List" id="znU-yL-hrg">
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="Xpf-MJ-EUF">
                             <connections>
-                                <segue destination="Bjr-gR-OeA" kind="push" id="kTv-Fg-LAg"/>
+                                <segue destination="Bjr-gR-OeA" kind="push" identifier="addIngredientSegue" id="kTv-Fg-LAg"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>

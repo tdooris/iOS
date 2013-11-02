@@ -10,13 +10,16 @@
 #import "DBKAddIngredientViewController.h"
 #import "Recipe.h"
 #import "DBKAppDelegate.h"
+#import "IngredientList.h"
 
 @interface DBKIngredientsViewController ()
+@property NSArray *theRecipeArray;
 @end
 
 @implementation DBKIngredientsViewController
 @synthesize ingredientsArray;
 @synthesize targetRecipe;
+@synthesize theRecipeArray;
 
 - (id)initWithStyle:(UITableViewStyle)style
 {
@@ -32,6 +35,10 @@
     
     /* Here we call the method to load the table data */
     [self loadTableData];
+    NSLog(@"YOu are in ingredientview, having chosen %@", [targetRecipe recipeName] );
+    
+/*    UIBarButtonItem *item2 = [[UIBarButtonItem alloc] initWithTitle:@"Cancel" style:UIBarButtonItemStyleBordered target:self action:@selector(dismiss)];
+    self.navigationItem.leftBarButtonItem = item2;  */
     
 }
 
@@ -61,7 +68,8 @@
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
     
     // Configure the cell...
-    
+    //this might be wrong?!
+    cell.textLabel.text = [ingredientsArray objectAtIndex:indexPath.row];
     return cell;
 }
 
@@ -126,21 +134,32 @@
     
     // Construct a fetch request
     NSFetchRequest *fetchRequest = [[NSFetchRequest alloc] init];
-    NSEntityDescription *entity = [NSEntityDescription entityForName:@"Ingredient"
+    NSEntityDescription *entity = [NSEntityDescription entityForName:@"Recipe"
                                               inManagedObjectContext:context];
-    
+    NSPredicate *predicate = [NSPredicate predicateWithFormat:@"recipeName==%@", targetRecipe.recipeName];
+
+    [fetchRequest setPredicate:predicate];
     [fetchRequest setEntity:entity];
-    /*
-     // Add an NSSortDescriptor to sort the labels alphabetically
-     NSSortDescriptor *sortDescriptor = [[NSSortDescriptor alloc] initWithKey:@"name" ascending:YES];
-     NSArray *sortDescriptors = [[NSArray alloc] initWithObjects:sortDescriptor, nil];
-     [fetchRequest setSortDescriptors:sortDescriptors];
-     */
+
     
     NSError *error = nil;
-    self.ingredientsArray = [context executeFetchRequest:fetchRequest error:&error];
-    [self.tableView reloadData];
+    self.theRecipeArray = [context executeFetchRequest:fetchRequest error:&error];
+    NSLog(@"The recipe you found was %@", [theRecipeArray objectAtIndex:0]);
+    Recipe *foundRecipe = [theRecipeArray objectAtIndex:0];
+    NSArray *ingredients = [foundRecipe.ingredientList.ingredient allObjects];
+    ingredientsArray  = [ingredients valueForKey:@"ingredientName"];
+    
+    
+   // [self.tableView reloadData];
 }
+
+- (void) dismiss {
+    [self.navigationController popViewControllerAnimated:YES];
+    
+}
+
+
+
 
 
 

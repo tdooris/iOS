@@ -159,8 +159,6 @@
 -(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
     if([segue.identifier isEqualToString:@"showIngredientsSegue"]){
         
-        //UINavigationController *navController = (UINavigationController *)segue.destinationViewController;
-        //DBKIngredientsViewController *controller = (DBKIngredientsViewController *)navController.topViewController;
         DBKIngredientsViewController *controller = (DBKIngredientsViewController *)segue.destinationViewController;
         controller.targetRecipe = selectedRecipe;
 

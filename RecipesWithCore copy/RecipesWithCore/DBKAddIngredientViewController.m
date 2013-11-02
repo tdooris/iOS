@@ -67,27 +67,6 @@
 
 - (void) addIngredient {
     if(textField.text.length>0){
-      /*  // Grab the context
-        NSManagedObjectContext *context = [[self appDelegate] managedObjectContext];
-       YOU WANT A FETCH REQUEST
-       
-       
-        // Grab the recipe entity
-        Recipe *recipe = [NSEntityDescription insertNewObjectForEntityForName:@"Recipe" inManagedObjectContext:context];
-        
-        // Set label name
-        recipe.ingredientlist. = self.textField.text;
-        
-        
-        // Save everything
-        NSError *error = nil;
-        if ([context save:&error]) {
-            NSLog(@"The save was successful!");
-        } else {
-            NSLog(@"The save wasn't successful: %@", [error userInfo]);
-        }  */
-        
-        
         
         NSManagedObjectContext *context = [[self appDelegate] managedObjectContext];
         
@@ -100,16 +79,37 @@
         
         [fetchRequest setPredicate:predicate];
         [fetchRequest setEntity:entity];
+        
         NSError *error = nil;
         self.theRecipeArray = [context executeFetchRequest:fetchRequest error:&error];
-        NSLog(@"The recipe you found was %@", [theRecipeArray objectAtIndex:0]);
         Recipe *foundRecipe = [theRecipeArray objectAtIndex:0];
+        NSLog(@"The recipe you found was %@", foundRecipe.recipeName);
+        NSLog(@"Its ingredientList is %@", foundRecipe.ingredientList);
         
-        Ingredient *newIngredient = [[Ingredient alloc] init];
-        newIngredient.ingredientName = textField.text;
         
+        // Create a new Ingredient entity
+        Ingredient *newIngredient = [NSEntityDescription insertNewObjectForEntityForName:@"Ingredient" inManagedObjectContext:context];
+        
+        // Set ingredientName
+        newIngredient.ingredientName = self.textField.text;
+        
+        //if there is no ingredientList, then create one and assign it to foundRecipe.
+        if (foundRecipe.ingredientList == nil) {
+            IngredientList *newIngredientList = [NSEntityDescription insertNewObjectForEntityForName:@"IngredientList" inManagedObjectContext:context];
+            foundRecipe.ingredientList = newIngredientList;
+        }
+        
+        
+        //Add newIngredient to the ingredientList of the chosen recipe.
         [foundRecipe.ingredientList addIngredientObject:newIngredient];
         
+        
+        //Save everything
+        if ([context save:&error]) {
+            NSLog(@"The save was successful!");
+        } else {
+            NSLog(@"The save wasn't successful: %@", [error userInfo]);
+        }
         
         
     }

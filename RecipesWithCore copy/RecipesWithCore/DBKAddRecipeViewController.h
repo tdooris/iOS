@@ -1,5 +1,5 @@
 //
-//  DBKAddIngredientViewController.h
+//  DBKAddRecipeViewController.h
 //  RecipesWithCore
 //
 //  Created by Timothy Dooris on 11/1/13.
@@ -9,6 +9,5 @@
 #import <UIKit/UIKit.h>
 #import "Recipe.h"
 
-@interface DBKAddIngredientViewController : UIViewController<UITextFieldDelegate>
-@property Recipe *thisRecipe;
+@interface DBKAddRecipeViewController : UIViewController <UITextFieldDelegate>
 @end
