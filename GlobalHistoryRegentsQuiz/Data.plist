@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explanation</key>
+	<string>Explanation: China&apos;s government has consistently shown little regard for the human rights of its citizens. The Tiananmen Square massacre is prime example of the lengths the Chinese government will go to remain in power.</string>
+	<key>question</key>
+	<string>The Tiananmen Square massacre in China was a reaction to</string>
+	<key>topic</key>
+	<string>Modern Issues:Human &amp; Women&apos;s Rights</string>
+	<key>answers</key>
+	<array>
+		<string>Deng Xiaoping&apos;s plan to revive the Cultural Revolution
+</string>
+		<string>student demands for greater individual rights and freedom of expression
+</string>
+		<string>China&apos;s decision to seek Western investors
+</string>
+		<string>Great Britain&apos;s decision to return Hong Kong to China
+</string>
+	</array>
+</dict>
+</plist>

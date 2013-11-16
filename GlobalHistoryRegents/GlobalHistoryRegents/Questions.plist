@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>category</key>
+		<string>classic</string>
+		<key>quote</key>
+		<string>Frankly my dear, I don&apos;t give a damn.</string>
+		<key>ans1</key>
+		<string>Gone with the wind</string>
+		<key>ans2</key>
+		<string>Casablanca</string>
+		<key>ans3</key>
+		<string>Pride and Prejudice</string>
+		<key>answer</key>
+		<string>1</string>
+		<key>tip</key>
+		<string>Check the weather.  Is that a North-Westerly blowing?</string>
+	</dict>
+    
+    
+    
+	<dict>
+		<key>category</key>
+		<string>classic</string>
+		<key>quote</key>
+		<string>Here&apos;s looking at you kid.</string>
+		<key>ans1</key>
+		<string>The rear window</string>
+		<key>ans2</key>
+		<string>To Kill a Mockingbird</string>
+		<key>ans3</key>
+		<string>Casablanca</string>
+		<key>answer</key>
+		<string>3</string>
+		<key>tip</key>
+		<string>Moroccan tea anyone?</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>classic</string>
+		<key>quote</key>
+		<string>There&apos;s no place like home.</string>
+		<key>ans1</key>
+		<string>Vertigo</string>
+		<key>ans2</key>
+		<string>Wizard of Oz</string>
+		<key>ans3</key>
+		<string>Singin in the rain</string>
+		<key>answer</key>
+		<string>2</string>
+		<key>tip</key>
+		<string>Be aware of the wicked witch.</string>
+	</dict>
+</array>
+</plist>
