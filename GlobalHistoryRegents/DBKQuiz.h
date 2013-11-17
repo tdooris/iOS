@@ -15,7 +15,7 @@
 @property (nonatomic, assign) NSInteger correctCount;
 @property (nonatomic, assign) NSInteger incorrectCount;
 @property (nonatomic, assign) NSInteger quizCount;
-@property (nonatomic, readonly, strong) NSString * quote;
+@property (nonatomic, readonly, strong) NSString * question;
 @property (nonatomic, readonly, strong) NSString * ans1;
 @property (nonatomic, readonly, strong) NSString * ans2;
 @property (nonatomic, readonly, strong) NSString * ans3;

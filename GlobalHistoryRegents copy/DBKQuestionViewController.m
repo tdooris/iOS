@@ -39,6 +39,8 @@
 
 @implementation DBKQuestionViewController
 
+@synthesize chosenPlist;
+
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
@@ -52,7 +54,7 @@
 {
     [super viewDidLoad];
     self.quizIndex = 999;
-    self.quiz = [[DBKQuiz alloc] initWithQuiz:@"Questions"];
+    self.quiz = [[DBKQuiz alloc] initWithQuiz:self.chosenPlist];
     
     [self nextQuizItem];
     self.questionLabel.backgroundColor = [UIColor colorWithRed:51/255.0 green:133/255.0 blue:238/255.0 alpha:1.0];
@@ -141,7 +143,7 @@
             self.answer3Label.backgroundColor = [UIColor redColor];
         }
         else if (self.answer == 4) {
-            self.answer3Label.backgroundColor = [UIColor redColor];
+            self.answer4Label.backgroundColor = [UIColor redColor];
         }
     }
     
@@ -155,7 +157,10 @@
     
     self.startButton.hidden = NO;
     
+    //scroll down to see explanation
     [self.startButton setTitle:@"Next" forState:UIControlStateNormal];
+    CGPoint bottomOffset = CGPointMake(0, self.scroller.contentSize.height - self.scroller.bounds.size.height);
+    [self.scroller setContentOffset:bottomOffset animated:YES];
 }
 
 - (IBAction)ans1Action:(id)sender
@@ -183,7 +188,13 @@
 
 - (IBAction)startAgain:(id)sender
 {
-    [self nextQuizItem];
+    if(self.quizIndex == 9){
+        [self quizDone];
+    }
+    
+    else{
+        [self nextQuizItem];
+    }
 }
 
 
@@ -197,4 +208,6 @@
     [self.startButton setTitle:@"Try Again" forState:UIControlStateNormal];
     self.quizIndex = 999;
 }
+
+
 @end

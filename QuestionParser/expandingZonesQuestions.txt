@@ -1,0 +1,432 @@
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>An influence that spread from the Byzantine Empire to Early Russia was the</string>
+<key>ans1</key>
+<string>Orthodox Christian religion</string>
+<key>ans2</key>
+<string>use of the Latin alphabet</string>
+<key>ans3</key>
+<string>beginning of democracy</string>
+<key>ans4</key>
+<string>factory system</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Christianity continued to thrive in the Byzantine Empire after the schism with the Catholic Church. Eventually, it became known as the Eastern Orthodox Church and spread throughout Russia.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>Which empire introduced the Eastern Orthodox Church and the Cyrillic alphabet to Russia? </string>
+<key>ans1</key>
+<string>Mongol</string>
+<key>ans2</key>
+<string>Byzantine</string>
+<key>ans3</key>
+<string>British</string>
+<key>ans4</key>
+<string>Gupta</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The Byzantine Empire introduced both the Eastern Orthodox Religion and the Cyrillic alphabet to the early Russian civilization.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>A major feature of the Golden Age of Moslem culture was the</string>
+<key>ans1</key>
+<string>political and economic isolation of the Arab world</string>
+<key>ans2</key>
+<string>development of the foundations of modern science and mathematics</string>
+<key>ans3</key>
+<string>adoption of democratic government</string>
+<key>ans4</key>
+<string>persecution of Jews and Christians</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The Arab World contributed greatly to modern science and mathematics during the Golden Age of Islam.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>Which factor helps explain the scientific and literary achievements of the Muslims during their Golden Age (A.D. 800-1300)?</string>
+<key>ans1</key>
+<string>expansion of trans-Atlantic trade</string>
+<key>ans2</key>
+<string>innovations introduced by the Europeans during the Renaissance</string>
+<key>ans3</key>
+<string>cultural diversity accepted by many Islamic governments</string>
+<key>ans4</key>
+<string>legal equality of all people in the Islamic empire</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: As Islam expanded, many governments in newly conquered areas recognized the rights of Arab and non-Arab Muslims as well as those of Jews and Christians.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>Mansa Musa’s journey to Mecca in the 1300’s is evidence that</string>
+<key>ans1</key>
+<string>the Crusades had a great influence on western Africa</string>
+<key>ans2</key>
+<string>most African leaders were educated in the Middle East</string>
+<key>ans3</key>
+<string>European culture was superior to the cultures of western Africa</string>
+<key>ans4</key>
+<string>Islam had a major influence on the Mali Empire</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Mansa Musa was fulfilling one of the Five Pillars of Islam by making a pilgrimage from Mali to Mecca. This indicates that Islam had a major influence on the Mali Empire, because one of its greatest rulers was a practicing Muslim.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>Which activity occurred during the Golden Age of Muslim culture?</string>
+<key>ans1</key>
+<string>destruction of books containing Greek and Roman ideas</string>
+<key>ans2</key>
+<string>beginning of pilgrimages to Mecca</string>
+<key>ans3</key>
+<string>opposition to freedom of thought and to foreign ideas by rulers</string>
+<key>ans4</key>
+<string>major discoveries in mathematics and science</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Arab World contributed greatly to modern science and mathematics during the Golden Age of Islam.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>The contributions of the Golden Age of Islamic civilization include</string>
+<key>ans1</key>
+<string>advances in mathematics</string>
+<key>ans2</key>
+<string>irrigation systems</string>
+<key>ans3</key>
+<string>polytheistic beliefs</string>
+<key>ans4</key>
+<string>gunpowder and guns</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The Arab World contributed greatly to modern science and mathematics during the Golden Age of Islam.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>In Europe during the Middle Ages, increases in trade and commerce resulted in</string>
+<key>ans1</key>
+<string>lower living standards for industrial workers</string>
+<key>ans2</key>
+<string>decreased economic rivalry between kings</string>
+<key>ans3</key>
+<string>increased political power for the clergy</string>
+<key>ans4</key>
+<string>development of towns and cities</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Medieval cities were supported by trade, exchange, production, consumption, and moneymaking. Many of the businesses that exist today, such as banks and corporations, can trace their ancestry to the Middle Ages.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>During the Middle Ages, Europeans did not eat potatoes or corn because these vegetables</string>
+<key>ans1</key>
+<string>were forbidden by the Catholic Church for religious reasons</string>
+<key>ans2</key>
+<string>had not yet been introduced to Europe from the New World</string>
+<key>ans3</key>
+<string>were believed to be poisonous</string>
+<key>ans4</key>
+<string>were too expensive to import from China</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Corn and potatoes were introduced to Europe after explorers returned with them from their voyages to the Americas.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>The Middle Ages in Western Europe was characterized by</string>
+<key>ans1</key>
+<string>the manor system and the importance of land ownership</string>
+<key>ans2</key>
+<string>absolute monarchies and strong central governments</string>
+<key>ans3</key>
+<string>decreased emphasis on religion in daily life</string>
+<key>ans4</key>
+<string>extensive trade with Asia and the Middle East</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Manorialism was the cornerstone of European society in the Middle Ages. Nobility who held land, the only thing of value during the period, ruled these manors.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>Feudal societies are generally characterized by</string>
+<key>ans1</key>
+<string>an emphasis on social order</string>
+<key>ans2</key>
+<string>a representative government</string>
+<key>ans3</key>
+<string>many economic opportunities</string>
+<key>ans4</key>
+<string>the protection of political rights</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Feudal societies such as those found in Europe during the Middle Ages and in Japan prior to the Meiji Resoration, are dominated by rigid class systems in which the landed nobility controlled the daily lives of those living on their property in exchange for providing protection for them.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>In Europe, a long-term effect of the Crusades was</string>
+<key>ans1</key>
+<string>the strengthening of the feudal system</string>
+<key>ans2</key>
+<string>the adoption of Islamic religious practices</string>
+<key>ans3</key>
+<string>an increased demand for goods from the East</string>
+<key>ans4</key>
+<string>increased European isolation</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: As Crusaders brought back spices and other goods from the encounter in the Middle East, demand for these products in Europe increased.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>The art, music, and philosophy of the medieval period in Europe generally dealt with</string>
+<key>ans1</key>
+<string>human scientific achievements</string>
+<key>ans2</key>
+<string>religious themes</string>
+<key>ans3</key>
+<string>materialism</string>
+<key>ans4</key>
+<string>classic Greek and Roman subjects</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Religious themes dominated the art of Europe during the Middle Ages because the Catholic Church was dominant in the lives of everyone during this era.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>Which statement best describes the result of the Crusades?</string>
+<key>ans1</key>
+<string>Europeans maintained a lasting control over much of the Middle East</string>
+<key>ans2</key>
+<string>Islamic influence dominated Europe</string>
+<key>ans3</key>
+<string>Europeans developed tolerance of Non-Christian religions</string>
+<key>ans4</key>
+<string>trade between Europe and the Middle East was expanded</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: While Europeans were unable to maintain control of the Holy Land in the Middle East, trade between the two areas increased as demand grew for the spices and other items brought back to Europe by the Crusaders.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>What were two indirect results of the Crusades?</string>
+<key>ans1</key>
+<string>trade and commerce increased and the feudal system was strengthened</string>
+<key>ans2</key>
+<string>trade and commerce declined and the feudal system was strengthened</string>
+<key>ans3</key>
+<string>trade and commerce increased and the feudal system was weakened</string>
+<key>ans4</key>
+<string>trade and commerce declined and the feudal system was weakened</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: The Crusades provided new opportunities for the serfs living on medieval manors in Europe to travel to the Middle East to fight the Muslims. As the Crusades ended, Europeans brought back spices and other items which caused trade between the two areas to increase.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>In Europe during the Middle Ages, the force that provided unification and stability was the</string>
+<key>ans1</key>
+<string>central government in Rome</string>
+<key>ans2</key>
+<string>military alliance between France and Germany</string>
+<key>ans3</key>
+<string>federation of the craft guilds</string>
+<key>ans4</key>
+<string>Roman Catholic Church</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Catholic Church was at the center of life in Europe during the Middle Ages.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>Feudalism in Western Europe was similar to feudalism in Japan in that</string>
+<key>ans1</key>
+<string>power was based on class relationships</string>
+<key>ans2</key>
+<string>equality among the social classes</string>
+<key>ans3</key>
+<string>direct democracy</string>
+<key>ans4</key>
+<string>monotheism</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Feudalism in Europe and Japan depended on a very rigid class structure in which the peasant labored for the upper class who provided them with land to live on and protection in times of warfare.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>Which is a characteristic of a feudal society?</string>
+<key>ans1</key>
+<string>rapid social change</string>
+<key>ans2</key>
+<string>high literacy rate</string>
+<key>ans3</key>
+<string>industrial-based economy</string>
+<key>ans4</key>
+<string>rigid class structure</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Feudalism in Europe and Japan depended on a very rigid class structure in which the peasant labored for the upper class who provided them with land to live on and protection in times of warfare.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>In Europe, the Crusades resulted in</string>
+<key>ans1</key>
+<string>greater isolation of the region from the world</string>
+<key>ans2</key>
+<string>an increased demand for goods from the Middle East and Asia</string>
+<key>ans3</key>
+<string>the adoption of Islam as the official religion of many European nations</string>
+<key>ans4</key>
+<string>the strengthening of the feudal system</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: As the crusaders returned from the Middle East to Europe, they brought with them a sample of the exotic spices and goods available from that part of the world. This resulted in an increased demand for these luxury goods and fueled trade between Europe and the rest of the world.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>One important effect of the Crusades on Western Europe was that they</string>
+<key>ans1</key>
+<string>led to a decline in the importance of the church in Western Europe</string>
+<key>ans2</key>
+<string>furthered cultural diffusion throughout Western Europe</string>
+<key>ans3</key>
+<string>introduced the Industrial Revolution to Western Europe</string>
+<key>ans4</key>
+<string>ended the western European quest for an overseas empire</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: As the crusaders returned from the Middle East to Europe, they brought with them a sample of the exotic spices and goods available from that part of the world. This resulted in an increased demand for these luxury goods and fueled trade between Europe and the rest of the world. A direct result of this trade was cultural diffusion as contact between these areas became more frequent.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>In European feudal society, an individual’s social status was generally determined by</string>
+<key>ans1</key>
+<string>birth</string>
+<key>ans2</key>
+<string>education and training</string>
+<key>ans3</key>
+<string>individual abilities</string>
+<key>ans4</key>
+<string>marriage</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Feudal Europe had a rigid class structure in which one’s status as a peasant or member of royalty was determined by birthright.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>Which economic system existed in Europe during the early Middle Ages?</string>
+<key>ans1</key>
+<string>free market</string>
+<key>ans2</key>
+<string>socialism</string>
+<key>ans3</key>
+<string>manorialism</string>
+<key>ans4</key>
+<string>command</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: The Manor System organized labor during the Middle Ages in Europe and provided those who lived on the manor with their basic economic needs.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>One major result of the Crusades was the</string>
+<key>ans1</key>
+<string>permanent occupation of the Holy Land by the Europeans</string>
+<key>ans2</key>
+<string>long-term decrease in European trade</string>
+<key>ans3</key>
+<string>conversion of most Muslims to Christianity</string>
+<key>ans4</key>
+<string>spread of Middle Eastern culture and technology to Europe</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: As European Crusaders returned to Europe from the Middle East, they brought with them ideas and technologies. These included the Hindu-Arabic numbering system, the concept of zero, and sailing technologies such as the astrolabe and compass.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>The growth of feudalism in Europe during the Middle Ages was primarily caused by the</string>
+<key>ans1</key>
+<string>rivalry between the colonial empires</string>
+<key>ans2</key>
+<string>suppression of internationalism</string>
+<key>ans3</key>
+<string>decline of the Roman Catholic Church</string>
+<key>ans4</key>
+<string>collapse of a strong central government</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The collapse of the Roman Empire was finalized in 476 CE, when the city of Rome was sacked. For nearly 1,000 years afterward no single centralized government was able to maintain control of Europe. As a result, the region became dominated by feudalism in order to meet the basic need for protection which was necessary for survival.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>The Crusades have been called “history’s most successful failures.” Which statement best explains this expression?</string>
+<key>ans1</key>
+<string>The Crusades did not achieve their original goals, but they brought about many desirable changes in Europe.</string>
+<key>ans2</key>
+<string>Although the Crusaders captured the Holy Land, they were unable to bring about democratic reforms.</string>
+<key>ans3</key>
+<string>The Crusades helped bring about the fall of the Roman Empire</string>
+<key>ans4</key>
+<string>The Crusaders prevented the Turks from capturing Constantinople for many centuries</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The Crusades provided new opportunities for the serfs living on medieval manors in Europe to travel to the Middle East to fight the Muslims. As the Crusades ended, Europeans brought back spices and other items which caused trade between the two areas to increase.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>The Roman Catholic Church during the Middle Ages in Europe can best be described as a church that</string>
+<key>ans1</key>
+<string>favored separation from secular governments</string>
+<key>ans2</key>
+<string>avoided involvement in social and educational matters</string>
+<key>ans3</key>
+<string>was a strong force that divided many people</string>
+<key>ans4</key>
+<string>was a stabilizing influence during a period of weak central governments</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Catholic Church was at the center of life in Europe during the Middle Ages.</string>
+</dict>
+<dict><key>category</key><string>expandingzones</string>
+<key>question</key>
+<string>A major goal of the Christian Church during the Crusades (1096–1291) was to</string>
+<key>ans1</key>
+<string>establish Christianity in western Europe</string>
+<key>ans2</key>
+<string>capture the Holy Land from Islamic rulers</string>
+<key>ans3</key>
+<string>unite warring Arab peoples</string>
+<key>ans4</key>
+<string>strengthen English dominance in the Arab world</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The Europeans wanted to capture this area to protect Christian missionaries and pilgrims. Others reasons may include the hope for wealth and glory.</string>
+</dict>

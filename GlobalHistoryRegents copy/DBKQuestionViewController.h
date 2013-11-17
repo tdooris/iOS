@@ -16,5 +16,6 @@
     
 @property (nonatomic, assign) NSInteger quizIndex;
 @property (nonatomic, strong) DBKQuiz * quiz;
-    
+@property (nonatomic, copy) NSString * chosenPlist;
+
 @end

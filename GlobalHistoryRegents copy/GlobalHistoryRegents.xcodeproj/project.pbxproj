@@ -7,7 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C9BE842C1836D0B500658304 /* Questions.plist in Resources */ = {isa = PBXBuildFile; fileRef = C9BE842B1836D0B500658304 /* Questions.plist */; };
+		C990E7101838452E00AED661 /* DBKPickQuizViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C990E70F1838452E00AED661 /* DBKPickQuizViewController.m */; };
+		C990E71218384D6D00AED661 /* methodologyQuestions.plist in Resources */ = {isa = PBXBuildFile; fileRef = C990E71118384D6D00AED661 /* methodologyQuestions.plist */; };
+		C990E71418384E2300AED661 /* ancientWorldQuestions.plist in Resources */ = {isa = PBXBuildFile; fileRef = C990E71318384E2300AED661 /* ancientWorldQuestions.plist */; };
+		C990E71618384E4600AED661 /* expandingZonesQuestions.plist in Resources */ = {isa = PBXBuildFile; fileRef = C990E71518384E4600AED661 /* expandingZonesQuestions.plist */; };
+		C990E71818384E6600AED661 /* globalInteractionsQuestions.plist in Resources */ = {isa = PBXBuildFile; fileRef = C990E71718384E6600AED661 /* globalInteractionsQuestions.plist */; };
+		C990E71A18384E9500AED661 /* ageofrevolutionsQuestions.plist in Resources */ = {isa = PBXBuildFile; fileRef = C990E71918384E9500AED661 /* ageofrevolutionsQuestions.plist */; };
+		C990E71C18384EB600AED661 /* ahalfcenturyQuestions.plist in Resources */ = {isa = PBXBuildFile; fileRef = C990E71B18384EB600AED661 /* ahalfcenturyQuestions.plist */; };
+		C990E71E18384ED800AED661 /* since1945Questions.plist in Resources */ = {isa = PBXBuildFile; fileRef = C990E71D18384ED800AED661 /* since1945Questions.plist */; };
+		C990E72018384F0000AED661 /* globalconnectionsQuestions.plist in Resources */ = {isa = PBXBuildFile; fileRef = C990E71F18384F0000AED661 /* globalconnectionsQuestions.plist */; };
+		C9BE842C1836D0B500658304 /* crossTopicalQuestions.plist in Resources */ = {isa = PBXBuildFile; fileRef = C9BE842B1836D0B500658304 /* crossTopicalQuestions.plist */; };
 		C9FF4699183416D4002BE42A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9FF4698183416D4002BE42A /* Foundation.framework */; };
 		C9FF469B183416D4002BE42A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9FF469A183416D4002BE42A /* CoreGraphics.framework */; };
 		C9FF469D183416D4002BE42A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9FF469C183416D4002BE42A /* UIKit.framework */; };
@@ -39,7 +48,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		C9BE842B1836D0B500658304 /* Questions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Questions.plist; sourceTree = "<group>"; };
+		C990E70E1838452E00AED661 /* DBKPickQuizViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBKPickQuizViewController.h; sourceTree = "<group>"; };
+		C990E70F1838452E00AED661 /* DBKPickQuizViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBKPickQuizViewController.m; sourceTree = "<group>"; };
+		C990E71118384D6D00AED661 /* methodologyQuestions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = methodologyQuestions.plist; sourceTree = "<group>"; };
+		C990E71318384E2300AED661 /* ancientWorldQuestions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ancientWorldQuestions.plist; sourceTree = "<group>"; };
+		C990E71518384E4600AED661 /* expandingZonesQuestions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = expandingZonesQuestions.plist; sourceTree = "<group>"; };
+		C990E71718384E6600AED661 /* globalInteractionsQuestions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = globalInteractionsQuestions.plist; sourceTree = "<group>"; };
+		C990E71918384E9500AED661 /* ageofrevolutionsQuestions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ageofrevolutionsQuestions.plist; sourceTree = "<group>"; };
+		C990E71B18384EB600AED661 /* ahalfcenturyQuestions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ahalfcenturyQuestions.plist; sourceTree = "<group>"; };
+		C990E71D18384ED800AED661 /* since1945Questions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = since1945Questions.plist; sourceTree = "<group>"; };
+		C990E71F18384F0000AED661 /* globalconnectionsQuestions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = globalconnectionsQuestions.plist; sourceTree = "<group>"; };
+		C9BE842B1836D0B500658304 /* crossTopicalQuestions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = crossTopicalQuestions.plist; sourceTree = "<group>"; };
 		C9FF4695183416D4002BE42A /* GlobalHistoryRegents.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GlobalHistoryRegents.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9FF4698183416D4002BE42A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C9FF469A183416D4002BE42A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -94,12 +113,22 @@
 		C9FF468C183416D4002BE42A = {
 			isa = PBXGroup;
 			children = (
-				C9BE842B1836D0B500658304 /* Questions.plist */,
+				C9BE842B1836D0B500658304 /* crossTopicalQuestions.plist */,
 				C9FF46CD1834179F002BE42A /* Storyboard.storyboard */,
 				C9FF46D418341F3B002BE42A /* DBKQuiz.h */,
 				C9FF46D518341F3B002BE42A /* DBKQuiz.m */,
 				C9FF46CF183417EE002BE42A /* DBKQuestionViewController.h */,
 				C9FF46D0183417EE002BE42A /* DBKQuestionViewController.m */,
+				C990E70E1838452E00AED661 /* DBKPickQuizViewController.h */,
+				C990E70F1838452E00AED661 /* DBKPickQuizViewController.m */,
+				C990E71318384E2300AED661 /* ancientWorldQuestions.plist */,
+				C990E71518384E4600AED661 /* expandingZonesQuestions.plist */,
+				C990E71718384E6600AED661 /* globalInteractionsQuestions.plist */,
+				C990E71918384E9500AED661 /* ageofrevolutionsQuestions.plist */,
+				C990E71B18384EB600AED661 /* ahalfcenturyQuestions.plist */,
+				C990E71D18384ED800AED661 /* since1945Questions.plist */,
+				C990E71F18384F0000AED661 /* globalconnectionsQuestions.plist */,
+				C990E71118384D6D00AED661 /* methodologyQuestions.plist */,
 				C9FF46A0183416D4002BE42A /* GlobalHistoryRegents */,
 				C9FF46BD183416D5002BE42A /* GlobalHistoryRegentsTests */,
 				C9FF4697183416D4002BE42A /* Frameworks */,
@@ -245,9 +274,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C9BE842C1836D0B500658304 /* Questions.plist in Resources */,
+				C990E71E18384ED800AED661 /* since1945Questions.plist in Resources */,
+				C990E71618384E4600AED661 /* expandingZonesQuestions.plist in Resources */,
+				C9BE842C1836D0B500658304 /* crossTopicalQuestions.plist in Resources */,
+				C990E71C18384EB600AED661 /* ahalfcenturyQuestions.plist in Resources */,
 				C9FF46A5183416D4002BE42A /* InfoPlist.strings in Resources */,
+				C990E71418384E2300AED661 /* ancientWorldQuestions.plist in Resources */,
+				C990E71218384D6D00AED661 /* methodologyQuestions.plist in Resources */,
 				C9FF46B0183416D4002BE42A /* Images.xcassets in Resources */,
+				C990E71818384E6600AED661 /* globalInteractionsQuestions.plist in Resources */,
+				C990E71A18384E9500AED661 /* ageofrevolutionsQuestions.plist in Resources */,
+				C990E72018384F0000AED661 /* globalconnectionsQuestions.plist in Resources */,
 				C9FF46CE183417A0002BE42A /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -271,6 +308,7 @@
 				C9FF46D618341F3B002BE42A /* DBKQuiz.m in Sources */,
 				C9FF46AE183416D4002BE42A /* GlobalHistoryRegents.xcdatamodeld in Sources */,
 				C9FF46D1183417EE002BE42A /* DBKQuestionViewController.m in Sources */,
+				C990E7101838452E00AED661 /* DBKPickQuizViewController.m in Sources */,
 				C9FF46A7183416D4002BE42A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

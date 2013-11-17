@@ -10,7 +10,7 @@
 
 @interface DBKQuiz()
 
-@property (nonatomic, strong) NSString * quote;
+@property (nonatomic, strong) NSString * question;
 @property (nonatomic, strong) NSString * ans1;
 @property (nonatomic, strong) NSString * ans2;
 @property (nonatomic, strong) NSString * ans3;
@@ -36,7 +36,7 @@
 
 - (void) nextQuestion: (NSUInteger) idx
 {
-    self.quote = [NSString stringWithFormat:@"'%@'",self.questionArray[idx][@"quote"]];
+    self.question = [NSString stringWithFormat:@"'%@'",self.questionArray[idx][@"question"]];
     
     self.ans1 = self.questionArray[idx][@"ans1"];
     self.ans2 = self.questionArray[idx][@"ans2"];

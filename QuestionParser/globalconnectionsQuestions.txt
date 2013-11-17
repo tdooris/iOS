@@ -1,0 +1,608 @@
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>In France, a person drinks coffee imported from Brazil, works at a computer made in Japan, and uses gasoline from Saudi Arabia in a German automobile. This situation illustrates the concept of</string>
+<key>ans1</key>
+<string>empathy</string>
+<key>ans2</key>
+<string>scarcity</string>
+<key>ans3</key>
+<string>interdependence</string>
+<key>ans4</key>
+<string>world citizenship</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Interdependence refers to the idea that nations of the world are mutually dependent on each other for the goods that they produce. A nation’s goods are exported all over the world, and different items are imported from other nations.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Japan sells cars to the United States, the United States exports high technology to Saudi Arabia, and Saudi Arabia exports oil to Japan. Which is a valid conclusion that can be drawn from this statement?</string>
+<key>ans1</key>
+<string>Saudi Arabia controls most of the world's natural resources</string>
+<key>ans2</key>
+<string>The United States is the world's leading exporter</string>
+<key>ans3</key>
+<string>most nations of the world specialize in one export</string>
+<key>ans4</key>
+<string>the nations of the world are economically interdependent</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Interdependence refers to the idea that nations of the world are mutually dependent on each other for the goods that they produce. A nation’s goods are exported all over the world, and different items are imported from other nations.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Global problems of uneven economic development, environmental pollution, and hunger reflect the need for</string>
+<key>ans1</key>
+<string>a return to policies of economic nationalism</string>
+<key>ans2</key>
+<string>increased military spending by all nations</string>
+<key>ans3</key>
+<string>a reduction in foreign aid provided by industrialized nations</string>
+<key>ans4</key>
+<string>increased international cooperation</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Interdependence refers to the idea that nations of the world are mutually dependent on each other for economic development, and are mutually responsible for the problems of environmental pollution and world hunger. The nations of the world must work cooperatively to solve these problems.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>The Middle East is a global importance today because it</string>
+<key>ans1</key>
+<string>has become a model of economic and political equality</string>
+<key>ans2</key>
+<string>allows major European powers to retain their spheres of influence</string>
+<key>ans3</key>
+<string>provides much of the petroleum used by industrial nations</string>
+<key>ans4</key>
+<string>remains a primary source of uranium</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Much of the industrialized world is dependent on the oil producing nations in the Middle East. This fact makes the political stability of this region of worldwide importance.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>A major purpose of the Organization of African Unity (OAU), the Organization of American States (OAS), and the European Union (EU) is to</string>
+<key>ans1</key>
+<string>encourage political and economic cooperation between member nations</string>
+<key>ans2</key>
+<string>end colonialism in member nations</string>
+<key>ans3</key>
+<string>control overpopulation in member nations</string>
+<key>ans4</key>
+<string>provide military assistance to member nations</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The OAU, OAS, and EU were set up to encourage political and economic cooperation between member states.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>In the past decade, Japanese automobile manufacturers have sought to improve Japanese-American trade relations by</string>
+<key>ans1</key>
+<string>drastically lowering the price of Japanese automobiles for American consumers</string>
+<key>ans2</key>
+<string>allowing an unlimited number of American automobiles to be sold in Japan</string>
+<key>ans3</key>
+<string>importing most spare parts from Mexico</string>
+<key>ans4</key>
+<string>building an increasing number of Japanese automobiles in the United States</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The United States has a trade deficit with Japan. To offset this imbalance, Japan has agreed to create American jobs by manufacturing some of their automobiles in the United States.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>In recent years, a major success of the European Union (EU) has been the</string>
+<key>ans1</key>
+<string>creation of a single military force</string>
+<key>ans2</key>
+<string>rejection of national sovereignty</string>
+<key>ans3</key>
+<string>adoption of a single language</string>
+<key>ans4</key>
+<string>elimination of trade barriers</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The European Union has recently eliminated tariffs between al member nations. This stimulates trade in a free market environment.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>The major reason the Mexican Government strongly supported the North American Free Trade Agreement (NAFTA) was that this agreement would</string>
+<key>ans1</key>
+<string>raise tariffs on United States products entering Mexico</string>
+<key>ans2</key>
+<string>reduce Mexico’s economic dependence on Europe</string>
+<key>ans3</key>
+<string>promote investment and economic growth in Mexico</string>
+<key>ans4</key>
+<string>stimulate trade between Asia and Latin America</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: NAFTA eliminated tariffs between the United States, Mexico, and Canada. This has led to increased interest in investing in Mexican business and industry.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Within the past decade, the decision of the United States Government to grant China “most favored nation” status was important to China because this decision</string>
+<key>ans1</key>
+<string>allowed China to join the Southeast Treaty Organization (SEATO)</string>
+<key>ans2</key>
+<string>increased China’s ability to trade with the United States</string>
+<key>ans3</key>
+<string>helped protect China from a possible Japanese invasion</string>
+<key>ans4</key>
+<string>eliminated Russian influence in East Asia</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Most Favored Nation status would allow China more access to markets in the United States. The intended results would be a strengthening of China's economy.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Modern Japan must trade to maintain its industry and living standard because Japan has</string>
+<key>ans1</key>
+<string>a limited amount of investment capital</string>
+<key>ans2</key>
+<string>little access to the sea</string>
+<key>ans3</key>
+<string>a lack of communication systems</string>
+<key>ans4</key>
+<string>few mineral resources</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Japan lacks many natural resources needed to maintain its industry and living standard. Therefore, they must develop extensive trade with other nations to offset this deficiency.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Peacekeeping missions are operating in more than a dozen of the world’s many trouble spots. The authority to intervene and use force, if necessary, is found in several articles in the Charter. Which organization is referred to in these statements?</string>
+<key>ans1</key>
+<string>United Nations</string>
+<key>ans2</key>
+<string>Organization of American States (OAS)</string>
+<key>ans3</key>
+<string>European Union (European Community)</string>
+<key>ans4</key>
+<string>World Court</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: One of the many roles of the United Nations is peacekeeping around the world.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Since the creation of the Organization of Petroleum Exporting Countries (OPEC), member nations have joined together to</string>
+<key>ans1</key>
+<string>determine the supply of oil on the world market</string>
+<key>ans2</key>
+<string>establish a policy of independence in trade</string>
+<key>ans3</key>
+<string>maintain a low price of oil per barrel</string>
+<key>ans4</key>
+<string>isolate themselves from the rest of the world</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Together, the nations of OPEC control a vast amount of the world’s oil supply. Because of this, OPEC is able to set market price for oil around the world.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>A main goal of the European Union (European Economic Community) in the 1990’s has been to strengthen European</string>
+<key>ans1</key>
+<string>isolationism</string>
+<key>ans2</key>
+<string>socialism</string>
+<key>ans3</key>
+<string>interdependence</string>
+<key>ans4</key>
+<string>colonization</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: The European Union has sought to bring its member nations closer together economically by issuing a standard currency and eliminating trade barriers.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>In recent years, companies from industrialized nations have been building production facilities in Latin American nations. This economic change is mostly due to the region’s</string>
+<key>ans1</key>
+<string>favorable climate</string>
+<key>ans2</key>
+<string>supply of inexpensive labor</string>
+<key>ans3</key>
+<string>capital resources</string>
+<key>ans4</key>
+<string>communist governments</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: High population and low industrial development has given Latin America an abundant supply of cheap labor. This attracts companies from the industrialized world that wish to cut cost in manufacturing.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Since the end of World War II, the nations of Western Europe have improved their economic position by</string>
+<key>ans1</key>
+<string>increasing communication and cooperation in the region</string>
+<key>ans2</key>
+<string>colonizing African and Asian nations</string>
+<key>ans3</key>
+<string>isolating themselves from the rest of the world</string>
+<key>ans4</key>
+<string>rejecting membership in the United Nations</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The nations of Western Europe have increased their communication and cooperation through the creation of a series of economic communities. The current community is called the European Union, which also includes nations from Eastern Europe since the collapse of communism.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>The principal aim of the North American Free Trade Agreement (NAFTA) and the European Union is to</string>
+<key>ans1</key>
+<string>keep communism out of the Western Hemisphere</string>
+<key>ans2</key>
+<string>reduce environmental pollution</string>
+<key>ans3</key>
+<string>increase economic cooperation between the member nations</string>
+<key>ans4</key>
+<string>eliminate global terrorism</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: NAFTA and the European Union were set up to encourage economic cooperation between member states through free trade.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>In many Latin American nations, reliance on the production of a single cash crop has led to</string>
+<key>ans1</key>
+<string>economic dependence on other nations</string>
+<key>ans2</key>
+<string>rapid repayment of foreign loans</string>
+<key>ans3</key>
+<string>a high per capita Gross National Product</string>
+<key>ans4</key>
+<string>development of a strong industrial economy</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The production of a single crop does not allow for the diversity that Latin American nations need in order to be economically dependent of other nations, particularly when there are poor harvests or widespread crop failures.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Which fact about China has been the cause of the other three?</string>
+<key>ans1</key>
+<string>the economy of China has trouble providing for all the needs of the people</string>
+<key>ans2</key>
+<string>the Chinese government has set limits on the number of children families may have</string>
+<key>ans3</key>
+<string>Chinese cities have a severe shortage of housing</string>
+<key>ans4</key>
+<string>China’s population exceeds one billion</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: China’s large population has caused problems in their economy, created a shortage in housing, and forced the government to institute laws limiting the number of children families may have.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Since the collapse of the Soviet Union in the early 1990’s, Russia has attempted to build an economic system based on</string>
+<key>ans1</key>
+<string>a return to feudalism</string>
+<key>ans2</key>
+<string>the ideas of Marx and Lenin</string>
+<key>ans3</key>
+<string>the writings of Mao Zedong</string>
+<key>ans4</key>
+<string>free-market a system</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Russia has switched from a communist, or command economy, to a capitalist, or free market economy. This was a result of the dismal failures produced by the former communist system.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Which conclusion is valid concerning the food shortages some nations of Africa and Asia during the 1970’s and 1980’s?</string>
+<key>ans1</key>
+<string>misuse of the land has destroyed many rich food-producing regions</string>
+<key>ans2</key>
+<string>too few people in Africa and Asia are involved in food production</string>
+<key>ans3</key>
+<string>acid rain has been the major cause of crop failures</string>
+<key>ans4</key>
+<string>European nations stopped shipping food to these regions</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: African agriculture is mainly devoted to cash crops for trade and commerce. This has led to vast food shortages and famine in some African nations.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>In Mexico and India, the Green Revolution has been successful because it has</string>
+<key>ans1</key>
+<string>promoted democratic reform</string>
+<key>ans2</key>
+<string>increased agricultural productivity</string>
+<key>ans3</key>
+<string>introduced western culture and values</string>
+<key>ans4</key>
+<string>established economic equality among the people</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The Green Revolution applies modern technology to solve the problem of food production. Some of the methods are modern irrigation systems, the use of heavy machinery, and more potent fertilizers and pesticides. The Green Revolution has been more successful in areas with larger farms, that can afford these innovations.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>The major goal of the Green Revolution has been to</string>
+<key>ans1</key>
+<string>decrease the use of modern farm machinery</string>
+<key>ans2</key>
+<string>decrease population growth</string>
+<key>ans3</key>
+<string>increase agricultural output</string>
+<key>ans4</key>
+<string>increase the number of traditional farms</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: The Green Revolution applies modern technology to solve the problem of food production. Some of the methods are modern irrigation systems, the use of heavy machinery, and more potent fertilizers and pesticides. The Green Revolution has been more successful in areas with larger farms, that can afford these innovations.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>The term “Green Revolution” is used to describe the</string>
+<key>ans1</key>
+<string>tensions between developing and developed nations</string>
+<key>ans2</key>
+<string>heavy reliance on manual labor in agriculture</string>
+<key>ans3</key>
+<string>protests against environmental destruction caused by industry</string>
+<key>ans4</key>
+<string>development of new types of grains and new methods of growing them</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Green Revolution applies modern technology to solve the problem of food production. Some of the methods are modern irrigation systems, the use of heavy machinery, and more potent fertilizers and pesticides. The Green Revolution has been more successful in areas with larger farms, that can afford these innovations.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>The main goal of the Green Revolution was to</string>
+<key>ans1</key>
+<string>prevent further destruction of the world’s rain forests</string>
+<key>ans2</key>
+<string>solve chronic food shortages through the use of technology</string>
+<key>ans3</key>
+<string>expand the economies of developing nations with foreign investment</string>
+<key>ans4</key>
+<string>insure that foreign aid was received by people with the greatest need</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The Green Revolution applies modern technology to solve the problem of food production. Some of the methods are modern irrigation systems, the use of heavy machinery, and more potent fertilizers and pesticides. The Green Revolution has been more successful in areas with larger farms, that can afford these innovations.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>In the 1980?s, the governments of both Brazil and Malaysia supported the cutting of timber in their rain forests as a means of</string>
+<key>ans1</key>
+<string>achieving economic prosperity</string>
+<key>ans2</key>
+<string>increasing the national debt</string>
+<key>ans3</key>
+<string>controlling rebellions of indigenous peoples</string>
+<key>ans4</key>
+<string>preventing exploitation by imperialist nations</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Deforestation is used to clear land for farming or habitation. This is done in response to growing populations in such areas as Brazil and Malaysia.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>A study of the accident at the Chernobyl nuclear power plant in the Soviet Union and of severe air pollution in Mexico would lead to the conclusion that</string>
+<key>ans1</key>
+<string>technology can cause problems throughout the world</string>
+<key>ans2</key>
+<string>international trade is more profitable than domestic commerce</string>
+<key>ans3</key>
+<string>modern science cannot solve most political problems</string>
+<key>ans4</key>
+<string>agricultural nations have caused major world environmental problems</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Modern technology can be very damaging to the environment. Many nations are working together to stop the destruction of the environment by such industry.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>A major environmental problem affecting Latin America, Sub-Saharan Africa, and Southeast Asia has been</string>
+<key>ans1</key>
+<string>air pollution</string>
+<key>ans2</key>
+<string>Deforestation</string>
+<key>ans3</key>
+<string>disposal of nuclear waste</string>
+<key>ans4</key>
+<string>acid rain</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Deforestation is the widespread destruction of forests, primarily the tropical rain forests of Latin America, Southeast Asia, and Africa. This is of worldwide concern because of its potential effects on the environment, such as global warming due to an increase in carbon dioxide.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Many scientist believe that the ?greenhouse effect? is the result of</string>
+<key>ans1</key>
+<string>overgrazing on land in developing nations</string>
+<key>ans2</key>
+<string>using large amounts of gasoline, oil, and coal in developed nations</string>
+<key>ans3</key>
+<string>testing nuclear weapons in violation of the Nuclear Test Ban Treaty</string>
+<key>ans4</key>
+<string>using natural fertilizers to increase crop production</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The use of these products releases carbon dioxide, which is believed to destroy the ozone layer, which protects the earth from harmful solar radiation.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>A major factor contributing to the destruction of the Amazon rain forests is the</string>
+<key>ans1</key>
+<string>movement of people from rural to urban areas</string>
+<key>ans2</key>
+<string>attempt of native peoples to end illegal drug traffic</string>
+<key>ans3</key>
+<string>need for more farmland</string>
+<key>ans4</key>
+<string>spread of Christianity</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Deforestation is used to clear land for farming or habitation. This is done in response to growing populations in such regions as Latin America and Africa.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>The amount of carbon dioxide in the atmosphere has increased in recent years. Environmentalists suggest this change is a direct result of the</string>
+<key>ans1</key>
+<string>improper storage of solid and nuclear waste</string>
+<key>ans2</key>
+<string>overcutting of forests and the increased use of fossil fuels</string>
+<key>ans3</key>
+<string>dumping of inorganic material into lakes and rivers</string>
+<key>ans4</key>
+<string>use of herbicides and toxic substances such as asbestos and DDT</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Deforestation and the use of fossil fuels are both suspected of increasing the amount of carbon dioxide in the atmosphere. This is of worldwide concern because of its potential effects on the environment, such as global warming due to an weakening of the ozone layer which protects the earth from harmful solar radiation.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>In developing countries, the use of wood, charcoal, and dung as major sources of energy has created an increase in</string>
+<key>ans1</key>
+<string>economic dependence on industrialized nations</string>
+<key>ans2</key>
+<string>sales an profits for international oil corporations</string>
+<key>ans3</key>
+<string>deforestation and other environmental problems</string>
+<key>ans4</key>
+<string>nuclear waste products</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Deforestation and the use of fossil fuels are both suspected of increasing the amount of carbon dioxide in the atmosphere. This is of worldwide concern because of its potential effects on the environment, such as global warming due to an weakening of the ozone layer which protects the earth from harmful solar radiation.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>A negative impact of the use of modern technology is that</string>
+<key>ans1</key>
+<string>levels of air and water pollution often increase</string>
+<key>ans2</key>
+<string>economic opportunities are frequently limited</string>
+<key>ans3</key>
+<string>contacts with other cultures decrease</string>
+<key>ans4</key>
+<string>international trade is limited</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Modern technology can be very damaging to the environment. Many nations are working together to stop the destruction of the environment by such industry.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>In Latin America, the deforestation of the Amazon rain forest has led to</string>
+<key>ans1</key>
+<string>the maintenance of a traditional way of life</string>
+<key>ans2</key>
+<string>the discovery of new medicines</string>
+<key>ans3</key>
+<string>overpopulation in rural regions</string>
+<key>ans4</key>
+<string>environmental dangers</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Deforestation is the widespread destruction of forests, primarily the tropical rain forests of Latin America, Southeast Asia, and Africa. This is of worldwide concern because of its potential effects on the environment, such as global warming due to an increase in carbon dioxide.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>The Tiananmen Square massacre in China was a reaction to</string>
+<key>ans1</key>
+<string>Deng Xiaoping?s plan to revive the Cultural Revolution</string>
+<key>ans2</key>
+<string>student demands for greater individual rights and freedom of expression</string>
+<key>ans3</key>
+<string>China?s decision to seek Western investors</string>
+<key>ans4</key>
+<string>Great Britain?s decision to return Hong Kong to China</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: China?s government has consistently shown little regard for the human rights of its citizens. The Tiananmen Square massacre is prime example of the lengths the Chinese government will go to remain in power.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Which statement best describes a result of the student demonstrations in Beijing?s Tiananmen Square in 1989?</string>
+<key>ans1</key>
+<string>prodemocracy protestors were successful in achieving their goals</string>
+<key>ans2</key>
+<string>a state-controlled education program was begun</string>
+<key>ans3</key>
+<string>the government further restricted freedom of expression in China</string>
+<key>ans4</key>
+<string>collectivization programs were started in China</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: China’s government has consistently shown little regard for the human rights of its citizens. The Tiananmen Square massacre is prime example of the lengths the Chinese government will go to remain in power.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>A common problem facing most Latin American and Eastern European nations today is that these nations</string>
+<key>ans1</key>
+<string>have little arable land and few mineral resources with which to improve their economies</string>
+<key>ans2</key>
+<string>have chosen not to belong to international organizations</string>
+<key>ans3</key>
+<string>are struggling with a transition to democracy after experiencing years of dictatorial rule</string>
+<key>ans4</key>
+<string>are experiencing major problems with the flood of illegal immigrants entering their nations</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Many countries in both Latin America and Eastern Europe are struggling to form democratic governments after decades of rule by totalitarian dictators. This has caused both economic and social problems in these countries as they strive to achieve a stable government.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>Today, human rights violations most often occur in nations in which</string>
+<key>ans1</key>
+<string>freedom of the press exists</string>
+<key>ans2</key>
+<string>government is limited by law</string>
+<key>ans3</key>
+<string>leaders have absolute control</string>
+<key>ans4</key>
+<string>government has a multiparty system</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Governments that have little or no check on their power often abuse the rights of their people in an effort to remain in control. Example of these nations are China and Iraq, both of which are noted for their dismal human rights record.</string>
+</dict>
+<dict><key>category</key><string>globalconnections</string>
+<key>question</key>
+<string>An analysis of the Chinese student demonstrations in Tiananmen Square in 1989 would show that</string>
+<key>ans1</key>
+<string>communist governments continue to have little control over the actions of their citizens</string>
+<key>ans2</key>
+<string>totalitarian governments frequently survive by the use of force</string>
+<key>ans3</key>
+<string>peaceful demonstrations often succeed in achieving democratic reforms</string>
+<key>ans4</key>
+<string>negative global reaction sometimes leads to economic decline</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Governments that have little or no check on their power often abuse the rights of their people in an effort to remain in control. Example of these nations are China and Iraq, both of which are noted for their dismal human rights record.</string>
+</dict>

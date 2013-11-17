@@ -1,0 +1,896 @@
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>One reason for the development of an early civilization in the Tigris-Euphrates river valleys was that</string>
+<key>ans1</key>
+<string>the location protected the people from land invasion</string>
+<key>ans2</key>
+<string>periodic flooding left rich soil, which was ideal for farming</string>
+<key>ans3</key>
+<string>these rivers provided a direct trade route between Europe and Asia</string>
+<key>ans4</key>
+<string>these rivers flowed into the Mediterranean Sea</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Flowing rivers deposit fresh silt along their banks from areas upstream. When these rivers overflow, the silt pours onto the land providing rich soil ideal for farming.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Which characteristic did the early civilizations that developed along the Nile, the Tigris-Euphrates and the Huang He (Yellow River) have in common?</string>
+<key>ans1</key>
+<string>each society’s religious beliefs were based on monotheism</string>
+<key>ans2</key>
+<string>urban communities were built using iron and steel tools</string>
+<key>ans3</key>
+<string>the form of government in each community was based on male suffrage</string>
+<key>ans4</key>
+<string>transportation and communication were promoted by a mild climate, fertile soil, and natural waterways</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: All of these early river civilizations benefited from increased transportation and communication due to their location on rivers in mild climate regions.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>The early civilizations of the Nile River Valley, Mesopotamia, and the Yellow River Valley were similar because they were</string>
+<key>ans1</key>
+<string>industrialized societies</string>
+<key>ans2</key>
+<string>monotheistic</string>
+<key>ans3</key>
+<string>dependent on fertile land</string>
+<key>ans4</key>
+<string>dependent on each other for trade</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: In order for civilization to develop in these areas, an agricultural surplus was need to provide for the needs of the humans living there.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>One way in which the civilizations of the Sumerians, the Phoenicians, and the Maya were similar is that each</string>
+<key>ans1</key>
+<string>developed extensive writing systems</string>
+<key>ans2</key>
+<string>emphasized equality in education</string>
+<key>ans3</key>
+<string>established monotheistic religions</string>
+<key>ans4</key>
+<string>encouraged democratic participation in government</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Each of the civilizations developed extensive writing systems. The Sumerians developed the first known writing system, cuneiform, which was pictographic in nature. The Phoenicians developed an alphabet made of letters which could be combined to form words. Later, this Phoenician language was adopted by the Greeks and the Romans, and became the basis for many modern European languages.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>The ancient civilizations of Mesopotamia and Egypt were similar in that both cultures</string>
+<key>ans1</key>
+<string>developed along rivers</string>
+<key>ans2</key>
+<string>used the ziggurat form for their temples</string>
+<key>ans3</key>
+<string>established trade routes to China</string>
+<key>ans4</key>
+<string>used a hieroglyphic writing system</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Ancient Egyptian society developed along the Nile River, while the civilization in Mesopotamia, or the Fertile Crescent, developed along the Tigris and Euphrates Rivers.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Notre Dame Cathedral in Paris, the Dome of the Rock in Jerusalem and the Great Pyramid in Egypt are examples of</string>
+<key>ans1</key>
+<string>architectural accomplishments that reflect religious beliefs</string>
+<key>ans2</key>
+<string>the influence of Buddhist architecture on conquered nations</string>
+<key>ans3</key>
+<string>ancient architectural monuments no longer in use</string>
+<key>ans4</key>
+<string>the influence of cultural diffusion on contemporary architecture</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Each of these architectural examples are religious in nature and thus reflect the religious beliefs of those societies that built them.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Judaism, Islam, and Christianity share a belief in</string>
+<key>ans1</key>
+<string>the central authority of the Pope</string>
+<key>ans2</key>
+<string>a prohibition of the consumption of port</string>
+<key>ans3</key>
+<string>reincarnation and the Four Noble Truths</string>
+<key>ans4</key>
+<string>monotheism and ethical conduct</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: All of these religions believe in one god and that people should treat each other kindly.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Which is a valid statement about the history of South Asia?</string>
+<key>ans1</key>
+<string>Religious beliefs have both unified and divided the people of the region.</string>
+<key>ans2</key>
+<string>Little cultural diffusion has occurred in this region.</string>
+<key>ans3</key>
+<string>Urbanization has strengthened the traditional beliefs and lifestyles of the people of the region.</string>
+<key>ans4</key>
+<string>Superpower involvement has brought peace and economic prosperity to the region.</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: While Hinduism and Islam have each served to unify South Asia (Indian sub-continent) at one time or another, they have also led to conflict during times such as the movement for Indian independence and the numerous boundary disputes between India and Pakistan.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>According the teachings of Confucius, the key to the successful organization of society is that</string>
+<key>ans1</key>
+<string>the ruler should be chosen democratically</string>
+<key>ans2</key>
+<string>the evil in humans must be eliminated</string>
+<key>ans3</key>
+<string>ancestor worship should be discontinued</string>
+<key>ans4</key>
+<string>individuals should know and do what is expected of them</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Confucianism teaches that society needs to be ordered. In such a society, individuals should know and do what is expected of them.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>In traditional Chinese culture, which philosophy had the greatest influence on the development of social order and political organization?</string>
+<key>ans1</key>
+<string>Taoism</string>
+<key>ans2</key>
+<string>Shintoism</string>
+<key>ans3</key>
+<string>Confucianism</string>
+<key>ans4</key>
+<string>Marxism</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Confucianism teaches that society needs to be ordered. In such a society, individuals should know and do what is expected of them.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>The teachings of Confucius encouraged people to</string>
+<key>ans1</key>
+<string>put their own interests first</string>
+<key>ans2</key>
+<string>reject government authority</string>
+<key>ans3</key>
+<string>believe in reincarnation</string>
+<key>ans4</key>
+<string>follow a code of moral conduct</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Confucianism teaches that society needs to be ordered. In such a society, individuals should know and do what is expected of them, and a follow a code of moral conduct.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>In Japan, the martial arts, the tea ceremony, and flower arranging best reflect the influences of</string>
+<key>ans1</key>
+<string>imperialism and militarism</string>
+<key>ans2</key>
+<string>Buddhism and Shintoism</string>
+<key>ans3</key>
+<string>capitalism</string>
+<key>ans4</key>
+<string>mercantilism</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Martial arts, the tea ceremony, and flower are closely associated with the practice of Buddhism and Shintoism in Japan.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>A person who practices the Shinto faith would be most likely to</string>
+<key>ans1</key>
+<string>visit a shrine placed on the shore of a lake</string>
+<key>ans2</key>
+<string>pray five times a day</string>
+<key>ans3</key>
+<string>bathe in the Ganges River</string>
+<key>ans4</key>
+<string>make a pilgrimage to Jerusalem</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Shinto places a great emphasis on nature and the kami, or spirits, which inhabit all living things.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Taoism and Shintoism are similar in that both religions stress</string>
+<key>ans1</key>
+<string>adhering to the five Confucian relationships</string>
+<key>ans2</key>
+<string>following the Eightfold Path</string>
+<key>ans3</key>
+<string>developing harmony between humans and nature</string>
+<key>ans4</key>
+<string>believing in one God</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Taoism is a Chinese philosophy which focuses on nature by emphasizing “the way.” This philosophy dictates that people should passively accept nature in order to be in harmony with it. The Japanese Shinto faith states that all living things are inhabited by kami, or spirits.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>One similarity between the Five Pillars of Islam and the Ten Commandments is that both</string>
+<key>ans1</key>
+<string>support a belief in reincarnation</string>
+<key>ans2</key>
+<string>promote learning as a means to salvation</string>
+<key>ans3</key>
+<string>encourage the use of statues to symbolize God</string>
+<key>ans4</key>
+<string>provide a guide to proper ethical and moral behavior</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Both the Five Pillars and the Ten Commandments provide rules to guide proper behavior. For example, one of the Five Pillars states that Muslims must “give alms to the poor,” and one of the Ten Commandments states that “thou shall not kill.”</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>One way in which Eastern Orthodoxy, Roman Catholicism, and Protestantism are similar is that each</string>
+<key>ans1</key>
+<string>accepts the supreme authority of the Pope</string>
+<key>ans2</key>
+<string>rejects the Old Testament as part of the Bible</string>
+<key>ans3</key>
+<string>is a branch of Christianity</string>
+<key>ans4</key>
+<string>was once the official religion of the Byzantine Empire</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Each of these three religious denominations holds Jesus of Nazareth as the savior of mankind.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>The Koran, jihad, and the hegira are most closely associated with the practice of</string>
+<key>ans1</key>
+<string>Islam</string>
+<key>ans2</key>
+<string>Judaism</string>
+<key>ans3</key>
+<string>Shinto</string>
+<key>ans4</key>
+<string>Buddhism</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The Koran is the holy book of Islam, consisting of the prophet Mohammed’s teachings. Mohammed instructed Muslims that anyone who died in a jihad (holy war) would go directly to heaven. In 632 AD, Mohammed was forced to flee from Mecca to Medina. This event is the starting point of the Muslim calendar and is referred to as the Hegira.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>The Buddhist religion teaches that salvation is earned by</string>
+<key>ans1</key>
+<string>following the Ten Commandments</string>
+<key>ans2</key>
+<string>worshiping Allah as the one true god</string>
+<key>ans3</key>
+<string>learning to give up selfish desire</string>
+<key>ans4</key>
+<string>being baptized and confirmed</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Buddha taught that the root cause of all suffering was desire, and that to end one’s desire would end their suffering as well.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Confucianism in traditional China served to</string>
+<key>ans1</key>
+<string>maintain social order</string>
+<key>ans2</key>
+<string>create ethnic unrest</string>
+<key>ans3</key>
+<string>emphasize material wealth</string>
+<key>ans4</key>
+<string>support democratic government</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Kong Fu Zi taught that society needed to be ordered, as exemplified by the Five Relationships. If order was not maintained, then society would crumble.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Traditional animistic beliefs in Africa, Asia, and Latin America are based on</string>
+<key>ans1</key>
+<string>a desire for wealth</string>
+<key>ans2</key>
+<string>a written tradition</string>
+<key>ans3</key>
+<string>an appreciation for the forces of nature</string>
+<key>ans4</key>
+<string>a willingness to accept Christianity</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: All forms of Animism center around an appreciation for nature which is exhibited by the belief that many Animists hold that all living things contain spirits.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Jewish religions and cultural identity has been greatly influenced by</string>
+<key>ans1</key>
+<string>Ramadan and the concept of reincarnation</string>
+<key>ans2</key>
+<string>the Torah and the Diaspora</string>
+<key>ans3</key>
+<string>the New Testament and the Four Noble Truths</string>
+<key>ans4</key>
+<string>the Koran and the code of bushido</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The Torah is the Jewish holy book. The Diaspora refers to the world-wide scattering of Jews after they were forced to leave their homeland in the Middle East by the Romans.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>In India, the Caste system determined a person’s occupation, personal associations, and marriage partner. This situation shows that the Caste system</string>
+<key>ans1</key>
+<string>has helped eliminate ethnic and religious rivalries</string>
+<key>ans2</key>
+<string>has promoted social mobility within Indian society</string>
+<key>ans3</key>
+<string>has been stronger in urban areas that in rural areas</string>
+<key>ans4</key>
+<string>has been a way of life as well as an element of religion</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Hindu Caste system is reinforced both by religious elements associated with reincarnation such as karma and dharma, as well as social practices in India.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Mansa Musa’s journey to Mecca in the 1300’s is evidence that</string>
+<key>ans1</key>
+<string>the Crusades had a great influence on western Africa</string>
+<key>ans2</key>
+<string>most African leaders were educated in the Middle East</string>
+<key>ans3</key>
+<string>European culture was superior to the cultures of western Africa</string>
+<key>ans4</key>
+<string>Islam had a major influence on the Mali Empire</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Mansa Musa was fulfilling one of the Five Pillars of Islam by making a pilgrimage from Mali to Mecca. This indicates that Islam had a major influence on the Mali Empire, because one of its greatest rulers was a practicing Muslim.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>The Eightfold Path, the Four Noble Truths, and the concept of nirvana are associated with the religion of</string>
+<key>ans1</key>
+<string>Islam</string>
+<key>ans2</key>
+<string>Jainism</string>
+<key>ans3</key>
+<string>Shinto</string>
+<key>ans4</key>
+<string>Buddhism</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Buddhism developed in India, and is based on many of the core concepts of Hinduism. Buddha taught that the root cause of all suffering was desire, and that to end one’s desire would end their suffering as well. This was accomplished by following the Eightfold Path. The ultimate goal of Buddhism is reaching nirvana, or spiritual enlightenment.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>One way in which the Vedas, the Bible, and the Koran are similar is that these religious books</string>
+<key>ans1</key>
+<string>provide guidelines to govern the behavior of believers</string>
+<key>ans2</key>
+<string>deny the existence of a supreme being who rules the universe</string>
+<key>ans3</key>
+<string>encourage strife between segments of believers</string>
+<key>ans4</key>
+<string>support political rebellions to overthrow existing governments</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Religious writings in many civilizations provide guidance on moral behavior.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Which values are most closely associated with the fundamental principles of Buddhism?</string>
+<key>ans1</key>
+<string>competition and financial success</string>
+<key>ans2</key>
+<string>maintaining the caste system and providing education for all people</string>
+<key>ans3</key>
+<string>practicing nonviolence and giving up worldly desires</string>
+<key>ans4</key>
+<string>self-determination and democracy</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Buddha taught that the root cause of all suffering was desire, and that to end one’s desire would end their suffering as well. This was accomplished by following the Eightfold Path. The ultimate goal of Buddhism is reaching nirvana, or spiritual enlightenment.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>A belief of animism is that</string>
+<key>ans1</key>
+<string>after death the soul is reborn in another human form</string>
+<key>ans2</key>
+<string>holy wars must be fought to gain entry into heaven</string>
+<key>ans3</key>
+<string>meditation leads followers to nirvana</string>
+<key>ans4</key>
+<string>spirits of nature inhabit all living and nonliving objects</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Animists practice nature worship. They believe that everything in the universe has a spirit. This is exemplified by the practices of the Plains Indians in North America who would praise the spirit of the buffalo that they killed for giving its life to them so that they might survive. Animists also believed that ancestors watch over the living from the spirit world. This belief resulted in ancestor worship as a means of communicating with and showing respect to ancestors.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>A major impact of Ancient Greece and Rome on Western Civilization was that</string>
+<key>ans1</key>
+<string>the Greeks and Romans succeeded in achieving a classless society, which was later copied in Western Europe</string>
+<key>ans2</key>
+<string>Greek sculpture and Roman architecture were much admired and copied in the 18th and 19th centuries</string>
+<key>ans3</key>
+<string>Greece and Rome transmitted Islamic philosophy to the areas they conquered</string>
+<key>ans4</key>
+<string>Greek and Latin are still widely spoken in universities throughout the West</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: With the reemergence of democracy, classical Greek and Roman architecture was copied during the 1700s and 1800s.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>The Ancient Romans’ most significant contribution to Europe has been in the area of</string>
+<key>ans1</key>
+<string>economics</string>
+<key>ans2</key>
+<string>poetry</string>
+<key>ans3</key>
+<string>drama</string>
+<key>ans4</key>
+<string>law</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Twelve Tables of Law are considered the first example of codified law in Europe and were created in Ancient Rome.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>An immediate result of the fall of the Roman Empire was</string>
+<key>ans1</key>
+<string>a renewed interest in education and the arts</string>
+<key>ans2</key>
+<string>a period of disorder and weak central government</string>
+<key>ans3</key>
+<string>an increase in trade and manufacturing</string>
+<key>ans4</key>
+<string>the growth of cities and dominance by the middle class</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The period after the fall of Rome in Europe is often referred to as the Dark Ages because of the lack of learning and establishment of feudalism.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>The Ancient Athenians are credited with</string>
+<key>ans1</key>
+<string>inventing and using the wheel</string>
+<key>ans2</key>
+<string>eliminating slavery</string>
+<key>ans3</key>
+<string>establishing governments that had democratic elements</string>
+<key>ans4</key>
+<string>inventing the printing press</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: The Greek city-state of Athens was one of the earliest known places to incorporate direct democracy.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Both the Ancient Romans and the Ancient Chinese viewed foreigners as barbarians. This is an example of</string>
+<key>ans1</key>
+<string>cultural diffusion</string>
+<key>ans2</key>
+<string>materialism</string>
+<key>ans3</key>
+<string>imperialism</string>
+<key>ans4</key>
+<string>ethnocentrism</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Ethnocentrism is the belief that one’s own group is superior to others. Both the Ancient Romans and Ancient Chinese exhibited this by referring to outsiders as barbarians.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>A major contribution of the Roman Republic to Western European culture was the</string>
+<key>ans1</key>
+<string>concept of government by laws</string>
+<key>ans2</key>
+<string>belief that political power should be controlled by the military</string>
+<key>ans3</key>
+<string>establishment of agricultural communes</string>
+<key>ans4</key>
+<string>rejection of the concept of slavery</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The Twelve Tables of Roman Law contributed greatly to Western European culture because it set the precedent that government should follow certain laws.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Which ancient civilization established the basis of western democracy?</string>
+<key>ans1</key>
+<string>Phoenician</string>
+<key>ans2</key>
+<string>Egyptian</string>
+<key>ans3</key>
+<string>Sumerian</string>
+<key>ans4</key>
+<string>Greek</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Greek city-state of Athens was one of the earliest known places to incorporate direct democracy.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>The political system of the Ancient Roman Empire was characterized by</string>
+<key>ans1</key>
+<string>a strong central government</string>
+<key>ans2</key>
+<string>rule by a coalition of emperors and religious leaders</string>
+<key>ans3</key>
+<string>universal suffrage in national elections</string>
+<key>ans4</key>
+<string>a strict adherence to constitutional principles</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The Roman Empire was ruled by one person called an emperor, and is therefore an example of a strong central government.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Which societal condition was basic to the development of Greek philosophy?</string>
+<key>ans1</key>
+<string>rigid social classes</string>
+<key>ans2</key>
+<string>emphasis on individualism</string>
+<key>ans3</key>
+<string>religious uniformity</string>
+<key>ans4</key>
+<string>mass education</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Education was an important part of life in the Greek City-State of Athens. However, education was limited to male citizens.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Important long-term contributions of Ancient Greek and Roman civilizations are primarily found in the area of</string>
+<key>ans1</key>
+<string>military technology</string>
+<key>ans2</key>
+<string>religious doctrine</string>
+<key>ans3</key>
+<string>economic policy and planning</string>
+<key>ans4</key>
+<string>government and law</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Both Ancient Greece and the Roman Republic are known for their use of democracy in government. Rome also contributed to the area of law through the creation of the Twelve Tables of Law.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>The Ancient Greek city-state of Sparta</string>
+<key>ans1</key>
+<string>was primarily concerned with the health of their people</string>
+<key>ans2</key>
+<string>was a powerful military state</string>
+<key>ans3</key>
+<string>granted universal suffrage to their people</string>
+<key>ans4</key>
+<string>placed great emphasis on literature and the arts</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Sparta was a totalitarian Greek city-state that required all males to serve in the military.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>An immediate result of the fall of the Roman Empire was</string>
+<key>ans1</key>
+<string>a renewed interest in education and the arts</string>
+<key>ans2</key>
+<string>a period of disorder and weak central government</string>
+<key>ans3</key>
+<string>an increase in trade and manufacturing</string>
+<key>ans4</key>
+<string>the growth of cities and dominance by the middle class</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The fall of Rome led to an extended period of disunity during the Middle Ages that was characterized by feudalism.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Which societal condition was basic to the development of Greek philosophy and Renaissance art?</string>
+<key>ans1</key>
+<string>rigid social classes</string>
+<key>ans2</key>
+<string>emphasis on individualism</string>
+<key>ans3</key>
+<string>religious uniformity</string>
+<key>ans4</key>
+<string>mass education</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The flowering of civilization that occurred during Ancient Greece and Renaissance Italy can be attributed to the emphasis that both societies placed on individual worth. This emphasis caused contemporaries of both periods to excel in their endeavors and contributions to the world.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>An influence that spread from the Byzantine Empire to Early Russia was the</string>
+<key>ans1</key>
+<string>Orthodox Christian religion</string>
+<key>ans2</key>
+<string>use of the Latin alphabet</string>
+<key>ans3</key>
+<string>beginning of democracy</string>
+<key>ans4</key>
+<string>factory system</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Orthodox Christianity has its roots in the Byzantine Empire, which was transmitted to Russia when its rulers concerted to the religion around the turn of the first millennium.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>The adoption of the Eastern Orthodox religion and the Cyrillic alphabet by the Russian people occurred as a result of</string>
+<key>ans1</key>
+<string>territorial expansion during the reign of Catherine the Great</string>
+<key>ans2</key>
+<string>the westernization policies of Peter the Great</string>
+<key>ans3</key>
+<string>contact with Byzantine culture in the 10th century</string>
+<key>ans4</key>
+<string>the influence of the Crusaders during the Middle Ages</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: These cultural elements were transmitted from the Byzantine to Russia around the turn of the first millennium.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>One similarity between Axum, Kush, and Nubia was that they were</string>
+<key>ans1</key>
+<string>military leaders in the Neolithic Age</string>
+<key>ans2</key>
+<string>rivers along which early trade developed</string>
+<key>ans3</key>
+<string>writers of epic poems about Greek cities</string>
+<key>ans4</key>
+<string>early civilizations in Africa</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: All of these civilizations were located in Africa.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>One similarity between the decline of the Roman Empire and the fall of the Manchu Dynasty was that both initially led to</string>
+<key>ans1</key>
+<string>improved economic conditions</string>
+<key>ans2</key>
+<string>democratically elected governments</string>
+<key>ans3</key>
+<string>political chaos and decentralization of government</string>
+<key>ans4</key>
+<string>major accomplishments in art, science, and technology</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: The fall of the Roman Empire led to the outgrowth of feudalism during the Middle Ages in Europe, while the fall of the Manchu Dynasty in China led to an extended period of warlord control that was not ended until Mao Zedong’s communist victory in 1949.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>A major contribution of the Roman Empire to Western society was the development of</string>
+<key>ans1</key>
+<string>gunpowder</string>
+<key>ans2</key>
+<string>the principles of revolutionary socialism</string>
+<key>ans3</key>
+<string>monotheism</string>
+<key>ans4</key>
+<string>an effective legal system</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Twelve Tables of Rome were the first codified laws in Europe, and thus led to the development of an effective legal system.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>After the fall of Rome, the eastern portion of the Roman Empire became known as the</string>
+<key>ans1</key>
+<string>Persian Empire</string>
+<key>ans2</key>
+<string>Byzantine Empire</string>
+<key>ans3</key>
+<string>Mongol Empire</string>
+<key>ans4</key>
+<string>Gupta Empire</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The eastern portion of the Roman Empire, with its capital at Constantinople in modern-day Istanbul, Turkey, was known as the Byzantine Empire after the fall of Rome.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Which conclusion can be drawn from a study of the early civilizations of Axum, Kush, Mali and Songhai?</string>
+<key>ans1</key>
+<string>these African societies flourished at the same time</string>
+<key>ans2</key>
+<string>farming was more extensive in the Nile River Valley than it was in the Fertile Crescent</string>
+<key>ans3</key>
+<string>the Neolithic Revolution occurred in Africa</string>
+<key>ans4</key>
+<string>these societies had a long and rich history before their first contact with Europeans</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Evidence of the African civilizations of Axum, Kush, Mali, Songhai, and Great Zimbabwe indicates that many parts of Africa had a long and rich history before Europeans arrived in the 1600’s.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>A major effect of the decline of the Roman Empire was that Western Europe</string>
+<key>ans1</key>
+<string>came under the control of the Muslims</string>
+<key>ans2</key>
+<string>was absorbed by the Byzantine Empire</string>
+<key>ans3</key>
+<string>returned to a republican form of government</string>
+<key>ans4</key>
+<string>entered a period of chaos and disorder</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: For nearly 1,000 years after the fall of Rome, Europe experienced the Dark Ages which was characterized by a lack of learning or progress and the institution of feudalism.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Which characteristic was common to the Golden Age of Greece and the Italian Renaissance?</string>
+<key>ans1</key>
+<string>a strong military led to national unity</string>
+<key>ans2</key>
+<string>written constitutions led to the establishment of democratic governments</string>
+<key>ans3</key>
+<string>prosperity led to the creation of many works of art</string>
+<key>ans4</key>
+<string>political instability led directly to the formation of unified nation-states</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: The wealth of both the Golden Age of Greece and the Italian Renaissance allowed these societies to concentrate on culture and support the arts.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>During the centuries of dynastic rule, the Chinese rejected other cultures as inferior to their own. This situation illustrates the concept of</string>
+<key>ans1</key>
+<string>ethnocentrism</string>
+<key>ans2</key>
+<string>imperialism</string>
+<key>ans3</key>
+<string>social mobility</string>
+<key>ans4</key>
+<string>cultural diffusion</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Ethnocentrism is defined as the belief that one’s own culture or group is superior to another.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Alexander the Great’s conquests of Greece, Asia Minor, Egypt, and Persia led to the</string>
+<key>ans1</key>
+<string>spread of Hellenic culture</string>
+<key>ans2</key>
+<string>adoption of a feudal system</string>
+<key>ans3</key>
+<string>establishment of representative democracy</string>
+<key>ans4</key>
+<string>spread of Islamic culture throughout Europe</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Hellenistic culture was a blending of Greek, Asian, Persian, and Egyptian traditions. This culture was developed and spread as Alexander made his conquests across the ancient world.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>One similarity between the Ancient African kingdoms of Egypt, Ghana, Mali and Songhai is that all of these kingdoms were located</string>
+<key>ans1</key>
+<string>in mountainous terrain</string>
+<key>ans2</key>
+<string>in coastal areas</string>
+<key>ans3</key>
+<string>on major trading routes</string>
+<key>ans4</key>
+<string>in rain forest areas</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: All of these civilizations were located on major trade routes in Africa.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>One reason the ancient kingdoms in western Africa prospered was that they</string>
+<key>ans1</key>
+<string>were located along the Tigris and Euphrates rivers</string>
+<key>ans2</key>
+<string>had no contact with the rest of the world</string>
+<key>ans3</key>
+<string>followed the Hindu beliefs of their rulers</string>
+<key>ans4</key>
+<string>developed extensive trade in gold, ivory, and salt</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The West African trading kingdoms, such as Mali and Songhai, flourished due to their extensive trade in gold, ivory, and salt.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>Mansa Musa’s journey to Mecca in the 1300’s is evidence that</string>
+<key>ans1</key>
+<string>the Crusades had a great influence on western Africa</string>
+<key>ans2</key>
+<string>most African leaders were educated in the Middle East</string>
+<key>ans3</key>
+<string>European culture was superior to the cultures of western Africa</string>
+<key>ans4</key>
+<string>Islam had a major influence on the Mali Empire</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Making a pilgrimage to Mecca is one of the Five Pillars of Islam. Therefore, Mali leader Mansa Musa’s journey indicates that he was a Muslim.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>The contributions of the ancient civilizations of Ghana, Axum, Kush, and Mali demonstrate that</string>
+<key>ans1</key>
+<string>industrial technology was needed for African civilizations to develop</string>
+<key>ans2</key>
+<string>many African civilizations developed in southern Africa</string>
+<key>ans3</key>
+<string>most of the African Continent was unified under a single political system</string>
+<key>ans4</key>
+<string>advanced societies developed in Africa before Europeans colonized this region</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The West African trading kingdoms, such as Mali and Songhai, flourished due to their extensive trade in gold, ivory, and salt.</string>
+</dict>
+<dict><key>category</key><string>ancientworld</string>
+<key>question</key>
+<string>A similarity between the ancient western African kingdoms of Mali, Ghana, and Songhai is that these kingdoms </string>
+<key>ans1</key>
+<string>limited the power of their rulers</string>
+<key>ans2</key>
+<string>practiced Christianity</string>
+<key>ans3</key>
+<string>established economies based on trade</string>
+<key>ans4</key>
+<string>isolated themselves from contact with other cultures</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: The West African trading kingdoms, such as Mali and Songhai, flourished due to their extensive trade in gold, ivory, and salt.</string>
+</dict>

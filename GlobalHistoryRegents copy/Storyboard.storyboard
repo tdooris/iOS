@@ -59,56 +59,68 @@
             </objects>
             <point key="canvasLocation" x="-301" y="67"/>
         </scene>
-        <!--View Controller-->
+        <!--Pick Quiz View Controller-->
         <scene sceneID="948-jj-L2h">
             <objects>
-                <viewController id="T2M-dz-ra6" sceneMemberID="viewController">
+                <viewController id="T2M-dz-ra6" customClass="DBKPickQuizViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Guo-q4-hS8">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="zZO-XB-8kl">
-                                <rect key="frame" x="0.0" y="0.0" width="320" height="677"/>
+                                <rect key="frame" x="0.0" y="-33" width="320" height="677"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="rud-zJ-jMj">
                                         <rect key="frame" x="51" y="237" width="237" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Quiz by Topic">
+                                        <state key="normal" title="Encounters (500-1200 A.D.)">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
+                                        <connections>
+                                            <action selector="select4:" destination="T2M-dz-ra6" eventType="touchUpInside" id="pg5-PE-I8a"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="77I-Vu-48k">
                                         <rect key="frame" x="51" y="502" width="237" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Quiz by Topic">
+                                        <state key="normal" title="Modern Global Connections">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
+                                        <connections>
+                                            <action selector="select9:" destination="T2M-dz-ra6" eventType="touchUpInside" id="5nu-Q4-5JJ"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="h9f-bz-Nqn">
                                         <rect key="frame" x="51" y="396" width="237" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Quiz by Topic">
+                                        <state key="normal" title="Half Century Of Crisis(1900-1945)">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
+                                        <connections>
+                                            <action selector="select7:" destination="T2M-dz-ra6" eventType="touchUpInside" id="RjI-2R-SzO"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="ujE-fI-VXN">
                                         <rect key="frame" x="51" y="290" width="237" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Quiz by Topic">
+                                        <state key="normal" title="Global Interactions (1200-1650)">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
+                                        <connections>
+                                            <action selector="select5:" destination="T2M-dz-ra6" eventType="touchUpInside" id="nXi-bp-K52"/>
+                                        </connections>
                                     </button>
                                     <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Select Topic" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="h2b-Ja-YQ2">
-                                        <rect key="frame" x="122" y="37" width="94" height="21"/>
+                                        <rect key="frame" x="113" y="43" width="94" height="33"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="highlightedColor"/>
@@ -117,58 +129,61 @@
                                         <rect key="frame" x="51" y="78" width="237" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Methodology">
+                                        <state key="normal" title="Cross-Cultural Connections">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <connections>
-                                            <segue destination="GiG-JT-OVi" kind="modal" id="2KV-tr-zmh"/>
+                                            <action selector="select1:" destination="T2M-dz-ra6" eventType="touchUpInside" id="LsT-LU-hTs"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="PgR-oW-mAs">
                                         <rect key="frame" x="51" y="184" width="237" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Quiz by Topic">
+                                        <state key="normal" title="Ancient World(4000B.C.-500A.D.)">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
-                                    </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="cHX-QG-9ex">
-                                        <rect key="frame" x="51" y="555" width="237" height="45"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Quiz by Topic">
-                                            <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                                        </state>
+                                        <connections>
+                                            <action selector="select3:" destination="T2M-dz-ra6" eventType="touchUpInside" id="YGT-Uh-KdA"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="b7O-Rj-40w">
                                         <rect key="frame" x="51" y="131" width="237" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Ancient World">
+                                        <state key="normal" title="Geography &amp; Economics">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
+                                        <connections>
+                                            <action selector="select2:" destination="T2M-dz-ra6" eventType="touchUpInside" id="4oo-Lw-lEk"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="zwA-fj-JHb">
                                         <rect key="frame" x="51" y="449" width="237" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Quiz by Topic">
+                                        <state key="normal" title="Post-War(since 1945)">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
+                                        <connections>
+                                            <action selector="select8:" destination="T2M-dz-ra6" eventType="touchUpInside" id="x8k-F9-uKs"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="bn0-Dh-XfV">
                                         <rect key="frame" x="51" y="343" width="237" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                        <state key="normal" title="Quiz by Topic">
+                                        <state key="normal" title="Age Of Revolutions(1750-1914)">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
+                                        <connections>
+                                            <action selector="select6:" destination="T2M-dz-ra6" eventType="touchUpInside" id="99z-e1-1nV"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                             </scrollView>
@@ -176,33 +191,13 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="xUn-Me-Dm2"/>
+                    <connections>
+                        <segue destination="GiG-JT-OVi" kind="modal" identifier="pickTopic" id="ilv-e5-OF2"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HLQ-x8-YNo" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="86" y="72"/>
-        </scene>
-        <!--Question View Controller-->
-        <scene sceneID="Rdj-Ho-tuR">
-            <objects>
-                <viewController id="Meg-Sz-DCZ" customClass="DBKQuestionViewController" sceneMemberID="viewController">
-                    <navigationItem key="navigationItem" id="F3k-jE-xPS"/>
-                    <connections>
-                        <outlet property="answer1Button" destination="D1j-YM-9fl" id="ePC-3o-tR4"/>
-                        <outlet property="answer1Label" destination="UWS-oK-rSl" id="fLZ-4d-DTb"/>
-                        <outlet property="answer2Button" destination="1UA-cb-QTl" id="ivw-8z-z3C"/>
-                        <outlet property="answer2Label" destination="UWl-J8-wsc" id="sBG-fR-cKV"/>
-                        <outlet property="answer3Button" destination="CBZ-Fk-Q0j" id="QuG-Yw-j9v"/>
-                        <outlet property="answer3Label" destination="a5n-J1-Ui7" id="tIh-EQ-VeJ"/>
-                        <outlet property="answer4Button" destination="wEp-Bt-aDy" id="BcZ-XS-jRg"/>
-                        <outlet property="answer4Label" destination="g1I-tL-JyZ" id="6p8-57-UdK"/>
-                        <outlet property="explanation" destination="dMY-CX-WEV" id="qEF-3F-Go4"/>
-                        <outlet property="questionLabel" destination="6p7-96-vOi" id="RVG-2z-se3"/>
-                        <outlet property="statusLabel" destination="6bR-a8-RhL" id="hsf-8s-Ujf"/>
-                    </connections>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="ZK7-PS-kRo" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="752" y="-268"/>
+            <point key="canvasLocation" x="59" y="78"/>
         </scene>
         <!--Question View Controller-->
         <scene sceneID="kKU-yO-hb6">
@@ -222,84 +217,73 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Question" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" adjustsLetterSpacingToFitWidth="YES" id="6p7-96-vOi">
-                                        <rect key="frame" x="20" y="42" width="280" height="153"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <color key="backgroundColor" red="0.38520286190579056" green="1" blue="0.44574451991443209" alpha="1" colorSpace="calibratedRGB"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="D1j-YM-9fl">
-                                        <rect key="frame" x="20" y="230" width="35" height="45"/>
+                                        <rect key="frame" x="20" y="230" width="280" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
-                                        <state key="normal" title="1">
+                                        <color key="backgroundColor" white="0.66666666666666663" alpha="0.0" colorSpace="calibratedWhite"/>
+                                        <state key="normal">
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <connections>
                                             <action selector="ans1Action:" destination="GiG-JT-OVi" eventType="touchUpInside" id="FZ3-G5-n9y"/>
-                                            <action selector="ans1Action:" destination="Meg-Sz-DCZ" eventType="touchUpInside" id="Mzd-be-EW3"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="1UA-cb-QTl">
-                                        <rect key="frame" x="20" y="283" width="35" height="45"/>
+                                        <rect key="frame" x="20" y="283" width="280" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="backgroundColor" white="0.66666666666666663" alpha="0.0" colorSpace="calibratedWhite"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <state key="normal" title="2">
+                                        <state key="normal">
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <connections>
-                                            <action selector="ans2Action:" destination="Meg-Sz-DCZ" eventType="touchUpInside" id="RRk-vD-Dom"/>
                                             <action selector="ans2Action:" destination="GiG-JT-OVi" eventType="touchUpInside" id="qSM-p6-VZt"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="CBZ-Fk-Q0j">
-                                        <rect key="frame" x="20" y="336" width="35" height="45"/>
+                                        <rect key="frame" x="20" y="336" width="280" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="backgroundColor" white="0.66666666666666663" alpha="0.0" colorSpace="calibratedWhite"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <state key="normal" title="3">
+                                        <state key="normal">
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <connections>
-                                            <action selector="ans3Action:" destination="Meg-Sz-DCZ" eventType="touchUpInside" id="IDf-ay-xwj"/>
                                             <action selector="ans3Action:" destination="GiG-JT-OVi" eventType="touchUpInside" id="Qoz-FF-u6g"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="wEp-Bt-aDy">
-                                        <rect key="frame" x="20" y="389" width="35" height="45"/>
+                                        <rect key="frame" x="20" y="389" width="280" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <state key="normal" title="4">
+                                        <state key="normal">
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <connections>
-                                            <action selector="ans4Action:" destination="Meg-Sz-DCZ" eventType="touchUpInside" id="899-QC-Jex"/>
                                             <action selector="ans4Action:" destination="GiG-JT-OVi" eventType="touchUpInside" id="92e-iH-wNh"/>
                                         </connections>
                                     </button>
                                     <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Answer1" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="9" adjustsLetterSpacingToFitWidth="YES" id="UWS-oK-rSl">
-                                        <rect key="frame" x="63" y="230" width="237" height="45"/>
+                                        <rect key="frame" x="20" y="230" width="280" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Answer2" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="9" adjustsLetterSpacingToFitWidth="YES" id="UWl-J8-wsc">
-                                        <rect key="frame" x="63" y="283" width="237" height="45"/>
+                                        <rect key="frame" x="20" y="283" width="280" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Answer3" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="9" adjustsLetterSpacingToFitWidth="YES" id="a5n-J1-Ui7">
-                                        <rect key="frame" x="63" y="336" width="237" height="45"/>
+                                        <rect key="frame" x="20" y="336" width="280" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Answer4" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="9" adjustsLetterSpacingToFitWidth="YES" id="g1I-tL-JyZ">
-                                        <rect key="frame" x="63" y="389" width="237" height="45"/>
+                                        <rect key="frame" x="20" y="389" width="280" height="45"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="highlightedColor"/>
@@ -327,10 +311,25 @@
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <connections>
-                                            <action selector="startAgain:" destination="Meg-Sz-DCZ" eventType="touchUpInside" id="Rup-07-xfZ"/>
                                             <action selector="startAgain:" destination="GiG-JT-OVi" eventType="touchUpInside" id="b8M-fP-zak"/>
                                         </connections>
                                     </button>
+                                    <view contentMode="scaleToFill" id="kYk-jL-4SW">
+                                        <rect key="frame" x="20" y="36" width="280" height="160"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <subviews>
+                                            <label clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Question" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" adjustsLetterSpacingToFitWidth="YES" id="6p7-96-vOi">
+                                                <rect key="frame" x="10" y="13" width="260" height="135"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                                <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                <color key="highlightedColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                                <color key="shadowColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                            </label>
+                                        </subviews>
+                                        <color key="backgroundColor" red="0.0" green="0.50196081399917603" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    </view>
                                 </subviews>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
@@ -356,7 +355,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dUu-SD-MY5" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="637" y="458"/>
+            <point key="canvasLocation" x="468" y="-104"/>
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">

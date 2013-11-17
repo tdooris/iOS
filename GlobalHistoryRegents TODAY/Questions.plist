@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	
+    
+    
+    
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>In the Ancient Kingdom of Mali and in the Roman Republic, an important feature of life was the development of</string>
+        <key>ans1</key>
+        <string>codified laws</string>
+        <key>ans2</key>
+        <string>social and political equality</string>
+        <key>ans3</key>
+        <string>the Islamic religion</string>
+        <key>ans4</key>
+        <string>agricultural communes</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: The Twelve Tables of Law from Rome and the establishment of codified law by Mansa Musa in Mali were both important developments in these societies.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Which statement best explains the periods of the Gupta Empire of India, the Golden Age of Greece, and the Renaissance in Italy?</string>
+        <key>ans1</key>
+        <string>the winning of a war often inspires scientific and artistic achievement</string>
+        <key>ans2</key>
+        <string>a combination of wealth and a time of relative peace often leads to cultural achievement</string>
+        <key>ans3</key>
+        <string>a dictatorship usually encourages cultural growth and development</string>
+        <key>ans4</key>
+        <string>periods of censorship are needed for a nation to achieve cultural and scientific greatness</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Times of peace allow societies to create great works and trade with their neighbors. This trade usually results in the accumulation of wealth and the exchange of ideas which allows for the development and adoption of new innovations.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>One way in which Medieval European society, Latin American colonial society, and society in Imperial China were similar is that each</string>
+        <key>ans1</key>
+        <string>placed great value on public education</string>
+        <key>ans2</key>
+        <string>experienced a surplus of skilled labor</string>
+        <key>ans3</key>
+        <string>was organized according to a rigid class structure</string>
+        <key>ans4</key>
+        <string>de-emphasized the role of religion</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: All of these societies were contained rigid class structures that were nearly impossible to circumvent.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Which idea did Napoleon Bonaparte, Sun Yat-Sen, and Simone Bolivar have in common?</string>
+        <key>ans1</key>
+        <string>divine right</string>
+        <key>ans2</key>
+        <string>nationalism</string>
+        <key>ans3</key>
+        <string>totalitarianism</string>
+        <key>ans4</key>
+        <string>nonviolence</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Each of these men caused nationalism to develop in their respective country or region; Napoleon in early 1800’s France, Bolivar in early 1800’s Latin America, and Sun Yat-Sen in early 1900’s China.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Eighteenth-century Russia and nineteenth-century Japan were similar in that both countries</string>
+        <key>ans1</key>
+        <string>began the process of modernization after a long period of isolation</string>
+        <key>ans2</key>
+        <string>developed democratic governments after years under absolute monarchies</string>
+        <key>ans3</key>
+        <string>refused to accept western technological ideas</string>
+        <key>ans4</key>
+        <string>adopted socialist economic systems after capitalism had failed</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Throughout the 1700’s, both Peter the Great and Catherine the Great did much to modernize Russia by adopting ideas from the European Renaissance from which Russia had been isolated. Similarly, the Japanese Meiji Restoration rapidly industrialized Japan after the American Commodore Matthew Perry displayed industrial military power to convince the Japanese to open their ports to trade.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Until the 1500’s, China and Japan were similar in that both</string>
+        <key>ans1</key>
+        <string>were invaded by the Mongols</string>
+        <key>ans2</key>
+        <string>welcomed Christian Missionaries</string>
+        <key>ans3</key>
+        <string>had little contact with Western European nations</string>
+        <key>ans4</key>
+        <string>were developing democratic traditions</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Both China and Japan practiced isolationism until the 1500’s when Christian missionaries from Europe entered both countries.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>During the Middle Ages, Europeans did not eat potatoes or corn because these vegetables</string>
+        <key>ans1</key>
+        <string>were forbidden by the Catholic Church for religious reasons</string>
+        <key>ans2</key>
+        <string>had not yet been introduced to Europe from the New World</string>
+        <key>ans3</key>
+        <string>were believed to be poisonous</string>
+        <key>ans4</key>
+        <string>were too expensive to import from China</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Potatoes and corn were brought to Europe by explorers returning from the Americas during the Age of Exploration which came after the Middle Ages.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>One way in which Medieval European society, Latin American colonial society, and society in Imperial China were similar is that each</string>
+        <key>ans1</key>
+        <string>placed great value on public education</string>
+        <key>ans2</key>
+        <string>experienced a surplus of skilled labor</string>
+        <key>ans3</key>
+        <string>was organized according to a rigid class structure</string>
+        <key>ans4</key>
+        <string>de-emphasized the role of religion</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: All three of these societies had rigid class structures in which one was born into their social status with very few opportunities to advance socially.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>The societies of traditional China, Feudal Japan, and Czarist Russia were all characterized by</string>
+        <key>ans1</key>
+        <string>a rigid class structure</string>
+        <key>ans2</key>
+        <string>much interaction with other cultures</string>
+        <key>ans3</key>
+        <string>great economic change</string>
+        <key>ans4</key>
+        <string>rapidly changing social values</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: All three of these societies had rigid class structures in which one was born into their social status with very few opportunities to advance socially.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>One similarity between the decline of the Roman Empire and the fall of the Manchu Dynasty was that both initially led to</string>
+        <key>ans1</key>
+        <string>improved economic conditions</string>
+        <key>ans2</key>
+        <string>democratically elected governments</string>
+        <key>ans3</key>
+        <string>political chaos and decentralization of government</string>
+        <key>ans4</key>
+        <string>major accomplishments in art, science, and technology</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: After the Roman Empire fell in 476 CE, Europe was plunged into an extended period of feudalism which lasted nearly 1,000 years. When the Mancu Dynasty fell in 1911, China was ruled by local warlords until Mao Zedong’s communist victory in 1949.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>The Japanese feudal system and the Hindu caste system are similar in that both systems</string>
+        <key>ans1</key>
+        <string>promoted social mobility</string>
+        <key>ans2</key>
+        <string>developed a rigid class structure</string>
+        <key>ans3</key>
+        <string>encouraged the people to take part in government</string>
+        <key>ans4</key>
+        <string>resulted in economic opportunities for the lower classes</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Both of these societies had rigid class structures in which one was born into their social status with very few opportunities to advance socially.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Eighteenth-century Russia and nineteenth-century Japan were similar in that both countries</string>
+        <key>ans1</key>
+        <string>began the process of modernization after a long period of isolation</string>
+        <key>ans2</key>
+        <string>developed democratic governments after years under absolute monarchies</string>
+        <key>ans3</key>
+        <string>refused to accept western technological ideas</string>
+        <key>ans4</key>
+        <string>adopted socialist economic systems after capitalism had failed</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Because of geographic isolation, Russia did not take part in the European Renaissance and did not begin to modernize until the reigns of Peter the Great and Catherine the Great in the 1700’s. Japan refused to allow European trade beginning in 1639. This foreign policy made it impossible for the Japanese to take part in the Industrial Revolution which started in Europe. Japan’s rapid industrialization began with the Meiji Restoration in 1868.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Changes in Russia under Peter the Great were most similar to changes that occurred in</string>
+        <key>ans1</key>
+        <string>China before the Opium War</string>
+        <key>ans2</key>
+        <string>Japan during the Meiji Restoration</string>
+        <key>ans3</key>
+        <string>Iran after the fall of Shah Pahlevi</string>
+        <key>ans4</key>
+        <string>France during the feudal period</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Because of geographic isolation, Russia did not take part in the European Renaissance and did not begin to modernize until the reigns of Peter the Great and Catherine the Great in the 1700’s. Japan refused to allow European trade beginning in 1639. This foreign policy made it impossible for the Japanese to take part in the Industrial Revolution which started in Europe. Japan’s rapid industrialization began with the Meiji Restoration in 1868.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>The Tamils in Sri Lanka, the Sikhs in India, and the Zulus in South Africa have all attempted to</string>
+        <key>ans1</key>
+        <string>establish colonies in Asia</string>
+        <key>ans2</key>
+        <string>practice passive resistance</string>
+        <key>ans3</key>
+        <string>achieve political separatism</string>
+        <key>ans4</key>
+        <string>encourage mercantilism</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: As independence swept across the former European colonies, many minority groups within these new nations sought independence for themselves. This has led to turmoil and violence.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Which was characteristic of France under Napoleon’s rule and Germany under Hitler’s rule?</string>
+        <key>ans1</key>
+        <string>democratic ideas and diversity were encouraged</string>
+        <key>ans2</key>
+        <string>authoritarian control and a strong sense of nationalism prevailed</string>
+        <key>ans3</key>
+        <string>peaceful relations with neighboring countries wee fostered</string>
+        <key>ans4</key>
+        <string>artistic and literary freedom flourished</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Both Hitler and Napoleon encouraged nationalism among their citizens, while retaining absolute control of the government.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>A study of the French Revolution and the Russian Revolution of 1917 would lead to the conclusion that</string>
+        <key>ans1</key>
+        <string>revolutions only occur when a majority of citizens become directly involved</string>
+        <key>ans2</key>
+        <string>university students are most often responsible for starting revolutions</string>
+        <key>ans3</key>
+        <string>control of revolutions often shifts from moderates to radicals</string>
+        <key>ans4</key>
+        <string>revolutions seldom result in long-term changes</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Both revolutions went through a moderate phase before coming under control of a more radical element. The radical phase of a revolution is generally characterized by widespread violence.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>The French Revolution, the Bolshevik Revolution in Russia, and the Communist Revolution in China were similar in that all three</string>
+        <key>ans1</key>
+        <string>brought about few political changes</string>
+        <key>ans2</key>
+        <string>were influenced by the peasants’ desire for more land</string>
+        <key>ans3</key>
+        <string>were inspired by Marxism</string>
+        <key>ans4</key>
+        <string>were supported primarily by the nobility</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: All three revolutions were successful due to enormous support of the peasant class. Peasants in each nation supported the revolution in hopes of gaining land for farming and habitation.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>The ancient Greek city-state of Sparta and the Soviet Union under Stalin were similar in that both societies</string>
+        <key>ans1</key>
+        <string>were primarily concerned with the health of their people</string>
+        <key>ans2</key>
+        <string>were powerful military states</string>
+        <key>ans3</key>
+        <string>granted universal suffrage to their people</string>
+        <key>ans4</key>
+        <string>placed great emphasis on literature and the arts</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Both Sparta and the Soviet Union under Stalin had government systems that attempted to control all aspects of the lives of their citizens. Both maintained this control through the use of a strong military.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>In China, the building of the Great Wall, the use of the tribute system, and the government’s support of the Boxer Rebellion are examples of attempts by different dynasties to limit</string>
+        <key>ans1</key>
+        <string>foreign influence</string>
+        <key>ans2</key>
+        <string>nationalism</string>
+        <key>ans3</key>
+        <string>communist expansion</string>
+        <key>ans4</key>
+        <string>industrialization</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: China has maintained a policy of cultural isolationism. They have used various tools to limit incoming cultural diffusion.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>The French Revolution of 1789 and the Cuban Revolution of 1959 were similar in that both were caused primarily by the</string>
+        <key>ans1</key>
+        <string>desire of the people to be free from foreign rule</string>
+        <key>ans2</key>
+        <string>pressure of religious leaders for government reform</string>
+        <key>ans3</key>
+        <string>failure of the government to meet the needs of the people</string>
+        <key>ans4</key>
+        <string>ambition of the upper class to attain wealth and property</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: The French Revolution started because the government was unresponsive to the problems of the majority of the people, such as poverty and hunger. The Cuban Revolution, started by Fidel Castro, was a response to the oppressive and corrupt government of Fulgencio Batista.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>The philosophies of Confucius and Mao Zedong both emphasized</string>
+        <key>ans1</key>
+        <string>individual rather than cooperative gain</string>
+        <key>ans2</key>
+        <string>industry rather than agriculture</string>
+        <key>ans3</key>
+        <string>group rather than individual welfare</string>
+        <key>ans4</key>
+        <string>religious values rather than economic profits</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Both Confucius and Mao Zedong promoted the idea of group welfare above individual desire.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Japan during the Meiji Restoration was similar to Japan after World War II in that during these periods Japan</string>
+        <key>ans1</key>
+        <string>pursued a foreign policy of isolationism and limited political freedoms</string>
+        <key>ans2</key>
+        <string>reduced the powers of the Emperor and the nobility</string>
+        <key>ans3</key>
+        <string>underwent political reform and economic expansion</string>
+        <key>ans4</key>
+        <string>was ruled by dictators and the military</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Both time periods represent a radical change in government, followed by an economic boom.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Since the late 1940’s, India, Northern Ireland, and Israel have faced the common problem of</string>
+        <key>ans1</key>
+        <string>adjusting to a post-Communist political and economic system</string>
+        <key>ans2</key>
+        <string>continued violent confrontations between different religious groups</string>
+        <key>ans3</key>
+        <string>economic depression as a result of rapid industrialization</string>
+        <key>ans4</key>
+        <string>uncertainty of their acceptance by the European Community</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: All three nations are inhabited by diverse ethnic and religious groups. This has led to violence repeatedly since the 1940’s.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>The events that led to the overthrow of Czar Nicholas II in 1917 and to the forced resignation of Mikhail Gorbachev in 1991 show that</string>
+        <key>ans1</key>
+        <string>economic crises often lead to political change</string>
+        <key>ans2</key>
+        <string>Russian absolutism continued into the 1990’s</string>
+        <key>ans3</key>
+        <string>international conflicts often strengthen the power of leaders</string>
+        <key>ans4</key>
+        <string>Russia is an ethnically unified nation</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Russia was facing severe economic problems in both time periods. This type of problem often results in a change in government.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Events in both Eastern Europe in the early 1900’s and in the Soviet Union in the late 1980’s were mainly the result of</string>
+        <key>ans1</key>
+        <string>movements toward the repression of individual rights</string>
+        <key>ans2</key>
+        <string>declines in the use of advanced technology</string>
+        <key>ans3</key>
+        <string>the influence of religion on government</string>
+        <key>ans4</key>
+        <string>challenges by ethnic groups desiring independence</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Eastern Europe and the former Soviet Union are inhabited by diverse ethnic and religious groups. This has led to violence in the past as each group sought autonomy and self determination.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>During the late 1980’s and early 1990’s, the Soviet Union experienced ethnic tensions that were most similar to those experienced by</string>
+        <key>ans1</key>
+        <string>Japan in the early 17th century</string>
+        <key>ans2</key>
+        <string>Austria-Hungary in the late 19th century</string>
+        <key>ans3</key>
+        <string>Spain in the mid-18th century</string>
+        <key>ans4</key>
+        <string>Cuba in the late 20th century</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: The former Soviet Union and the old Austria-Hungary Empire were inhabited by diverse ethnic and religious groups. This often led to violence in the past as each group sought independence and self determination.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>The Holocaust in Europe and the actions of the Khmer Rouge in Kampuchea (Cambodia) were similar in that they were examples of</string>
+        <key>ans1</key>
+        <string>Interdependence</string>
+        <key>ans2</key>
+        <string>Segregation</string>
+        <key>ans3</key>
+        <string>Genocide</string>
+        <key>ans4</key>
+        <string>Empathy</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: The Holocaust was the systematic murder of the Jewish population in Europe by the Nazis. The Khmer Rouge also practiced a policy of genocide, killing millions in Cambodia during the 1970’s.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>One similarity between Mao Zedong and Fidel Castro is that they</string>
+        <key>ans1</key>
+        <string>achieved their goals through the use of peaceful resistance</string>
+        <key>ans2</key>
+        <string>worked to protect citizens’ rights to freedom of expression</string>
+        <key>ans3</key>
+        <string>considered capitalism to be the best economic system</string>
+        <key>ans4</key>
+        <string>led revolutionary movements that established communist governments</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Mao Zedong led a revolution in the 1930’s and 1940’s which established a communist government in China. The revolution, started by Fidel Castro, established communism in Cuba in 1959. Both communist governments exist today.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>A study of the policy of “ethnic cleansing” in Bosnia and the Holocaust in Europe would suggest that</string>
+        <key>ans1</key>
+        <string>world opinion is effective in stopping genocide</string>
+        <key>ans2</key>
+        <string>countries generally use reason and negotiation in dealing with important ethnic issues</string>
+        <key>ans3</key>
+        <string>anti-Semitism and ethnic hatred remain powerful forces in the 20th century</string>
+        <key>ans4</key>
+        <string>military leaders cannot be held responsible for acts committed during wartime</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Intolerance of other ethnic and religious groups has led to devastating violence in the 20th century. This continues to be a problem today, as evidenced by recent events in Bosnia and Rwanda.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Which factor has most limited the development of national unity in India, Lebanon, and Bosnia-Herzegovina?</string>
+        <key>ans1</key>
+        <string>lack of natural resources</string>
+        <key>ans2</key>
+        <string>inability to end colonialism</string>
+        <key>ans3</key>
+        <string>religious and ethnic differences</string>
+        <key>ans4</key>
+        <string>rapid growth of industry</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: All three regions are inhabited by diverse ethnic and religious groups. This has limited the development of national unity in these areas, and has often led to violence.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Both the Chinese Mandate of Heaven and the Japanese belief that the Emperor descends from the Sun Goddess are similar to the</string>
+        <key>ans1</key>
+        <string>“master race” theory of Adolf Hitler’s Third Reich</string>
+        <key>ans2</key>
+        <string>natural rights theory of the Age of Reason</string>
+        <key>ans3</key>
+        <string>divine right theory of the French monarchy</string>
+        <key>ans4</key>
+        <string>Marxist theory of a workers’ revolution</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: The Chinese Mandate of Heaven and the Japanese belief in the divinity of its Emperor are most similar to France’s divine right theory, which states that a King rules by right of being chosen by God.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>One way in which the caste system and apartheid were similar is that both</string>
+        <key>ans1</key>
+        <string>described specific religious practices and beliefs</string>
+        <key>ans2</key>
+        <string>supported a rigid class structure</string>
+        <key>ans3</key>
+        <string>were created by British colonial governments</string>
+        <key>ans4</key>
+        <string>gave power to the lower classes in their respective societies</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: The Hindu Caste system divided society up into many castes, each with its own rights and duties. Apartheid divided South African society between whites and blacks. Black South Africans enjoyed fewer rights and faced constant discrimination and segregation.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Within their respective nations, both Ho Chi Minh and Fidel Castro achieved their goals by</string>
+        <key>ans1</key>
+        <string>seeking aid and support from the European Union</string>
+        <key>ans2</key>
+        <string>using armed conflict to bring a communist government to power</string>
+        <key>ans3</key>
+        <string>following a policy of nonalignment</string>
+        <key>ans4</key>
+        <string>working to build a capitalist system</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Ho Chi Minh led the violent revolution that created a communist regime in Vietnam. Fidel Castro was the leader of a communist revolution in Cuba.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>One way in which the Meiji Restoration in Japan and the Golden Age of India are similar is that in each region these events led to</string>
+        <key>ans1</key>
+        <string>the persecution of minority peoples</string>
+        <key>ans2</key>
+        <string>periods of rapid change</string>
+        <key>ans3</key>
+        <string>the rise of feudalism as the dominant political system</string>
+        <key>ans4</key>
+        <string>governments ruled by absolute monarchs</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: The Meiji Restoration in Japan resulted in a radical change in government, and the rapid industrialization of the country. The Golden Age of India under the Gupta regime brought many advancements in such areas as science and technology.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>The Sepoy Rebellion in India and the Boxer Rebellion in China were similar in that both were</string>
+        <key>ans1</key>
+        <string>attempts to improve foreign trade</string>
+        <key>ans2</key>
+        <string>nonviolent resistance efforts</string>
+        <key>ans3</key>
+        <string>revolts against foreign influence</string>
+        <key>ans4</key>
+        <string>revolutions against traditional monarchs</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: The Sepoy Rebellion was a revolt against British authority in India. The Boxer Rebellion was a similar revolt against British imperialist policy in China.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>Suleiman held complete religious and political power. Charles I stormed the English Parliament. Peter the Great expanded serfdom in Russia. The actions of these leaders reflect the concept of</string>
+        <key>ans1</key>
+        <string>scientific theory</string>
+        <key>ans2</key>
+        <string>natural rights</string>
+        <key>ans3</key>
+        <string>mercantilism</string>
+        <key>ans4</key>
+        <string>absolutism</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Suleiman, Charles I of England, and Peter the Great of Russia all were absolute rulers. This term is defined as a ruler that has complete control over both government and society in their country.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>What would a study of the recent civil wars in Cambodia, Bosnia-Herzegovina, and Rwanda show about these conflicts?</string>
+        <key>ans1</key>
+        <string>Ethnic conflict was not a factor in the late 20th century.</string>
+        <key>ans2</key>
+        <string>The United Nations was successful in resolving these disputes.</string>
+        <key>ans3</key>
+        <string>Genocide was used as a political and military tactic.</string>
+        <key>ans4</key>
+        <string>Civilians were not affected by these disputes.</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Genocide was a tool used in all three country’s civil wars. This resulted in the death of millions, and worldwide concern over the use of such tactics.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>A similarity of the goals of Nelson Mandela and Mohandas Gandhi is that both leaders wanted to</string>
+        <key>ans1</key>
+        <string>secure political power for the majority of the people</string>
+        <key>ans2</key>
+        <string>encourage a greater degree of industrialization</string>
+        <key>ans3</key>
+        <string>improve the economy by expanding governmental control</string>
+        <key>ans4</key>
+        <string>gain independence from the Soviet Union</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Nelson Mandela fought to give rights to black South Africans, the majority population, while Gandhi worked toward ending British domination of India and restoring control back to the majority natives.</string>
+    </dict>
+    <dict><key>category</key><string>crossTopical</string>
+        <key>question</key>
+        <string>One way in which Simón Bolívar, Jomo Kenyatta, and Ho Chi Minh are similar is that each leader</string>
+        <key>ans1</key>
+        <string>sought independence from colonial rule</string>
+        <key>ans2</key>
+        <string>ruled during a period of peace and prosperity</string>
+        <key>ans3</key>
+        <string>demanded human rights for all citizens</string>
+        <key>ans4</key>
+        <string>established a totalitarian government</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Simon Bolivar was an independence leader in Latin America, Jomo Kenyatta did the same for Kenya, and Ho Chi Minh in Vietnam.</string>
+    </dict>
+    
+    
+    
+</array>
+</plist>

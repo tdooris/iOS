@@ -1,0 +1,1056 @@
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Korea greatly influenced the development of early Japan by</string>
+<key>ans1</key>
+<string>acting as a bridge for ideas from China</string>
+<key>ans2</key>
+<string>providing Japan with the technology for industrialization</string>
+<key>ans3</key>
+<string>serving as a barrier against Chinese aggression</string>
+<key>ans4</key>
+<string>protecting Japan from early European exploration</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: During the 300s-400s AD, Korea acted as a conduit for the transfer of culture from China to Japan. Archaeological discoveries indicate that a continuous flow of new technologies, materials, and immigrants was arriving in Japan from the Korea Peninsula. The Japanese learned how to cast bronze spearheads and bells, and historical records indicate that, by the late 5th century, Korean artisans had brought in more advanced methods of working iron, making swords and armor, firing finer and more durable ceramics, and manufacturing stirrups, bridles, and saddles. The Chinese writing system was introduced to Japan at about the same time. Writing made it possible for a new specialized class of scribes to compile and keep records, and it opened Japan to the influence of Chinese literary, religious, and philosophical culture. Soon after, Korean scholars introduced Confucianism and Buddhism to Japan.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>In Japan between 1603 and 1868, the most notable action taken by the Tokugawa Shogunate was the</string>
+<key>ans1</key>
+<string>military conquest of China</string>
+<key>ans2</key>
+<string>development of extensive trade with the Americas</string>
+<key>ans3</key>
+<string>formation of cultural links with Europe</string>
+<key>ans4</key>
+<string>virtual isolation of the country from the outside world</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Japan was not opened to trade with the outside world until the 1853 visit of American Commodore Matthew Perry. As a result, in 1868 the Emperor was restored to the throne.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The code of bushido of the Japanese samurai is most similar to</string>
+<key>ans1</key>
+<string>belief in reincarnation and karma of Hindus</string>
+<key>ans2</key>
+<string>practice of chivalry by European knights</string>
+<key>ans3</key>
+<string>teachings of Judaism</string>
+<key>ans4</key>
+<string>theory of natural rights of the Enlightenment writers</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Both bushido, “the way of the warrior,” and chivalric practices in Europe were examples of honor codes practiced by warriors in these two feudal societies.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Feudal societies are generally characterized by</string>
+<key>ans1</key>
+<string>an emphasis on social order</string>
+<key>ans2</key>
+<string>a representative government</string>
+<key>ans3</key>
+<string>many economic opportunities</string>
+<key>ans4</key>
+<string>the protection of political rights</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Feudal societies such as those found in Europe during the Middle Ages and in Japan prior to the Meiji Resoration, are dominated by rigid class systems in which the landed nobility controled the daily lives of those living on their property in exchange for providing protection for them.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Feudalism in Western Europe was similar to feudalism in Japan in that</string>
+<key>ans1</key>
+<string>power was based on class relationships</string>
+<key>ans2</key>
+<string>equality among the social classes</string>
+<key>ans3</key>
+<string>direct democracy</string>
+<key>ans4</key>
+<string>monotheism</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Feudal societies such as those found in Europe during the Middle Ages and in Japan prior to the Meiji Resoration, are dominated by rigid class systems in which the landed nobility controled the daily lives of those living on their property in exchange for providing protection for them.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which is a characteristic of a feudal society?</string>
+<key>ans1</key>
+<string>rapid social change</string>
+<key>ans2</key>
+<string>high literacy rate</string>
+<key>ans3</key>
+<string>industrial-based economy</string>
+<key>ans4</key>
+<string>rigid class structure</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Feudal societies such as those found in Europe during the Middle Ages and in Japan prior to the Meiji Resoration, are dominated by rigid class systems in which the landed nobility controled the daily lives of those living on their property in exchange for providing protection for them.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The diagram illustrates the social structure of feudal Japan.</string>
+<key>ans1</key>
+<string>a classless society</string>
+<key>ans2</key>
+<string>a growing middle class</string>
+<key>ans3</key>
+<string>high social mobility</string>
+<key>ans4</key>
+<string>a well-defined class system</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Feudal Japan had a rigid class system enforced by ties of loyalty between the shogun, samurai, and peasants.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>A valid generalization about early Japanese culture is that Japan</string>
+<key>ans1</key>
+<string>had a strong influence on the development of culture in Korea</string>
+<key>ans2</key>
+<string>spread Shinto throughout Asia</string>
+<key>ans3</key>
+<string>maintained a uniquely individual culture while borrowing much from other cultures</string>
+<key>ans4</key>
+<string>imported almost all of its cultural ideas from China, resulting in nearly identical cultures</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Early Japan culture borrowed heavily from both China and Korea, with Korea often acting as a bridge between the two. However, Japan blended these ideas with their own original traditions to create their unique culture.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The Mongols played a significant role in Russian history by</string>
+<key>ans1</key>
+<string>supporting Czar Nicholas II during the Russian Revolution</string>
+<key>ans2</key>
+<string>supporting the rule of Ivan the Terrible</string>
+<key>ans3</key>
+<string>ending the reign of Catherine the Great</string>
+<key>ans4</key>
+<string>isolating Russia from Western Europe during the early Renaissance</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Mongols controlled Russia from the early 1200’s until 1480, during which time Russian contact with Europe was limited.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>In Europe, a major characteristic of humanism was</string>
+<key>ans1</key>
+<string>a belief in the supremacy of the state in relation to individual rights</string>
+<key>ans2</key>
+<string>a rejection of ancient civilizations and their cultures</string>
+<key>ans3</key>
+<string>an emphasis on social control and obedience to national rulers</string>
+<key>ans4</key>
+<string>an appreciation for the basic worth of individual achievement</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Humanism emphasizes the dignity and worth of the individual. This philosophy caused many in Europe to strive for personal excellence during the Renaissance. Its influence can be seen in the work of Leonardo Da Vinci and many others of the period.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which statement best describes a characteristic of the Renaissance in Europe?</string>
+<key>ans1</key>
+<string>the social structure became very rigid</string>
+<key>ans2</key>
+<string>creativity in the arts was encouraged</string>
+<key>ans3</key>
+<string>the political structure was similar to that of the Roman Empire</string>
+<key>ans4</key>
+<string>humanism decreased in importance</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The philosophy of humanism became very popular during the Renaissance and resulted in individual expression by some of the greatest European artists of all time including Leonardo da Vinci and Michelangelo.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>“Europe is waking out of a long, deep sleep…time was when learning was only found in the religious orders…learning has passed to secular princes and peers.” </string>
+<key>ans1</key>
+<string>Renaissance</string>
+<key>ans2</key>
+<string>decline of the Roman Empire</string>
+<key>ans3</key>
+<string>Crusades</string>
+<key>ans4</key>
+<string>rise of Christianity</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The term “renaissance” is used to describe the cultural rebirth of Europe after the Dark Ages.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which was a major characteristic of the Renaissance?</string>
+<key>ans1</key>
+<string>conformity</string>
+<key>ans2</key>
+<string>humanism</string>
+<key>ans3</key>
+<string>mysticism</string>
+<key>ans4</key>
+<string>obedience</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The philosophy of humanism became very popular during the Renaissance and resulted in individual expression by some of the greatest European artists of all time including Leonardo da Vinci and Michelangelo.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which statement describes a direct effect of the Renaissance on Western Europe?</string>
+<key>ans1</key>
+<string>the philosophy of humanism brought about a decrease in the power of the Roman Catholic Church</string>
+<key>ans2</key>
+<string>art began to reflect an increased emphasis on religious themes</string>
+<key>ans3</key>
+<string>nationalistic movements among the minority ethnic groups in the region declines</string>
+<key>ans4</key>
+<string>the feudal system was developed to provide stability in a decentralized political structure</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The popularity of the philosophy of Humanism, or the emphasis on individuality, caused many to question traditional authority during the Renaissance. Of course, the most traditional source of authority at this time in Europe was the Catholic Church, which had engaged in practices that many found distasteful such as the selling of indulgences.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The Renaissance and the Protestant Reformation were similar in that both were</string>
+<key>ans1</key>
+<string>stimulated by a spirit of inquiry</string>
+<key>ans2</key>
+<string>supported by the working class</string>
+<key>ans3</key>
+<string>limited to Italy, France, and Germany</string>
+<key>ans4</key>
+<string>encouraged by the successes of the French Revolution</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Thinkers during both the Renaissance and the Protestant Reformation refused to accept Church teachings as the only truth and instead sought answers based on their own observations and interpretations of the world around them.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which statement best describes a change that occurred during both the Renaissance and the Enlightenment?</string>
+<key>ans1</key>
+<string>feudalism became the dominant political system</string>
+<key>ans2</key>
+<string>the use of reason and logic were discouraged</string>
+<key>ans3</key>
+<string>technology and science were considered unimportant</string>
+<key>ans4</key>
+<string>a new questioning spirit and attitude emerged</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Thinkers during both the Renaissance and the Enlightenment questioned tradition and sought answers based on their own observations and interpretations of the world around them.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>One factor that enabled the Renaissance to flourish in Northern Italy was that the region had</string>
+<key>ans1</key>
+<string>a wealthy class that invested in the arts</string>
+<key>ans2</key>
+<string>a socialist for of government</string>
+<key>ans3</key>
+<string>limited contact with the Byzantine Empire</string>
+<key>ans4</key>
+<string>a shrinking middle class</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Wealthy families, such as the Medici, in Northern Italy invested in the arts and hired world-class artists such as Michelangelo and Botticelli, thus encouraging the movement toward individual expression embodied by Humanism.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>European society during the Renaissance differed from European society during the Middle Ages in that during the Renaissance</string>
+<key>ans1</key>
+<string>the Church was no longer influential</string>
+<key>ans2</key>
+<string>the emphasis on individual worth increased</string>
+<key>ans3</key>
+<string>economic activity declined</string>
+<key>ans4</key>
+<string>art no longer contained religious themes</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The philosophy of humanism became very popular during the Renaissance and resulted in the increase of individual worth which was expressed by some of the greatest European artists of all time including Leonardo da Vinci and Michelangelo.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which societal condition was basic to the development of Greek philosophy and Renaissance art?</string>
+<key>ans1</key>
+<string>rigid social classes</string>
+<key>ans2</key>
+<string>emphasis on individualism</string>
+<key>ans3</key>
+<string>religious uniformity</string>
+<key>ans4</key>
+<string>mass education</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: An emphasis on individuality was critical to the development of education and philosophy in Ancient Greece as well as promoting the works of Renaissance artists such as Leonardo da Vinci and Michelangelo.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The humanists of the Renaissance differed from the traditional medieval philosophers in the humanists’</string>
+<key>ans1</key>
+<string>interest in the spiritual life of people</string>
+<key>ans2</key>
+<string>lack of interest in Ancient Greek and Roman culture</string>
+<key>ans3</key>
+<string>rejection of Christian principles</string>
+<key>ans4</key>
+<string>emphasis on the importance of the individual</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Medieval European philosophers were concerned with spiritual matters while humanists placed an emphasis on individual worth.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which characteristic was common to the Golden Age of Greece and the Italian Renaissance?</string>
+<key>ans1</key>
+<string>a strong military led to national unity</string>
+<key>ans2</key>
+<string>written constitutions led to the establishment of democratic governments</string>
+<key>ans3</key>
+<string>prosperity led to the creation of many works of art</string>
+<key>ans4</key>
+<string>political instability led directly to the formation of unified nation-states</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: During the Golden Age of Greece and the Italian Renaissance, increased wealth allowed patrons to pay artists to produce great works of art.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which idea about leadership would Niccolo Machiavelli most likely support?</string>
+<key>ans1</key>
+<string>leaders should do whatever is necessary to achieve their goals</string>
+<key>ans2</key>
+<string>leaders should fight against discrimination and intolerance</string>
+<key>ans3</key>
+<string>leaders should listen to the desires of the people</string>
+<key>ans4</key>
+<string>elected leaders should be fair and good</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: In his book The Prince, Machiavelli urged leaders not to trust their subjects, and to be ruthless in achieving their goals.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>In the Renaissance period, which factor was emphasized by the philosophy of humanism?</string>
+<key>ans1</key>
+<string>superiority of medieval thought</string>
+<key>ans2</key>
+<string>devotion to religion</string>
+<key>ans3</key>
+<string>value of the individual</string>
+<key>ans4</key>
+<string>obedience to government officials</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Humanism emphasizes the dignity and worth of the individual. This philosophy caused many in Europe to strive for personal excellence during the Renaissance.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which statement concerning the Renaissance in Europe is based on opinion rather than on fact?</string>
+<key>ans1</key>
+<string>Literature began to appear in languages other than Latin.</string>
+<key>ans2</key>
+<string>The art of the Northern Renaissance was superior to that of the Italian Renaissance.</string>
+<key>ans3</key>
+<string>Art reflected the ideas of humanism and individualism.</string>
+<key>ans4</key>
+<string>Art produced during the Renaissance had religious as well as secular themes.</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: During the Renaissance literature began to appear in the vernacular, or common languages, and art began to reflect the ideas of humanism and the individual. However, traditional religious themes were still prevalent.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Martin Luther’s Ninety-Five Theses were a call for</string>
+<key>ans1</key>
+<string>religious revolt against the German princes</string>
+<key>ans2</key>
+<string>reforms within the Roman Catholic Church</string>
+<key>ans3</key>
+<string>greater papal authority</string>
+<key>ans4</key>
+<string>crusades to spread Christianity</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: In 1517, Martin Luther published his 95 Theses, or statements, in Germany. Luther wrote the 95 Theses in opposition to the sale of indulgences being conducted by the Catholic Church in order to finance the Building of St. Peter’s Basilica in Rome.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>In Western Europe, a major immediate effect of the Reformation was a</string>
+<key>ans1</key>
+<string>renewed domination of the Catholic Church over the German states</string>
+<key>ans2</key>
+<string>greater tolerance of religions other than Christianity</string>
+<key>ans3</key>
+<string>decrease in educational opportunities for the middle class</string>
+<key>ans4</key>
+<string>decline in religious unity and in the power of the Catholic Church</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Protestant Reformation resulted in the formation of many new Christian denominations that disagreed with the teachings of the Catholic Church. These included the Lutherans, Calvinists, Anglicans, and many others.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>During the Renaissance, which development contributed most to the Protestant Reformation?</string>
+<key>ans1</key>
+<string>interest in Ancient Greece and Rome</string>
+<key>ans2</key>
+<string>advances in mathematics and science</string>
+<key>ans3</key>
+<string>questioning of traditional authority</string>
+<key>ans4</key>
+<string>attention to realism and detail</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: The popularity of the philosophy of Humanism, or the emphasis on individuality, caused many to question traditional authority during the Renaissance. Of course, the most traditional source of authority at this time in Europe was the Catholic Church, which had engaged in practices that many found distasteful such as the selling of indulgences.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which was a result of the Protestant Reformation in Europe?</string>
+<key>ans1</key>
+<string>the Catholic Church accepted the dominance of the new Protestant religions in Italy, France, and Germany</string>
+<key>ans2</key>
+<string>Spain became a predominately Protestant nation</string>
+<key>ans3</key>
+<string>Catholic Church leaders refused to make any changes in church practices</string>
+<key>ans4</key>
+<string>the power of the Catholic Church in Europe was weakened</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Protestant Reformation resulted in the formation of many new Christian denominations that disagreed with the teachings of the Catholic Church. These included the Lutherans, Calvinists, Anglicans, and many others which weakened the power of the Church by simply offering an alternative to it.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which was a major result of the Reformation?</string>
+<key>ans1</key>
+<string>new Christian denominations emerged</string>
+<key>ans2</key>
+<string>religious teachings were no longer allowed in the universities</string>
+<key>ans3</key>
+<string>the Crusades were organized</string>
+<key>ans4</key>
+<string>the power of the Pope was strengthened</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The Protestant Reformation resulted in the formation of many new Christian denominations that disagreed with the teachings of the Catholic Church. These included the Lutherans, Calvinists, Anglicans, and many others.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which factor helped most to bring about the Protestant Reformation?</string>
+<key>ans1</key>
+<string>the Catholic clergy had lost faith in their religion</string>
+<key>ans2</key>
+<string>Islam was attracting many converts in Western Europe</string>
+<key>ans3</key>
+<string>kings and princes in Northern Europe resented the power of the Catholic Church</string>
+<key>ans4</key>
+<string>the exploration of the Americas led to the introduction of new religious ideas</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: In addition to disagreement over the practices of the Catholic Church, such as the selling of indulgences, many members of royalty in Northern Europe were resentful of the vast lands owned by the Church, as well as the tithe demanded annually which only seemed to benefit far-off Rome.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The Protestant Reformation and the European Renaissance were similar in that both</string>
+<key>ans1</key>
+<string>discouraged the growth of strong monarchs</string>
+<key>ans2</key>
+<string>encouraged people to question tradition</string>
+<key>ans3</key>
+<string>were led by the military</string>
+<key>ans4</key>
+<string>supported the return of the Roman Empire</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The popularity of the philosophy of Humanism, or the emphasis on individuality, caused many to question traditional authority during the Renaissance. Of course, the most traditional source of authority at this time in Europe was the Catholic Church, which had engaged in practices that many found distasteful such as the selling of indulgences.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The Protestant Reformation represents a turning point in European history because it</string>
+<key>ans1</key>
+<string>allowed religious reformers to escape persecution</string>
+<key>ans2</key>
+<string>standardized all religious writings</string>
+<key>ans3</key>
+<string>ended religious unity in Western Europe</string>
+<key>ans4</key>
+<string>forced most of Europe’s monarchs to become Protestants</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: The Protestant Reformation resulted in the formation of many new Christian denominations that disagreed with the teachings of the Catholic Church. These included the Lutherans, Calvinists, Anglicans, and many others which weakened the power of the Church by simply offering an alternative to it.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>“Christians should be taught that he who gives to a poor man or lends to a needy man does better than if he used the money to buy an indulgence.”  Which major movement in European history started with the idea expressed in this statement?</string>
+<key>ans1</key>
+<string>Commercial Revolution</string>
+<key>ans2</key>
+<string>Industrial Revolution</string>
+<key>ans3</key>
+<string>Renaissance</string>
+<key>ans4</key>
+<string>Protestant Reformation</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: In 1517, Martin Luther published his 95 Theses, or statements, in Germany. Luther wrote the 95 Theses in opposition to the sale of indulgences being conducted by the Catholic Church in order to finance the Building of St. Peter’s Basilica in Rome.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The Renaissance and the Protestant Reformation were similar in that both were</string>
+<key>ans1</key>
+<string>stimulated by a spirit of inquiry</string>
+<key>ans2</key>
+<string>supported by the working class</string>
+<key>ans3</key>
+<string>limited to Italy, France, and Germany</string>
+<key>ans4</key>
+<string>encouraged by the successes of the French Revolution</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Thinkers during both the Renaissance and the Protestant Reformation refused to accept Church teachings as the only truth and instead sought answers based on their own observations and interpretations of the world around them.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>One major influence the Renaissance had on the Protestant Reformation was that the philosophers of the Renaissance</string>
+<key>ans1</key>
+<string>supported democratic forms of government</string>
+<key>ans2</key>
+<string>encouraged a questioning attitude</string>
+<key>ans3</key>
+<string>stressed the importance of life after death</string>
+<key>ans4</key>
+<string>denied the existence of God</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Thinkers during both the Renaissance and the Protestant Reformation refused to accept Church teachings as the only truth and instead sought answers based on their own observations and interpretations of the world around them.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>“Unless I am convinced by Scripture and plain reason... my conscience is captive to the Word of God. I cannot and I will hot recant anything, for to go against conscience is neither right nor safe. Here I stand, I cannot do otherwise.” —Martin Luther, Diet of Worms (1517)  When Martin Luther said “my conscience is captive to the Word of God,” he was referring to his belief in</string>
+<key>ans1</key>
+<string>the supremacy of the Bible over Church policies</string>
+<key>ans2</key>
+<string>imprisoning those who disagreed with Church teachings</string>
+<key>ans3</key>
+<string>maintaining the unity of the Church</string>
+<key>ans4</key>
+<string>the need for nepotism</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: In 1517, Martin Luther published his 95 Theses, or statements, in Germany. Luther wrote the 95 Theses in opposition to the sale of indulgences being conducted by the Catholic Church in order to finance the Building of St. Peter’s Basilica in Rome. He also disagreed with the Church over theology. Luther preached that the true word of God came from the Bible, not from the Church.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Martin Luther’s posting of the Ninety-Five Theses is considered by many to be a turning point in history because </string>
+<key>ans1</key>
+<string>the Pope’s right to sell indulgences was strengthened</string>
+<key>ans2</key>
+<string>Luther soon became the leader of Germany</string>
+<key>ans3</key>
+<string>the power of the Roman Catholic Church was lessened and royal power grew</string>
+<key>ans4</key>
+<string>the Roman Catholic Church unified the German states</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: In addition to disagreement over the practices of the Catholic Church, such as the selling of indulgences, many members of royalty in Northern Europe were resentful of the vast lands owned by the Church, as well as the tithe demanded annually which only seemed to benefit far-off Rome.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>In Spain, an effect of the Inquisition during the 16th century was to</string>
+<key>ans1</key>
+<string>prevent the introduction of Protestant religions</string>
+<key>ans2</key>
+<string>reintroduce Moorish culture to the Iberian Peninsula</string>
+<key>ans3</key>
+<string>encourage the development of the Industrial Revolution</string>
+<key>ans4</key>
+<string>implement the ideas of the Renaissance in major cities</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Spain and the Catholic Church used the Inquisition, or Church Courts, to try, convict, and execute many Protestants for heresy. This eventually led to witch hunts and widespread anti-Semitism. Thousands of people died as a result and the spread of Protestantism was halted.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>In Latin America, the Maya and the Aztec civilizations were similar in that they</string>
+<key>ans1</key>
+<string>showed little evidence of urbanization</string>
+<key>ans2</key>
+<string>lacked a strong central government</string>
+<key>ans3</key>
+<string>developed complex mathematical and calendar systems</string>
+<key>ans4</key>
+<string>used military weapons superior to those of Europeans</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Among the many technological achievements of the Maya and Aztec, are their use of the mathematical concept of zero, and development of a 365-day calendar.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>A study of Mayas, Aztecs, and Incas would show that these ancient American civilizations</string>
+<key>ans1</key>
+<string>produced few cultural achievements</string>
+<key>ans2</key>
+<string>lived at peace with their neighbors</string>
+<key>ans3</key>
+<string>welcomed the new technology brought by European explorers</string>
+<key>ans4</key>
+<string>rivaled the accomplishments of early Middle Eastern cultures</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: These Latin America civilizations boasted incredible achievements in technology and the arts. The massive structures built by these people are testament to their ability and determination. All told, their accomplishments are on par with those of the early civilizations located in Egypt and the Fertile Crescent.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>A study of the Maya, Aztec, and Inca civilizations of Latin America would show that these civilizations</string>
+<key>ans1</key>
+<string>developed advanced and complex societies before the arrival of the Europeans</string>
+<key>ans2</key>
+<string>established extensive trade with Pacific Rim nations</string>
+<key>ans3</key>
+<string>were strongly influenced by their contact with Asian and African civilizations</string>
+<key>ans4</key>
+<string>were relatively large, but not well organized</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: These Latin America civilizations boasted incredible achievements in technology and the arts. The massive structures built by these people are testament to their ability and determination. All told, their accomplishments are on par with those of the early civilizations located in Egypt and the Fertile Crescent. Despite these accomplishments, these civilizations were conquered by Europeans in the 1500's.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which was a result of the Commercial Revolution</string>
+<key>ans1</key>
+<string>decline in population growth in Europe</string>
+<key>ans2</key>
+<string>shift of power from Western Europe to Eastern Europe</string>
+<key>ans3</key>
+<string>spread of feudalism throughout Western Europe</string>
+<key>ans4</key>
+<string>expansion of European influence overseas</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Commercial Revolution gave rise to the joint-stock company which allowed for the funding of many voyages from Europe to discover riches and establish trade routes. These voyages eventually resulted in the establishment of European colonies in areas around the world.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which was an immediate result of the European Age of Exploration?</string>
+<key>ans1</key>
+<string>Islamic culture spread across Africa and Asia</string>
+<key>ans2</key>
+<string>European influence spread to the Western hemisphere</string>
+<key>ans3</key>
+<string>independence movements developed in Asia and Africa</string>
+<key>ans4</key>
+<string>military dictatorships were established throughout Europe</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Immediately after the discovery of the North and South American continents by European explorers, conquistadors and settlers were sent to claim land and goods for European countries. In doing so, European languages, customs, and religious practices were introduced as well.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>A major result of the Age of Exploration was</string>
+<key>ans1</key>
+<string>a long period of peace and prosperity for the nations of Western Europe</string>
+<key>ans2</key>
+<string>extensive migration of people from the Western Hemisphere to Europe and Asia</string>
+<key>ans3</key>
+<string>the fall of European national monarchies and the end of the power of the Catholic Church</string>
+<key>ans4</key>
+<string>the end of regional isolation and the beginning of a period of European global domination</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Prior to the Age of Exploration, contact between cultures around the world mainly centered on trade. During the Age of Exploration, whole populations of people migrated to different areas of the world and exchanges between different regions began to occur much more frequently and regularly.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The Commercial Revolution in Western Europe led directly to the</string>
+<key>ans1</key>
+<string>development of a socialist economy</string>
+<key>ans2</key>
+<string>establishment of the Guild System</string>
+<key>ans3</key>
+<string>weakening of the power of the middle class</string>
+<key>ans4</key>
+<string>expansion of world trade</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Commercial Revolution in Europe began when new forms of business organization, such as the joint-stock company, were used which led to a great increase in global commerce.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which system developed as a result of the Commercial Revolution</string>
+<key>ans1</key>
+<string>manorialism</string>
+<key>ans2</key>
+<string>communism</string>
+<key>ans3</key>
+<string>bartering</string>
+<key>ans4</key>
+<string>market economy</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Commercial Revolution in Europe began when new forms of business organization, such as the joint-stock company, were used which led to a great increase in global commerce. This in turn led to the development of a market economy, or capitalism, in Europe.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which of these events during the Age of Exploration was a cause of the other three?</string>
+<key>ans1</key>
+<string>Europeans brought food, animals, and ideas from one continent to another</string>
+<key>ans2</key>
+<string>European diseases had an adverse effect on the native populations of new territories</string>
+<key>ans3</key>
+<string>warfare increased as European nations competed for land and power</string>
+<key>ans4</key>
+<string>advances in learning and technology made long ocean voyages possible</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Before the Age of Exploration could occur, advances in cartography and sailing technology, such as the compass and moveable rudder, needed to be made or adopted.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The Native American population of Mexico in 1492 has been estimated at 25 million; the population in 1608 has been estimated at 1.7 million. This decrease in population was mainly a result of</string>
+<key>ans1</key>
+<string>crop failures brought on by poor weather conditions</string>
+<key>ans2</key>
+<string>emigration of Native Americans to Europe and Africa</string>
+<key>ans3</key>
+<string>wars between various native groups</string>
+<key>ans4</key>
+<string>diseases introduced by the Spanish</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Diseases brought by Europeans to the Americas were the leading cause of death among native peoples. Native Americans had not developed immunities to common European illnesses due to their regional isolation.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>In Latin America during the early period of Spanish colonialism, the deaths of large numbers of the native people led to</string>
+<key>ans1</key>
+<string>a decline in Spanish immigration to the Americas</string>
+<key>ans2</key>
+<string>the removal of most Spanish troops from the Americas</string>
+<key>ans3</key>
+<string>the importation of slaves from Africa</string>
+<key>ans4</key>
+<string>improved health care in the colonies</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: When Native American proved to be an unsuitable labor force for Spanish colonies, Europeans began importing African slaves to meet this demand.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Both Japan and China decided to limit trade with Europe during much of the 16th and 17th centuries because the Japanese and the Chinese</string>
+<key>ans1</key>
+<string>had few products to sell to the Europeans</string>
+<key>ans2</key>
+<string>held religious beliefs that prohibited contact with foreigners</string>
+<key>ans3</key>
+<string>thought European technology would hinder any effort to modernize</string>
+<key>ans4</key>
+<string>believed they would receive no benefit from increased contact with the Europeans</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: During the 1500’s and 1600’s, both the Chinese and Japanese felt that they were culturally superior to Europeans and therefore isolated themselves from contact with them.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>One reason the Spanish conquistadors were able to conquer the Aztec and Inca Empires rapid is that</string>
+<key>ans1</key>
+<string>these empires had no standing armies</string>
+<key>ans2</key>
+<string>the Spanish had better weapons than the Aztecs and Incas did</string>
+<key>ans3</key>
+<string>the Spanish greatly outnumbered the Aztecs and Incas</string>
+<key>ans4</key>
+<string>the Aztecs and Incas joined together to fight the Spanish</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The Spanish had a greater mastery of metallurgy that used to make weapons such as cannons and defensive items such as armor and helmets.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which conclusion can be drawn from a study of the early civilizations of Axum, Kush, Mali and Songhai?</string>
+<key>ans1</key>
+<string>these African societies flourished at the same time</string>
+<key>ans2</key>
+<string>farming was more extensive in the Nile River Valley than it was in the Fertile Crescent</string>
+<key>ans3</key>
+<string>the Neolithic Revolution occurred in Africa</string>
+<key>ans4</key>
+<string>these societies had a long and rich history before their first contact with Europeans</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Each of these ancient African civilizations predate contact with Europeans during the Age of Exploration, proving that Africa had sophisticated civilizations develop without European influence.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which was a characteristic of the policy of mercantilism followed by Spanish colonial rulers in Latin America?</string>
+<key>ans1</key>
+<string>the colonies were forced to develop local industries to support themselves</string>
+<key>ans2</key>
+<string>Spain sought trade agreements between its colonies and the English colonies in North America</string>
+<key>ans3</key>
+<string>the colonies were required to provide raw materials to Spain and to purchase Spanish manufactured goods</string>
+<key>ans4</key>
+<string>Spain encouraged the colonies to develop new political systems to meet colonial needs</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: During the Age of Exploration, Spain instituted a mercantilist foreign policy in which a favorable balance of trade with its colonies was achieved by sending raw materials to the mother country, and exporting finished products to sell back in the colonies.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which statement best describes a result of the scarcity of native Indian labor in Latin America during the colonial period?</string>
+<key>ans1</key>
+<string>unskilled laborers were imported from Asia</string>
+<key>ans2</key>
+<string>many people from Spain and Portugal immigrated to the region</string>
+<key>ans3</key>
+<string>Native American Indians from the British colonies went south to work</string>
+<key>ans4</key>
+<string>large numbers of African slaves were imported</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Because Native Americans proved to be an undependable source of labor for Latin American colonies, the slave trade began bringing Africans to the Americas as slaves.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The influence of African culture on some areas of Latin America was largely a result of the</string>
+<key>ans1</key>
+<string>American Revolution</string>
+<key>ans2</key>
+<string>building of the Panama Canal</string>
+<key>ans3</key>
+<string>success of Communist Revolutions</string>
+<key>ans4</key>
+<string>Atlantic slave trade</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Cultural diffusion occurred when Africans were brought to the Americas during the Slave Trade.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>In many Latin American nations, a major effect of colonial rule has been the</string>
+<key>ans1</key>
+<string>concentration of power in a small group of landowners</string>
+<key>ans2</key>
+<string>minor political role of the military</string>
+<key>ans3</key>
+<string>equal distribution of wealth among social classes</string>
+<key>ans4</key>
+<string>economic control held by the Indian population</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: When Latin American colonies gained their independence from Spain and Portugal, political power was most often transferred from Peninsulares to Creoles.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Spain’s colonial policy of mercantilism affected the development of Latin American nations by promoting</string>
+<key>ans1</key>
+<string>the production of raw material and cash crops</string>
+<key>ans2</key>
+<string>free and rapid trade with Asia and Africa</string>
+<key>ans3</key>
+<string>respect for the rights of indigenous people</string>
+<key>ans4</key>
+<string>isolationism as a response to international political issues</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: During the Age of Exploration, Spain instituted a mercantilist foreign policy in which a favorable balance of trade with its colonies was achieved by sending raw materials and cash crops to the mother country, and exporting finished products to sell back in the colonies.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>One result of the European conquest of Latin America was that in Latin America</string>
+<key>ans1</key>
+<string>Spanish became the major spoken language</string>
+<key>ans2</key>
+<string>Native American cultures flourished</string>
+<key>ans3</key>
+<string>the Aztec religion spread</string>
+<key>ans4</key>
+<string>many parliamentary democracies were established</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The vast majority of Latin America was colonized by Spain, therefore Spanish became the dominant language spoken there.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>In colonial Latin America, the main purpose of the encomienda system was to</string>
+<key>ans1</key>
+<string>insure that the Indians were humanely treated</string>
+<key>ans2</key>
+<string>provide a steady labor supply for early colonists</string>
+<key>ans3</key>
+<string>prevent slaver in Spain’s New World colonies</string>
+<key>ans4</key>
+<string>build and maintain forts to repel foreign invaders</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The encomienda system forced Native Americans to perform agricultural and mining work in Latin American colonies.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>According to the theory of mercantilism, colonies should be</string>
+<key>ans1</key>
+<string>acquired as markets and sources of raw materials</string>
+<key>ans2</key>
+<string>considered an economic burden for the colonial power</string>
+<key>ans3</key>
+<string>grated independence as soon as possible</string>
+<key>ans4</key>
+<string>encouraged to develop their own industries</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: During the Age of Exploration, Spain instituted a mercantilist foreign policy in which a favorable balance of trade with its colonies was achieved by sending raw materials and cash crops to the mother country, and exporting finished products to sell back in the colonies.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>“He once sent fifty horsemen with pikes (spears) to destroy an entire province. Not a single human being survived that massacre, neither women nor children nor aged infirm…This terrible massacre was punishment for a trifling offense: some Indians had not responded to a summons promptly enough when the tyrant had commanded that they bring him a load of maize (corn)…, or else had asked for more Indians to be assigned to serve him or his comrades. And there was no place where the Indians could take refuge…”  The purpose of the author was most likely to</string>
+<key>ans1</key>
+<string>encourage the colonial government to change its policies toward native peoples</string>
+<key>ans2</key>
+<string>explain the problems associated with using native laborers</string>
+<key>ans3</key>
+<string>justify the need for the harsh treatment of the native people</string>
+<key>ans4</key>
+<string>show support for the governor’s policy toward native peoples</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: During the colonial period in the Americas, Native Americans were often mistreated by Europeans.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The Treaty of Tordesillas (1494), concerning Latin America, and the Berlin Conference (1884-1885), concerning Africa, were similar in that each agreement</string>
+<key>ans1</key>
+<string>provided for self-government by the native peoples</string>
+<key>ans2</key>
+<string>declared that in these areas monarchs rule by divine right</string>
+<key>ans3</key>
+<string>divided each area into European-controlled segments</string>
+<key>ans4</key>
+<string>suppressed revolts by native peoples against European imperialists</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: The Treaty of Tordesillas divided Latin America between the Spanish and Portuguese, while, the Berlin Conference carved Africa into colonies controlled by many different European nations.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>Which statement best illustrates the contradictory actions of the Catholic Church in colonial Latin America?</string>
+<key>ans1</key>
+<string>the Jesuits destroyed the temples of the Native Americans, but allowed them to continue their religious rituals</string>
+<key>ans2</key>
+<string>the Church expressed concern over the mistreatment of Native Americans, but supported the encomienda system</string>
+<key>ans3</key>
+<string>the Church moved many Native Americas from Spanish territory to Portuguese territory, but encouraged the importation of African slaves</string>
+<key>ans4</key>
+<string>the Pope endorsed the Treaty of Tordesillas, but outlawed further exploration</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: During the colonial period in the Americas, Native Americans were often mistreated by Europeans. An example of this is the encomienda system, which forced Native Americans to perform agricultural and mining work in Latin American colonies.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The Crusades indirectly contributed to the discovery of the New World by</string>
+<key>ans1</key>
+<string>forcing the religious conversion of the Muslim population</string>
+<key>ans2</key>
+<string>forcing the Turks to flee from Constantinople</string>
+<key>ans3</key>
+<string>stimulating European demand for goods from the East</string>
+<key>ans4</key>
+<string>increasing the power of the feudal lords</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: As Crusaders brought back spices and other goods from the encounter in the Middle East, demand for these products in Europe increased. This led to the Europeans searching for a water route to Asia, and the subsequent discovery of the New World.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>In the 1600’s, the interest of Europeans in Africa was based mainly on Europe’s need to</string>
+<key>ans1</key>
+<string>market its surplus agricultural products</string>
+<key>ans2</key>
+<string>obtain workers for its colonies in the Americas</string>
+<key>ans3</key>
+<string>establish collective security arrangements</string>
+<key>ans4</key>
+<string>settle its surplus population on new lands</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: When Native American proved to be an unsuitable labor force for Spanish colonies, Europeans began importing African slaves to meet this demand.</string>
+</dict>
+<dict><key>category</key><string>globalinteractions</string>
+<key>question</key>
+<string>The printing press, the astrolabe, and the Mercator projection were technological advances that contributed to the</string>
+<key>ans1</key>
+<string>exploration and overseas expansion of the colonial empires</string>
+<key>ans2</key>
+<string>unification of Germany and Italy in the late 1800’s</string>
+<key>ans3</key>
+<string>growth of industry in Latin America during the late 1900’s</string>
+<key>ans4</key>
+<string>spread of Islam in the 700’s and 800’s</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The printing press helped spread ideas and information, such as maps. The astrolabe and the Mercator projection were tools explorers used to navigate the oceans more accurately.</string>
+</dict>

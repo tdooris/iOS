@@ -74,7 +74,7 @@
     
     if (self.quiz.quizCount >= self.quizIndex + 1) {
         [self.quiz nextQuestion:self.quizIndex];
-        self.questionLabel.text = self.quiz.quote;
+        self.questionLabel.text = self.quiz.question;
         self.answer1Label.text = self.quiz.ans1;
         self.answer2Label.text = self.quiz.ans2;
         self.answer3Label.text = self.quiz.ans3;

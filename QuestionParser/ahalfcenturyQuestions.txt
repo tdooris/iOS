@@ -1,0 +1,720 @@
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>In 1917, Bolshevik leaders in Russia sought peace with Germany because the new Russian government</string>
+<key>ans1</key>
+<string>decided to join forces with Germany and the Central Powers</string>
+<key>ans2</key>
+<string>needed to concentrate its troops and resources on its war with Turkey</string>
+<key>ans3</key>
+<string>wanted to retain power and avoid German occupation</string>
+<key>ans4</key>
+<string>needed to control the Baltic Sea and wanted a warm water port</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: V.I. Lenin ended Russian involvement in World War in March of 1918 when he signed the Treaty of Brest-Litovsk. This cost Russia a large amount of land, but allowed Lenin to focus on gaining control of his newly won country.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>In Eastern Europe after World War I, the greatest obstacle to national unity in many nation-states was the</string>
+<key>ans1</key>
+<string>great ethnic diversity found in the region</string>
+<key>ans2</key>
+<string>economic dependence of Eastern Europe on Japan</string>
+<key>ans3</key>
+<string>acceptance of democratic traditions by most Eastern Europeans</string>
+<key>ans4</key>
+<string>expansion of United States influence in the region</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: The collapse of the Austro-Hungarian Empire and the Ottoman empire left many regions in turmoil. Newly formed countries, such as Czechoslovakia and Yugoslavia were multinational, which led to infighting and ethnic violence.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which statement best describes the relationship between World War I and the Russian Revolution?</string>
+<key>ans1</key>
+<string>World War I created conditions within Russia that helped trigger a revolution</string>
+<key>ans2</key>
+<string>World War I postponed the Russian Revolution by restoring confidence in the Czar</string>
+<key>ans3</key>
+<string>the Russian Revolution inspired the Russian people to win World War I</string>
+<key>ans4</key>
+<string>World War I gave the Czar’s army the needed experience to suppress the Russian Revolution</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Russia’s involvement in World War One led to a series of military defeats as the Russian army was ill-equipped to deal with modern battle conditions. Russia also experienced a severe food shortage due to the war, which in turn led to riots and the eventual abdication of Czar Nicholas II in March of 1917. These events set the conditions for the Russian Revolution.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>A major cause of World War I was</string>
+<key>ans1</key>
+<string>a decline in the policy of imperialism</string>
+<key>ans2</key>
+<string>the existence of opposing alliances</string>
+<key>ans3</key>
+<string>an increase in acts of aggression by England</string>
+<key>ans4</key>
+<string>the spread of communism throughout Europe</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The four main cause of World War One are the Alliance System, Imperialism, Nationalism, and Militarism.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Why was the Balkan region referred to as the “Powder Keg of Europe” prior to World War I?</string>
+<key>ans1</key>
+<string>The aggression of the Ottoman Empire was disrupting the balance of power.</string>
+<key>ans2</key>
+<string>Yugoslavia was invading its neighboring countries.</string>
+<key>ans3</key>
+<string>Nationalistic and imperialistic rivalries were increasing.</string>
+<key>ans4</key>
+<string>The area was the leading supplier of military equipment to the rest of the world.</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Tensions were caused by the multinational conflict between the Slavic peoples of the Balkan region, who had Russian support, the weakening Ottoman Empire, and the Austro-Hungarian Empire. All tried to control this region and limit each other's expansionist ideas. These tensions would ultimately lead to the start of World War One.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>The major impact of the Treaty of Versailles on Germany was that the treaty led to</string>
+<key>ans1</key>
+<string>an era of peace and international good will in Germany</string>
+<key>ans2</key>
+<string>a stable Germany that was both democratic and strong</string>
+<key>ans3</key>
+<string>an increase in Germany’s desire to regain its power and prestige</string>
+<key>ans4</key>
+<string>a leadership position for Germany in the League of Nations</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: The Treaty of Versailles was a humiliating end of the war for Germany. The treaty contained unrealistic monetary reparations, large territorial losses, and most importantly, the "war guilt" clause. The war guilt clause blamed Germany entirely for the war. This in turn led Germany to seek a return to its former status among nations.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which is generally a characteristic of a communist economy?</string>
+<key>ans1</key>
+<string>investment is encouraged by the promise of large profits</string>
+<key>ans2</key>
+<string>the role of government in the economy is restricted by law</string>
+<key>ans3</key>
+<string>government agencies are involved in production planning</string>
+<key>ans4</key>
+<string>entrepreneurs sell shares in their companies to the government</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: A communist, or command economy, controls the means of production by having governmental agencies involved in production planning.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>“A group of planners makes all economic decisions. The group assigns natural, human, and capital resources to the production of those goods and services it wants. The group decides how to produce them and to whom to distribute them.”  This description best applies to the</string>
+<key>ans1</key>
+<string>manorial economy of feudal Europe</string>
+<key>ans2</key>
+<string>mercantile economy of 18th century Europe</string>
+<key>ans3</key>
+<string>command economy of the Soviet Union</string>
+<key>ans4</key>
+<string>market economy of the United States</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: In a command economy, such as that of the communist Soviet Union, the government controls all aspects of production.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which situation resulted from the Russo-Japanese War of 1905?</string>
+<key>ans1</key>
+<string>Japan lost its status as a world power</string>
+<key>ans2</key>
+<string>the Japanese Emperor encouraged reforms in Russia</string>
+<key>ans3</key>
+<string>dissident groups challenged the power of the Russian Czar</string>
+<key>ans4</key>
+<string>Russia gained control of China and Japan</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Russia’s loss to Japan in the Russo-Japanese War (1905) indicated that there was a weakness in the Russian government which led to a series of confrontations between Czar Nicholas II and Russian dissidents.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Stalin’s Five-Year Plans and his decision to form collectives are examples of</string>
+<key>ans1</key>
+<string>strategies to modernize the economy of the Soviet Union through forced communism</string>
+<key>ans2</key>
+<string>a more friendly foreign policy toward China</string>
+<key>ans3</key>
+<string>methods of dealing with the United States during the Cold War</string>
+<key>ans4</key>
+<string>programs to westernize, educate, and enlighten the population</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: In a command economy, such as that of the communist Soviet Union, the government controls all aspects of production.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>A major cause of the Russian Revolution of 1917 was the</string>
+<key>ans1</key>
+<string>defeat of Germany in the Russian campaign</string>
+<key>ans2</key>
+<string>marriage of Czar Nicholas II to a German princess</string>
+<key>ans3</key>
+<string>existence of sharp economic differences between social classes</string>
+<key>ans4</key>
+<string>appeal of Marxism to the Russian nobility</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: A rigid class system existed in Russia which allowed landowning nobles, priests, and the Czar to live well, while the peasant class faced many hardships, including poor working conditions in urban areas, poverty, and constant food shortages.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which is an accurate statement about the Soviet economy under the leadership of Joseph Stalin?</string>
+<key>ans1</key>
+<string>a large selection of consumer goods became available</string>
+<key>ans2</key>
+<string>the Soviet Union increased its industrial output by developing heavy industry</string>
+<key>ans3</key>
+<string>private farmers were encouraged to sell their surplus produce in an open market</string>
+<key>ans4</key>
+<string>the government reduced its role in planning industrial production</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: A communist, or command economy, controls the means of production by having governmental agencies involved in production planning. Stalin used this system to control the Soviet economy and increase production in heavy industry.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>A major effect of Josef Stalin’s policy of Collectivization on Soviet agriculture was</string>
+<key>ans1</key>
+<string>a widespread food shortage throughout the nation</string>
+<key>ans2</key>
+<string>an increase in the export of agricultural products</string>
+<key>ans3</key>
+<string>a surplus of agricultural goods</string>
+<key>ans4</key>
+<string>the immediate creation of many small private farms</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: A communist, or command economy, controls the means of production by having governmental agencies involved in production planning. In the Soviet Union, this system led to widespread food shortages as production goals were seldom met.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>One action taken by both V.I. Lenin and Joseph Stalin was</string>
+<key>ans1</key>
+<string>attempting to bring democracy to Russia</string>
+<key>ans2</key>
+<string>jailing or murdering potential opponents</string>
+<key>ans3</key>
+<string>supporting the Russian Orthodox Church</string>
+<key>ans4</key>
+<string>providing economic aid to Japan after World War I and World War II</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Totalitarian governments often resort to violence and terror as a means to control their country.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>The Russian peasants supported the Bolsheviks in the 1917 Revolutions mainly because the Bolsheviks promised to</string>
+<key>ans1</key>
+<string>establish collective farms</string>
+<key>ans2</key>
+<string>maintain the agricultural price-support system</string>
+<key>ans3</key>
+<string>bring modern technology to Russian farms</string>
+<key>ans4</key>
+<string>redistribute the land owned by the nobility</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Russian peasants lived in poverty and faced constant food shortages due to the lack of land to cultivate. Most of the arable land belonged to the nobility. Redistribution of this land would alleviate many of the peasant's problems.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which statement best describes the political situation in the Soviet Union immediately after Lenin’s death in 1924?</string>
+<key>ans1</key>
+<string>the nation adopted a constitutional monarchy</string>
+<key>ans2</key>
+<string>Trotsky and his followers assumed full control of the Communist Party</string>
+<key>ans3</key>
+<string>popular elections were held to choose a new general secretary</string>
+<key>ans4</key>
+<string>a power struggle developed among Communist Party leaders</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: A power struggle between Joseph Stalin and Leon Trotsky erupted after the death of Lenin. Stalin managed to outmaneuver Trotsky, who was forced out of the Communist Party and into exile. An agent of Stalin later assassinated Trotsky.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>The term that best describes the position of Jews in Czarist Russia is</string>
+<key>ans1</key>
+<string>political elite</string>
+<key>ans2</key>
+<string>persecuted minority</string>
+<key>ans3</key>
+<string>landed gentry</string>
+<key>ans4</key>
+<string>military leaders</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Jews in Czarist Russia suffered under an anti-Semitic regime.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>The 1917 victory of the communists in Russia was a contradiction of Marxist theory because Russia was</string>
+<key>ans1</key>
+<string>already ruled by a socialist government</string>
+<key>ans2</key>
+<string>involved in World War I</string>
+<key>ans3</key>
+<string>mainly an agricultural society</string>
+<key>ans4</key>
+<string>not considered to be a military power</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Marx’s ideas on political revolutions mainly concerned the plight of the poor working class in industrial societies.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Josef Stalin’s leadership of the Soviet Union can best be characterized as a period of</string>
+<key>ans1</key>
+<string>democratic reform and nationalism</string>
+<key>ans2</key>
+<string>humanism and democracy</string>
+<key>ans3</key>
+<string>religious freedom and tolerance</string>
+<key>ans4</key>
+<string>censorship and terror</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Stalin turned the Soviet Union into a totalitarian state. This form of government consist of a one party dictatorship that often rules through terror and violence, while attempting to control all aspects of the lives of the citizens.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>The political reorganization of Russia after the Communist Revolution of 1917 resulted in</string>
+<key>ans1</key>
+<string>the establishment of a two-party political system</string>
+<key>ans2</key>
+<string>increased political power for ethnic minorities</string>
+<key>ans3</key>
+<string>a limited monarchy with the czar as a figurehead</string>
+<key>ans4</key>
+<string>a federation of socialist republics</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: After the Revolution, Lenin and the Communists gained control over much of the old Russian Empire. They renamed this the Union of Soviet Socialist Republics, with Russia, the largest republic, in control. The Soviet Union consisted of diverse peoples throughout both Europe and Asia.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Under Josef Stalin, the Soviet Union emphasized centralized economic planning and Five-Year Plans primarily to</string>
+<key>ans1</key>
+<string>produce more consumer goods</string>
+<key>ans2</key>
+<string>expand exports</string>
+<key>ans3</key>
+<string>create a demand for high-quality imports</string>
+<key>ans4</key>
+<string>develop heavy industry</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Stalin attempted to build the Soviet Union into an industrialized nation quickly through the use of central planning and his Five Year Plans.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which characteristic was common to both Russia under the Czars and the Soviet Union under Josef Stalin?</string>
+<key>ans1</key>
+<string>a lack of concern about territorial expansion</string>
+<key>ans2</key>
+<string>support of artistic and literary freedom</string>
+<key>ans3</key>
+<string>encouragement of free enterprise</string>
+<key>ans4</key>
+<string>persecution of political dissenters</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Both the Czars and Stalin used terror and violence to control all aspects of the lives of their citizens. They did not allow free speech or expression, so often political dissenters were jailed of executed.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Under Joseph Stalin, life in the Soviet Union was characterized by</string>
+<key>ans1</key>
+<string>an abundance of consumer goods</string>
+<key>ans2</key>
+<string>political instability and numerous civil wars</string>
+<key>ans3</key>
+<string>support for small family-run farms</string>
+<key>ans4</key>
+<string>the use of censorship and the secret police</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Stalin used terror and violence in an attempt to control all aspects of the lives of the citizens. A main tool of this policy was a secret police, which often jailed or executed political dissenters.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which slogan expressed the ideals of the Bolshevik Revolution of 1917?</string>
+<key>ans1</key>
+<string>Liberty, Equality, and Fraternity</string>
+<key>ans2</key>
+<string>Bread, Land, and Peace</string>
+<key>ans3</key>
+<string>Land and Liberty</string>
+<key>ans4</key>
+<string>Nationalism, Democracy, and the People’s Livelihood</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The early goals of the Bolshevik Party were to remove Russia from World War One, redistribute land to the peasants, and ensure that everyone had enough to eat.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Russian peasants supported the Bolsheviks in 1917 primarily because the Bolsheviks pledged to</string>
+<key>ans1</key>
+<string>establish and maintain collective farms</string>
+<key>ans2</key>
+<string>redistribute land and make peace</string>
+<key>ans3</key>
+<string>keep crop yields low</string>
+<key>ans4</key>
+<string>limit the income of the nobility</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The early goals of the Bolshevik Party were to remove Russia from World War One, redistribute land to the peasants, and ensure that everyone had enough to eat.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which statement best describes a relationship between World War I and the Bolshevik Revolution?</string>
+<key>ans1</key>
+<string>World War I created conditions in Russia that helped trigger a revolution.</string>
+<key>ans2</key>
+<string>World War I postponed the revolution in Russia by restoring confidence in the Czar.</string>
+<key>ans3</key>
+<string>Opposing Russian forces cooperated to fight the foreign invaders.</string>
+<key>ans4</key>
+<string>World War I gave the Czar’s army the needed experience to suppress the revolution.</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Russia performed poorly in World War One. They were ill-equipped to deal with a modern war, which led to high casualties and a series of humiliating defeats. This coupled with shortages of food, housing, and heating fuel created the conditions that allowed Lenin to gain the support of the peasants by promising an end to these problems.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>In the 1920’s and 1930’s, the rise of totalitarian governments in Germany, Italy, and Spain was largely the result of</string>
+<key>ans1</key>
+<string>the success of the Communists in establishing a command economy in the Soviet Union</string>
+<key>ans2</key>
+<string>severe economic and social problems that arose in Europe after World War I</string>
+<key>ans3</key>
+<string>the active support of the United States</string>
+<key>ans4</key>
+<string>movements demanding the return of the old monarchies</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: The Great Depression caused many people to lose faith in democracy and turn toward more radical ideas, such as communism and fascism. People were willing to give up individual rights of freedom for the promise of stability offered by these types of totalitarian regimes.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>The harsh conditions imposed by the Treaty of Versailles after World War I helped lay the foundation for the</string>
+<key>ans1</key>
+<string>rise of fascism Germany</string>
+<key>ans2</key>
+<string>uprisings during the French Revolution</string>
+<key>ans3</key>
+<string>division of Korea along the 38th parallel</string>
+<key>ans4</key>
+<string>Bolshevik Revolution in Russia</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Under the Treaty of Versailles, Germany lost large areas of land, was forced to pay large reparations, and accept complete responsibility for the start of World War One. The German people felt humiliated by this treaty, which led them to readily accept the Fascist, who promised a return to Germany's former position of world power.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Between the Meiji Restoration and World War II, Japan tried to solve the problem of its scarcity of natural resources by</string>
+<key>ans1</key>
+<string>exporting agricultural products in exchange for new technology</string>
+<key>ans2</key>
+<string>establishing a policy of imperialism</string>
+<key>ans3</key>
+<string>building nuclear power plants</string>
+<key>ans4</key>
+<string>cooperating with the Soviet Union to gain needed resources</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Japan became imperialistic during this time period, seeking colonies as a source of raw materials and new markets for their products.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which idea was included in the provisions of the Treaty of Versailles to show the intent of the Allies to punish the Central Powers for their role in World War II?</string>
+<key>ans1</key>
+<string>all nations shall maintain open covenants of peace</string>
+<key>ans2</key>
+<string>freedom of the seas will be maintained</string>
+<key>ans3</key>
+<string>Germany will accept full responsibility for causing the war</string>
+<key>ans4</key>
+<string>territorial settlements shall be made along clearly recognizable lines of nationality</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Under the Treaty of Versailles, Germany lost large areas of land, was forced to pay large reparations, and accept complete responsibility for the start of World War One. The German people felt humiliated by this treaty, which led them to readily accept the Fascist, who promised a return to Germany's former position of world power.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Fascism in Europe during the 1920’s and 1930’s is best described as a</string>
+<key>ans1</key>
+<string>demonstration of laissez-faire capitalism that promoted free enterprise</string>
+<key>ans2</key>
+<string>form of totalitarianism that glorified the state above the individual</string>
+<key>ans3</key>
+<string>type of economic system that stressed a classless society</string>
+<key>ans4</key>
+<string>set of humanist ideas that emphasized the dignity and worth of the individual</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Fascist government is rule by a one party dictatorship, which is both nationalistic and imperialistic. Fascism glorifies the state over the individual and often uses terror and violence to maintain control of its population.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Censorship, mass arrests, and a secret police force are most characteristic of</string>
+<key>ans1</key>
+<string>parliamentary democracies</string>
+<key>ans2</key>
+<string>republics</string>
+<key>ans3</key>
+<string>totalitarian regimes</string>
+<key>ans4</key>
+<string>constitutional monarchies</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: Totalitarian governments use terror and violence in an attempt to control all aspects of the lives of the citizens. Tools of this type of regime are usually censorship and a secret police force.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>After World War I, Japan attempted to solve some of its economic problems by</string>
+<key>ans1</key>
+<string>establishing extensive trade with the Soviet Union</string>
+<key>ans2</key>
+<string>expanding its influence in Asia</string>
+<key>ans3</key>
+<string>practicing the principles of Marxism</string>
+<key>ans4</key>
+<string>refusing to rely on Western technology</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Japan became imperialistic during this time period, seeking colonies as a source of raw materials and new markets for their products.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which policy shows that appeasement does not always prevent war?</string>
+<key>ans1</key>
+<string>British policy toward Germany in Munich during the 1930’s</string>
+<key>ans2</key>
+<string>French policy in Indochina in the 1950’s</string>
+<key>ans3</key>
+<string>United States policy toward Cuba in the early 1960’s</string>
+<key>ans4</key>
+<string>Iraqi policy toward Iran in the 1980’s</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Under the policy of appeasement, Britain and other European nations allowed Germany to annex the Sudentenland and Czechoslovakia in hopes of preventing further conflict. But, this only allowed Germany to gain strength and eventually challenge the appeasing nations.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>In the 1930’s, the Japanese government followed a policy of imperialism primarily to</string>
+<key>ans1</key>
+<string>acquire new sources of raw materials</string>
+<key>ans2</key>
+<string>spread Zen Buddhism throughout Asia</string>
+<key>ans3</key>
+<string>sell more consumer goods to European nations</string>
+<key>ans4</key>
+<string>spread the ideas of bushido</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Japan became imperialistic during this time period, seeking colonies as a source of raw materials and new markets for their products.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>What was one reason the Nazi programs and policies of the early 1930’s appealed to many people in Germany?</string>
+<key>ans1</key>
+<string>the people were frustrated with their current economic and political situation</string>
+<key>ans2</key>
+<string>Germany had been denied membership in the United Nations</string>
+<key>ans3</key>
+<string>a coup d’etat had forced communism on the German people</string>
+<key>ans4</key>
+<string>the German people feared that the French of the British would soon gain control of the Polish corridor</string>
+<key>answer</key>
+<string>1</string>
+<key>explanation</key>
+<string>Explanation: Under the Treaty of Versailles, Germany lost large areas of land, was forced to pay large reparations, and accept complete responsibility for the start of World War One. The German people felt humiliated by this treaty, which led them to readily accept the Fascist, who promised a return to Germany's former position of world power.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>The imperialist policies followed by Japan after World War I were based on a desire to</string>
+<key>ans1</key>
+<string>convert people to Shinto</string>
+<key>ans2</key>
+<string>acquire markets for its oil industry</string>
+<key>ans3</key>
+<string>compete with Chinese trade policies</string>
+<key>ans4</key>
+<string>obtain natural resources for manufacturing</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Japan became imperialistic during this time period, seeking colonies as a source of raw materials and new markets for their products.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>During the mid-1930’s, which characteristic was common to Fascist Italy, Nazi Germany, and Communist Russia?</string>
+<key>ans1</key>
+<string>government ownership of the means of production and distribution</string>
+<key>ans2</key>
+<string>one-party system that denied basic human rights</string>
+<key>ans3</key>
+<string>encouragement of individual freedom of expression in the arts</string>
+<key>ans4</key>
+<string>emphasis on consumer goods rather than on weapons</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Totalitarian governments use terror and violence in an attempt to control all aspects of the lives of the citizens. Tools of this type of regime are usually censorship and a secret police force.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>One reason the Fascist governments of Benito Mussolini and Adolf Hitler came to power in Italy and Germany was that these nations</string>
+<key>ans1</key>
+<string>were threatened by the United States</string>
+<key>ans2</key>
+<string>supported civil liberties for all</string>
+<key>ans3</key>
+<string>failed to join the League of Nations</string>
+<key>ans4</key>
+<string>faced economic and political difficulties</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Both nations faced severe economic hardships due to the Great Depression. This made people lose faith in democracy and begin to support more radical forms of government that promised and end to these problems.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which was a characteristic of Germany under Adolf Hitler and the Soviet Union under Josef Stalin?</string>
+<key>ans1</key>
+<string>an official foreign policy of isolationism</string>
+<key>ans2</key>
+<string>governmental control of the media</string>
+<key>ans3</key>
+<string>public ownership of business and industry</string>
+<key>ans4</key>
+<string>the absence of a written constitution</string>
+<key>answer</key>
+<string>2</string>
+<key>explanation</key>
+<string>Explanation: Both countries had a totalitarian system of government. This is where the government attempts to control all aspects of the lives of their citizens.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>World War II is often considered to be a turning point in history because</string>
+<key>ans1</key>
+<string>the League of nations demonstrated that an international organization could maintain world peace</string>
+<key>ans2</key>
+<string>the war brought an end to dictatorships as a form of government</string>
+<key>ans3</key>
+<string>European domination of the world began to weaken as nationalism in colonies increased</string>
+<key>ans4</key>
+<string>religious and ethnic differences were no longer a source of conflict between nations</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: After World War II, many European colonies sought independence as nationalist feelings swept across these nations.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which reform took place in Japan after World War II?</string>
+<key>ans1</key>
+<string>Japan’s industrial capability was greatly reduced</string>
+<key>ans2</key>
+<string>the Emperor’s position was abolished</string>
+<key>ans3</key>
+<string>Japan became a representative democracy</string>
+<key>ans4</key>
+<string>labor unions were declared illegal</string>
+<key>answer</key>
+<string>3</string>
+<key>explanation</key>
+<string>Explanation: After World War II, Japan became democratic by reorganizing their government into a Parliamentary Democracy.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>A major factor in the economic recoveries of Japan and West Germany after World War II was their</string>
+<key>ans1</key>
+<string>desire to avoid an invasion from China</string>
+<key>ans2</key>
+<string>acceptance into the United Nations</string>
+<key>ans3</key>
+<string>ability to produce nuclear weapons</string>
+<key>ans4</key>
+<string>need to replace destroyed factories</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Both countries recovered due to financial support from the United States, which helped them build new industries.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which factor most enabled Japan to rebuild and modernize rapidly after World War II?</string>
+<key>ans1</key>
+<string>vast mineral reserves</string>
+<key>ans2</key>
+<string>large amounts of fertile land</string>
+<key>ans3</key>
+<string>a strong military</string>
+<key>ans4</key>
+<string>a well-trained workforce</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: Japan’s well-trained workforce was able to quickly rebuild their industries with the financial support of the United States.</string>
+</dict>
+<dict><key>category</key><string>ahalfcentury</string>
+<key>question</key>
+<string>Which is one major reason the Holocaust is considered a unique event in modern European history?</string>
+<key>ans1</key>
+<string>Jews of Europe have seldom been victims of persecution.</string>
+<key>ans2</key>
+<string>Civilians rarely were killed during air raids on Great Britain.</string>
+<key>ans3</key>
+<string>Adolf Hitler concealed his anti-Jewish feelings until after he came to power.</string>
+<key>ans4</key>
+<string>The genocide was planned in great detail and required the cooperation of many people.</string>
+<key>answer</key>
+<string>4</string>
+<key>explanation</key>
+<string>Explanation: The Holocaust was the planned genocide of the European Jewish population by Adolph Hitler and his Nazi regime.</string>
+</dict>

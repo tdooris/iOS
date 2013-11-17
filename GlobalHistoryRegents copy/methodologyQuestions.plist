@@ -1,0 +1,1798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which document is an example of a primary source?</string>
+        <key>ans1</key>
+        <string>a textbook on Russian history</string>
+        <key>ans2</key>
+        <string>an encyclopedia article on religions of the Middle East</string>
+        <key>ans3</key>
+        <string>a novel on the Age of Exploration</string>
+        <key>ans4</key>
+        <string>the diary of a survivor of a Nazi death camp</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: A primary source is firsthand information about people or events of the past, such as that found in a diary or a legal document.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which historical events are in the correct chronological order?</string>
+        <key>ans1</key>
+        <string>Crusades -> Renaissance -> Neolithic Revolution -> Roman Empire</string>
+        <key>ans2</key>
+        <string>Roman Empire -> Neolithic Revolution -> Crusades -> Renaissance</string>
+        <key>ans3</key>
+        <string>Renaissance ->Neolithic Revolution -> Crusades -> Roman Empire</string>
+        <key>ans4</key>
+        <string>Neolithic Revolution -> Roman Empire -> Crusades -> Renaissance</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: The Neolithic Revolution caused the development of agriculture and allowed humans to settle for the first time. The Roman Empire was was one of the most expanisve human civilizations ever recorded, but ended when tribes from Northern Europe invaded and finally took over Rome. Pope Urban II then launched the Crusades to kill all Muslims living in the Holy Land. This encouraged cultural diffusion which led to the rebirth of Europe, known as the Renaissance.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which statement best explains why most of the population of the people’s Republic of China live in the eastern third of the nation? </string>
+        <key>ans1</key>
+        <string>best agricultural land is in the East</string>
+        <key>ans2</key>
+        <string>largest forests are in the East</string>
+        <key>ans3</key>
+        <string>best fishing areas are off the eastern coast</string>
+        <key>ans4</key>
+        <string>largest oil deposits are in the East</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: The coastal region of China contain the best agricultural lands as well as access to the Pacific Ocean, making it much easier to live on than the interior of the country which is dominated by deserts and other harsh geographic features.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which is an accurate statement about Japan’s natural resources?</string>
+        <key>ans1</key>
+        <string>Japan has extensively used the seas for fishing</string>
+        <key>ans2</key>
+        <string>large reserves of petroleum are located in the northern part of Japan</string>
+        <key>ans3</key>
+        <string>Japan has large fertile plains suitable for growing grain</string>
+        <key>ans4</key>
+        <string>large coal and iron-ore deposits are located in the mountain region</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: The Japanese archipelago has very limited natural resources. By far, the most abundant natural resources available to the Japanese is that which can be harvested from the surrounding ocean.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In Japan, a major economic problem has been the lack of</string>
+        <key>ans1</key>
+        <string>natural resources</string>
+        <key>ans2</key>
+        <string>investment capital</string>
+        <key>ans3</key>
+        <string>skilled labor</string>
+        <key>ans4</key>
+        <string>experienced management</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: The Japanese archipelago has very limited natural resources, which is the primary barrier to economic development there.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which statement best describes an effect that geography has had on Japan?</string>
+        <key>ans1</key>
+        <string>Japan’s smooth coastline has prevented the development of a fishing industry</string>
+        <key>ans2</key>
+        <string>Japan’s large plains have made wheat growing a primary industry</string>
+        <key>ans3</key>
+        <string>the lack of important natural resources has led Japan to depend on trade with other nations</string>
+        <key>ans4</key>
+        <string>the location of Japan has encouraged great ethnic diversity within the nation</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Besides what is available from the sea, there are very few natural resources available to Japan. Japanese manufacturing is heavily dependent on importing natrual resources which are then converted into products such as automobiles, electronics, and steel.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Both Japan and Indonesia are made up of a chain of islands called</string>
+        <key>ans1</key>
+        <string>an archipelago</string>
+        <key>ans2</key>
+        <string>a peninsula</string>
+        <key>ans3</key>
+        <string>a delta</string>
+        <key>ans4</key>
+        <string>an atoll</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: An archipelago is defined as a chain of islands, which describes Japan and Indonesia perfectly.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The term “Latin America” most accurately refers to the</string>
+        <key>ans1</key>
+        <string>areas of the Western Hemisphere south of the United States</string>
+        <key>ans2</key>
+        <string>countries that belong to the Organization of American States</string>
+        <key>ans3</key>
+        <string>continents of North and South America</string>
+        <key>ans4</key>
+        <string>countries that have close economic ties with Spain</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: The term “Latin America” refers to the cultural region south of the United States. During the 1500s,Central and South America were taken over by Spain and Portugal, and as a result Spanish and Portuguese are the dominant languages and Roman Catholicism is practiced by most of the people living there today.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which generalization about geography of Latin America is accurate?</string>
+        <key>ans1</key>
+        <string>geographic features prevented foreign imperialism</string>
+        <key>ans2</key>
+        <string>harsh climatic conditions have prevented the development of large-scale agriculture</string>
+        <key>ans3</key>
+        <string>the lack of geographic barriers facilitated the development of transportation and communication systems</string>
+        <key>ans4</key>
+        <string>great variations in latitude and landforms resulted in a diversity of climates</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Latin America stretches from the Rio Grande River, continues past the Equator, and finally ends just north of Antarctica. Latin America also contains a variety of landforms including the Andes Mountains, the Amazon River Basin, Brazilian Highlands, and various deserts. Due to the variations in latitude and landforms, Latin America contains several different types of climate such as humid sub-tropical, humid continental, as well as dry desert regions.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which geographic factor has had the most influence on Poland's historical and cultural development?</string>
+        <key>ans1</key>
+        <string>a severe climate</string>
+        <key>ans2</key>
+        <string>vast deposits of oil</string>
+        <key>ans3</key>
+        <string>location on the great European Plain</string>
+        <key>ans4</key>
+        <string>a rugged coastline</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Throughout history, Poland has been an invasion route for invading armies entering and leaving Europe because its location on the great European Plain provides is easier to get through than treading over highlands or mountains.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which of these nations is located closet to the Philippines, Malaysia, and Indonesia?</string>
+        <key>ans1</key>
+        <string>Korea</string>
+        <key>ans2</key>
+        <string>Vietnam</string>
+        <key>ans3</key>
+        <string>Somalia</string>
+        <key>ans4</key>
+        <string>Pakistan</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: While Korea and Vietnam are both located in Southeast Asia, Vietnam is much closer to the Philippines, Malaysia, and Indonesia. Somalia is located on the Horn of Africa, and Pakistan is located near India in South Asia.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>One effect that mountain ranges, rain forests, and river systems have had on Latin America has been to</string>
+        <key>ans1</key>
+        <string>encourage cultural diffusion</string>
+        <key>ans2</key>
+        <string>limit the development of transportation and communication systems</string>
+        <key>ans3</key>
+        <string>permit the nations of the area to use a single form of government</string>
+        <key>ans4</key>
+        <string>allow the development of large amounts of arable land</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: These natural resources have made it difficult to develop transportation and communication systems because of the costs associated with building infrastructure in areas with dense vegetation, steep elevations, and rivers that are barely navigable.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In addition to providing water for Indian agriculture, the Ganges River remains important to India because it is</string>
+        <key>ans1</key>
+        <string>the only source of Indian hydroelectric power</string>
+        <key>ans2</key>
+        <string>a sacred river for the Hindu population</string>
+        <key>ans3</key>
+        <string>the birthplace of Hindu culture</string>
+        <key>ans4</key>
+        <string>an unofficial boundary between the Hindus and Muslims</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Bathing in the Ganges river is said to wash away sins, and the river water is used in many religious rituals. Many Hindus ask to be cremated along the Ganges and to have their ashes placed in the river.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>An effect of a mountainous topography on Inca and Chinese civilizations was the development of</string>
+        <key>ans1</key>
+        <string>industrialization</string>
+        <key>ans2</key>
+        <string>single-crop economy</string>
+        <key>ans3</key>
+        <string>desalinization projects</string>
+        <key>ans4</key>
+        <string>terrace farming</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Terrace farming allows crops to be grown on the sides of elevated terrain. This agricultural practice was widespread among the Inca in the Andes Mountains and the early Chinese.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>A major effect of geography on Japan is that the</string>
+        <key>ans1</key>
+        <string>export of oil has helped Japan maintain a favorable balance of trade</string>
+        <key>ans2</key>
+        <string>fertile plains have enabled Japan to keep food prices low</string>
+        <key>ans3</key>
+        <string>mountains have prevented invasions obey foreign nations</string>
+        <key>ans4</key>
+        <string>scarcity of natural resources has forced Japan to obtain raw materials from other nations</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Japan has very few natural resources except the surrounding seas. Therefore, Japan takes advantage of its irregular coastline to promote trade with other countries. Raw materials are imported to Japan, and then turned into consumer goods such as automobiles and electronics, which are then exported to other nations.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which geographic factor has most strongly influenced Russia’s foreign policies and economic development?</string>
+        <key>ans1</key>
+        <string>lack of natural resources</string>
+        <key>ans2</key>
+        <string>vast desert regions</string>
+        <key>ans3</key>
+        <string>limited access to warm-water ports</string>
+        <key>ans4</key>
+        <string>extensive mountain ranges</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Historically, Russia has been land-locked due to the fact that much of its water access is located in the northern part of the country and is frozen for most of the year. This makes trading difficult because ships cannot get through these frozen waters safely. Events such as the Crimean War, in which Russia sought to gain control of the Dardanelles Strait between the Black and Aegean Seas, illustrates how this geographic factor has influenced Russia’s foreign policies.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Many people in Southeast Asia hope for the timely arrival of the summer monsoons each year because</string>
+        <key>ans1</key>
+        <string>floods are the only way to water their farmlands</string>
+        <key>ans2</key>
+        <string>daily temperatures often reach 100 degrees Fahrenheit</string>
+        <key>ans3</key>
+        <string>little rain has fallen for many months</string>
+        <key>ans4</key>
+        <string>oases provide water for nomadic herders</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: In monsoon climates, moisture-bearing winds reverse direction once a year, creating a distinct wet season and a dry season. Thus, the people of Southeast Asia hope for the timely arrival of these seasonal rains in order to provide water for their crops.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>A topographical map would most likely be used to</string>
+        <key>ans1</key>
+        <string>identify the major agricultural products of Egypt</string>
+        <key>ans2</key>
+        <string>determine the population of Beijing, China</string>
+        <key>ans3</key>
+        <string>estimate the elevation of Bangkok, Thailand</string>
+        <key>ans4</key>
+        <string>count the number of provinces in India</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Topographical maps show the lay of the land, and thus would be ideal for use in estimating the elevation of Bangkok, Thailand.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>On a map of the world, Asia is to Japan as Europe is to</string>
+        <key>ans1</key>
+        <string>Great Britain</string>
+        <key>ans2</key>
+        <string>the Netherlands</string>
+        <key>ans3</key>
+        <string>Austria</string>
+        <key>ans4</key>
+        <string>Italy</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Asia is a continental landmass, and Japan is an island that is found just off the coast of Asia. In this same way Europe is a continental landmass and Great Britain is an island just off the coast of Europe.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The Russian steppe is most similar in topography to the</string>
+        <key>ans1</key>
+        <string>mountains in Switzerland</string>
+        <key>ans2</key>
+        <string>deserts in the Middle East</string>
+        <key>ans3</key>
+        <string>rainforests in South America</string>
+        <key>ans4</key>
+        <string>savannas in Africa</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: The savannas in Africa and steppes of Russia are both described as vast grassy plains.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Areas of Africa and parts of Siberia in Russia are often said to be gems-in-the-rough because they have</string>
+        <key>ans1</key>
+        <string>extensive tracts of permanently frozen land</string>
+        <key>ans2</key>
+        <string>well-developed coastal fishing industries</string>
+        <key>ans3</key>
+        <string>many undeveloped natural resources</string>
+        <key>ans4</key>
+        <string>decreasing populations</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: These locations have immense reserves of undeveloped natural resources which are difficult to cultivate due to their problematic geography.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In Africa, an effect of topography and climate has been to</string>
+        <key>ans1</key>
+        <string>encourage rapid industrialization of the interior</string>
+        <key>ans2</key>
+        <string>prevent the development of kingdoms</string>
+        <key>ans3</key>
+        <string>promote large-scale trade between African and Asia</string>
+        <key>ans4</key>
+        <string>promote the growth of diverse societies</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: The various topographical and climactic features of Africa (e.g., Sahara Desert) have isolated cultures and promoted the growth of diverse societies.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The Suez Canal, the Strait of Hormuz, and the Strait of Gibraltar are important because they</string>
+        <key>ans1</key>
+        <string>prevent attacks on bordering nations</string>
+        <key>ans2</key>
+        <string>control access to vital trade routes</string>
+        <key>ans3</key>
+        <string>limit Russian access to warm-water points</string>
+        <key>ans4</key>
+        <string>prohibit the movement of ships carrying nuclear weapons</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Each of these geographic features are examples of strategic waterways from around the world. They are strategic because they provide access to vital trade routes.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Geographic diversity in the Middle East has contributed to</string>
+        <key>ans1</key>
+        <string>unequal standards of living</string>
+        <key>ans2</key>
+        <string>a common economic system</string>
+        <key>ans3</key>
+        <string>similar political systems</string>
+        <key>ans4</key>
+        <string>military alliances with Japan</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: While some nations in the Middle East have large reserves of oil, others do not, and therefore have little of value to trade with the rest of the world.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The Suez Canal, the Panama Canal, and the Straits of the Dardanelles are similar because they</string>
+        <key>ans1</key>
+        <string>are strategic waterways that have been the center of conflicts</string>
+        <key>ans2</key>
+        <string>was part of the French colonial empire</string>
+        <key>ans3</key>
+        <string>are located in regions that are rich in natural resources</string>
+        <key>ans4</key>
+        <string>prohibit the movement of ships carrying nuclear weapons</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Each of these geographic features are examples of strategic waterways from around the world. They are strategic because they provide access to vital trade routes.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The map shows that the</string>
+        <key>ans1</key>
+        <string>economies of all the regions of China are developing at the same rate</string>
+        <key>ans2</key>
+        <string>distribution of income in China is unequal</string>
+        <key>ans3</key>
+        <string>economies of the interior provinces of China are developing faster than those of the coastal provinces</string>
+        <key>ans4</key>
+        <string>economic development in China is dependent upon the cash crops of Xinjiang and Tibet</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: This map clearly shows that the distribution of income in China in unequal because income tends to be greater near the coastline.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>One factor that accounted for Chinese influence on traditional Japanese culture was the</string>
+        <key>ans1</key>
+        <string>continuous warfare between the countries</string>
+        <key>ans2</key>
+        <string>geographic location of the countries</string>
+        <key>ans3</key>
+        <string>refusal of western nations to trade with Japan</string>
+        <key>ans4</key>
+        <string>annexation of Japan into the Chinese Empire</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: The close proximity of China to Japan aided in cultural diffusion between the two nations.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Throughout the 1800’s, Russia was interested in acquiring Turkey mainly because Russia wanted</string>
+        <key>ans1</key>
+        <string>to maintain peace in the Middle East</string>
+        <key>ans2</key>
+        <string>access to the Mediterranean Sea</string>
+        <key>ans3</key>
+        <string>to reestablish the Byzantine Empire</string>
+        <key>ans4</key>
+        <string>the rich farmland of the Anatolian Plateau</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Historically, Russia has been land-locked due to the fact that much of its water access is located in the northern part of the country and is frozen for most of the year. This makes trading difficult because ships cannot get through these frozen waters safely. Events such as the Crimean War, in which Russia sought to gain control of the Dardanelles Strait held by Turkey and located between the Black and Aegean Seas, illustrates how this geographic factor has influenced Russia’s foreign policies.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which geographic factor has contributed most to the economic growth of Japan, Egypt, and Great Britain?</string>
+        <key>ans1</key>
+        <string>variety of natural resources</string>
+        <key>ans2</key>
+        <string>reliable amount of rainfall</string>
+        <key>ans3</key>
+        <string>abundance of arable land</string>
+        <key>ans4</key>
+        <string>access to important waterways</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Access to important waterways, such as the Pacific Ocean for Japan, the Nile River for Egypt, and the Atlantic Ocean for Great Britain often leads to trade, an important factor in the economic growth of these nations.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In which way have the Andes Mountains and the Amazon rain forest affected the development of Latin America?</string>
+        <key>ans1</key>
+        <string>promoting international unity</string>
+        <key>ans2</key>
+        <string>increasing cultural diversity</string>
+        <key>ans3</key>
+        <string>encouraging trade agreements</string>
+        <key>ans4</key>
+        <string>strengthening political alliances</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Mountains and rainforests often provide a barrier to cultural diffusion. This allows civilizations to develop independent of others, and sometimes creates a sense of ethnocentrism.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which geographic factor has helped China remain isolated for many centuries?</string>
+        <key>ans1</key>
+        <string>many natural harbors</string>
+        <key>ans2</key>
+        <string>navigable river systems</string>
+        <key>ans3</key>
+        <string>severe climate</string>
+        <key>ans4</key>
+        <string>northern and western mountain ranges</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Mountains often provide a barrier to cultural diffusion. This allows civilizations to develop independent of others, and sometimes creates a sense of ethnocentrism.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which statement best describes an impact of topography on eastern Europe?</string>
+        <key>ans1</key>
+        <string>Many different languages, religions, and customs developed.</string>
+        <key>ans2</key>
+        <string>A Russian czar ruled the area as a single empire.</string>
+        <key>ans3</key>
+        <string>An extensive single-crop agricultural system emerged.</string>
+        <key>ans4</key>
+        <string>Neighbors who were more powerful could not invade the region.</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Various geographical features, such as, rivers, mountains, and plains, can cause civilizations to develop differently depending on their needs for survival.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which geographic factor was most important to the development of the early river valley civilizations?</string>
+        <key>ans1</key>
+        <string>fertile soils</string>
+        <key>ans2</key>
+        <string>high mountains</string>
+        <key>ans3</key>
+        <string>vast deserts</string>
+        <key>ans4</key>
+        <string>smooth coastlines</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: The fertile soils along the river valleys allowed the early peoples to grow enough food to increase their population. This in turn led to the creation of civilizations.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which factor contributes most to the recurring food shortages in Africa?</string>
+        <key>ans1</key>
+        <string>poor distribution of agricultural products</string>
+        <key>ans2</key>
+        <string>extensive river systems</string>
+        <key>ans3</key>
+        <string>location between two major oceans</string>
+        <key>ans4</key>
+        <string>rainforest environment</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: The poor distribution of agriculture resources causes yearly food shortages in some parts of Africa.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which condition is a major obstacle to economic development in the Middle East and Northern Africa</string>
+        <key>ans1</key>
+        <string>use of strip mining to obtain minerals</string>
+        <key>ans2</key>
+        <string>reliance on capitalist economic systems</string>
+        <key>ans3</key>
+        <string>lack of access to world markets</string>
+        <key>ans4</key>
+        <string>scarcity of water resources</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: The scarcity of water in these regions is a major obstacle to economic development because it is essential for the survival of humans and would be too costly to import.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Singapore and Hong Kong have become major economic powers by taking advantage of their</string>
+        <key>ans1</key>
+        <string>abundant mineral resources</string>
+        <key>ans2</key>
+        <string>imported cheap labor from Japan</string>
+        <key>ans3</key>
+        <string>profits from agricultural surpluses</string>
+        <key>ans4</key>
+        <string>favorable location on international trade routes</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: As coastal cities in Southeast Asia, Hong Kong and Singapore have become major economic powers by providing services needed to facilitate trade.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Throughout the 1800’s, Russia was interested in acquiring Turkey mainly because Russia wanted</string>
+        <key>ans1</key>
+        <string>to maintain peace in the Middle East</string>
+        <key>ans2</key>
+        <string>access to the Mediterranean Sea</string>
+        <key>ans3</key>
+        <string>to reestablish the Byzantine Empire</string>
+        <key>ans4</key>
+        <string>the rich farmland of the Anatolian Plateau</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Russia was effectively land-locked because its only access to ports was in arctic waters with ice that prevented shipping. Thus, gaining warm-water ports has been a major influence on Russian foreign policy because it would increase Russian trade.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which conclusion can be drawn from the information in the chart?</string>
+        <key>ans1</key>
+        <string>Developing countries are instituting programs to limit the growth of their populations.</string>
+        <key>ans2</key>
+        <string>Infant mortality is a greater problem in Africa than in Asia.</string>
+        <key>ans3</key>
+        <string>The nations with relatively low birthrates have relatively high per capita incomes.</string>
+        <key>ans4</key>
+        <string>The national birthrate is determined by many different factors.</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: The Iron Law of Wages states that a low population will mean a higher income as labor resources are more valuable.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>A comparison of Japan’s policies before 1945 with the policies in effect after 1945 indicates that</string>
+        <key>ans1</key>
+        <string>reduction in spending on military goods leads to economic depression</string>
+        <key>ans2</key>
+        <string>dependence on foreign trade usually leads to a weakened national economy</string>
+        <key>ans3</key>
+        <string>territorial aggression is not necessary to secure national economic goals</string>
+        <key>ans4</key>
+        <string>democratic institutions hinder economic growth</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Japan has managed to build a thriving economy without the need for the territorial acquisition policies they exhibited before the end of World War II.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>A study of Japan’s economy since World War II would lead to the conclusion that</string>
+        <key>ans1</key>
+        <string>a. government support of technological advances can improve a nation’s economic position</string>
+        <key>ans2</key>
+        <string>a. imperialism is necessary form the economic development of a nation</string>
+        <key>ans3</key>
+        <string>a. a communist system leads to economic prosperity</string>
+        <key>ans4</key>
+        <string>a. the feudal system is more economically productive than the market system</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: The Japanese government is very supportive of industry. This partnership between government and business has worked to build a very strong economy in Japan.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which situation has contributed most to recent Japanese economic growth?</string>
+        <key>ans1</key>
+        <string>The Japanese government has place limits on Japanese exports.</string>
+        <key>ans2</key>
+        <string>Japanese industries spend very little on the research and development of new products.</string>
+        <key>ans3</key>
+        <string>The Japanese government and Japanese businesses have cooperated with each other.</string>
+        <key>ans4</key>
+        <string>Japanese citizens save less of their incomes than the citizens of other industrialized nation do.</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: The Japanese government is very supportive of industry. This partnership between government and business has worked to build a very strong economy in Japan.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The emergence of Japan as a world economic power has been based mostly on Japan’s</string>
+        <key>ans1</key>
+        <string>development of nuclear power</string>
+        <key>ans2</key>
+        <string>abundance of fossil fuels</string>
+        <key>ans3</key>
+        <string>strong traditional of military rule</string>
+        <key>ans4</key>
+        <string>business enterprise and organization</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Japanese businesses are very well regulated and organized. This has enabled them to out compete competitors around the world and help build a very strong economy in Japan.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In recent years, which factor has been a major reason for the economic tensions between the United States and Japan?</string>
+        <key>ans1</key>
+        <string>Japan’s trade deficit with the United States was very high</string>
+        <key>ans2</key>
+        <string>the United States refused to place quotas on Japanese goods</string>
+        <key>ans3</key>
+        <string>the United States imported more from Japan than it exported to Japan</string>
+        <key>ans4</key>
+        <string>Japan lowered tariffs on goods imported from the United States</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: The United States currently has a trade deficit with Japan. This has caused some consumers in the U.S. to boycott Japanese goods in favor of products made in the U.S.A..</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Since World War II, people in both Africa and Latin America have moved from rural to urban areas. The major cause of this movement has been the</string>
+        <key>ans1</key>
+        <string>rejection of traditional custom</string>
+        <key>ans2</key>
+        <string>expectation of improved economic opportunities</string>
+        <key>ans3</key>
+        <string>guarantee of better housing</string>
+        <key>ans4</key>
+        <string>fear of civil war</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: People in both regions have moved to the cities in hopes of greater economic opportunities. This is known as urbanization, and is common in many third world nations.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which factor best accounts for the existence of cash-crop production as a major form of agriculture in many Central American nations today?</string>
+        <key>ans1</key>
+        <string>demand of world markets for such crops</string>
+        <key>ans2</key>
+        <string>lack of modern agricultural technology</string>
+        <key>ans3</key>
+        <string>inadequate supply of water and other natural resources</string>
+        <key>ans4</key>
+        <string>peasant ownership of most farmlands</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Many Latin American nations rely on one or two cash crops as the basis of their economies. This is due to the demand of the world market for such products, and the inability of Latin America to attract sufficient capital investment for industrialization.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Economic development in Japan after World War II and in Communist China since the 1980’s is similar in that both nations have sought to</string>
+        <key>ans1</key>
+        <string>end foreign investment</string>
+        <key>ans2</key>
+        <string>develop their vast natural resources to achieve economic growth</string>
+        <key>ans3</key>
+        <string>utilize the concepts of capitalism to improve their economies</string>
+        <key>ans4</key>
+        <string>nationalize most major industries and restrict competition</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Japan and China have nationalized most major industries in an effort to limit foreign competition in their countries.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>During the 1980’s and 1990’s, the economic policies of China, supported by Deng Xiaoping, have led directly to</string>
+        <key>ans1</key>
+        <string>an expansion of China’s colonial empire</string>
+        <key>ans2</key>
+        <string>an increase in trade with the West</string>
+        <key>ans3</key>
+        <string>a return to a strict command economy</string>
+        <key>ans4</key>
+        <string>the success of the commune system</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: During the 1980s and 1990s, China has opened its markets to foreign trade, and began exporting a variety of products to the world market.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which statement best explains China’s economic shift toward capitalism in the 1980’s and early 1990’s?</string>
+        <key>ans1</key>
+        <string>China’s economic policies were directly influenced by the success of the Soviet economic system</string>
+        <key>ans2</key>
+        <string>the Tiananmen Square massacre resulted in major economic reforms in China</string>
+        <key>ans3</key>
+        <string>the success of the Cultural Revolution resulted in the increased westernization of China</string>
+        <key>ans4</key>
+        <string>communist economic policies were not meeting the needs of the society</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: The shift to a more capitalistic economy has been due to the dismal failure of communism as an economic system.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>One principle in the theory of mercantilism is that colonies should be</string>
+        <key>ans1</key>
+        <string>granted independence as soon as possible</string>
+        <key>ans2</key>
+        <string>considered an economic burden for the colonial power</string>
+        <key>ans3</key>
+        <string>encouraged to develop their own industries</string>
+        <key>ans4</key>
+        <string>acquired as markets and sources of raw materials</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Mercantilism is an economic system where a country’s wealth is based upon exporting more products than it imports. To accomplish this, a country must have colonies to provide raw materials, and also to provide a market for the finished products.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which statement best describes how a command economy functioned in the Soviet Union?</string>
+        <key>ans1</key>
+        <string>The laws of supply and demand controlled the economy.</string>
+        <key>ans2</key>
+        <string>Trade policies mandated that imports exceed exports.</string>
+        <key>ans3</key>
+        <string>The success of the agricultural sector controlled the price of manufactured goods.</string>
+        <key>ans4</key>
+        <string>A central authority determined the type and quantity of goods to be produced.</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: A communist, or command economy, controls the means of production by having governmental agencies involved in production planning.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>To maintain its economic position, Japan has often limited the number of cars or the quantity of farm products that the United States can sell in Japan. Japan has imposed these limits to develop</string>
+        <key>ans1</key>
+        <string>an equality-of-trade position</string>
+        <key>ans2</key>
+        <string>a favorable balance of trade</string>
+        <key>ans3</key>
+        <string>a more open market</string>
+        <key>ans4</key>
+        <string>a belief system</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Japan has limited the amount of products it imports from the United States to protect its native industries. This has created a favorable balance of trade for Japan.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The economic policy of mercantilism first developed during the</string>
+        <key>ans1</key>
+        <string>Age of Exploration</string>
+        <key>ans2</key>
+        <string>Enlightenment</string>
+        <key>ans3</key>
+        <string>Cold War</string>
+        <key>ans4</key>
+        <string>Green Revolution</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Mercantilism is an economic system where a country’s wealth is based upon exporting more products than it imports. To accomplish this, a country must have colonies to provide raw materials, and also to provide a market for the finished products. This was the system in use during the Age of Exploration.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which generalization about democracy is most valid?</string>
+        <key>ans1</key>
+        <string>democratic political systems require a highly industrialized society</string>
+        <key>ans2</key>
+        <string>democratic governments first evolved in North America</string>
+        <key>ans3</key>
+        <string>democratic governments prevent their citizens from traveling abroad</string>
+        <key>ans4</key>
+        <string>democratic governments protect basic civil liberties</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Civil liberties are simply the rights held by citizens of a nation. In order for a democracy to exist, civil liberties must be protected to allow citizens to be able to elect their leaders.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which factor is necessary for the development of democratic institutions?</string>
+        <key>ans1</key>
+        <string>strong military forces</string>
+        <key>ans2</key>
+        <string>respect for individual rights</string>
+        <key>ans3</key>
+        <string>a one-party system</string>
+        <key>ans4</key>
+        <string>an agricultural economy</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Democracies are founded upon civil liberties, which are the individual rights of each citizen. Without respect, for these rights, there cannot be a democracy.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Democracy in modern Japan resulted primarily from</string>
+        <key>ans1</key>
+        <string>Shinto and Buddhist beliefs about equality and justice</string>
+        <key>ans2</key>
+        <string>reforms imposed by the United States after World War II</string>
+        <key>ans3</key>
+        <string>a history of imperial justice under the constitution of the Emperor</string>
+        <key>ans4</key>
+        <string>the diffusion of ideas and practices from China and Korea</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: After World War II, the United States imposed democratic reforms on Japan as a way of insuring peace for the future. These reforms led to the creation of a Parliamentary Democracy.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>After the breakup of the Austro-Hungarian Empire and the Soviet Union, new nations were formed. Which generalization accurately reflects the effect of the breakup on these new nations?</string>
+        <key>ans1</key>
+        <string>new nations are generally too poor and weak to become active members of the United Nations</string>
+        <key>ans2</key>
+        <string>new nations rarely use their limited resources to wage war</string>
+        <key>ans3</key>
+        <string>national and ethnic differences often lead to instability and violence in new nations</string>
+        <key>ans4</key>
+        <string>self-determination generally leads to democratic forms of government in new nations</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Instability and violence are often caused by the pursuit of self determination by each ethnic group.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which statement describes a characteristic of the British parliamentary system today?</string>
+        <key>ans1</key>
+        <string>the Prime Minister is elected by the majority party in Parliament</string>
+        <key>ans2</key>
+        <string>the monarch serves as a strong head of state</string>
+        <key>ans3</key>
+        <string>the members of the House of Commons are appointed for life</string>
+        <key>ans4</key>
+        <string>the minority party has no vote in the Parliament</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: A parliamentary democracy is a government ruled democratically by a national representative body that has supreme legislative powers. This Parliament is controlled by a Prime Minister who is elected by the majority party.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which political system is the basis of Japan’s government today?</string>
+        <key>ans1</key>
+        <string>parliamentary democracy</string>
+        <key>ans2</key>
+        <string>military dictatorship</string>
+        <key>ans3</key>
+        <string>absolute monarchy</string>
+        <key>ans4</key>
+        <string>national socialism</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: A parliamentary democracy is a government ruled democratically by a national representative body that has supreme legislative powers. This Parliament is controlled by a Prime Minister who is elected by the majority party.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>What did Karl Marx and Friedrich Engels believe would be the result when communism finally emerged as the dominant political and economic system?</string>
+        <key>ans1</key>
+        <string>Only two classes would exist in society.</string>
+        <key>ans2</key>
+        <string>All the evils of industrial society would disappear.</string>
+        <key>ans3</key>
+        <string>The Soviet Union would become the world’s only superpower.</string>
+        <key>ans4</key>
+        <string>Citizens would own their individual homes and farms.</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Marx and Engels believed that their economic and political system would create a classless society where the means of production would be controlled by the working class, and a fair distribution of wealth would exist.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>A similarity of the rule of the ancient Mongols and the ancient Greeks is that both</string>
+        <key>ans1</key>
+        <string>protected the human rights of the peoples they controlled</string>
+        <key>ans2</key>
+        <string>destroyed the civilizations they defeated</string>
+        <key>ans3</key>
+        <string>remained isolated and peaceful for centuries</string>
+        <key>ans4</key>
+        <string>established vast empires and spread their cultures to the people they conquered</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Both the Mongols and Ancient Greeks established empires that allowed the spreading of ideas through cultural diffusion.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The code of Hammurabi is an example of</string>
+        <key>ans1</key>
+        <string>written rules for legal procedures</string>
+        <key>ans2</key>
+        <string>the power of strong kings to control trade</string>
+        <key>ans3</key>
+        <string>regulations on the way to conduct wars against neighboring nations</string>
+        <key>ans4</key>
+        <string>the power of a legislature to veto laws passed by absolute monarchs</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Hammurabi’s Code was the first major collection of laws in history. It contain both criminal law, dealing with murder and theft, and civil law dealing with private rights and matters, such as business contracts and property inheritance.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The Magna Carta, the Glorious Revolution, and the writings of John Locke all contributed to Great Britain’s development of</string>
+        <key>ans1</key>
+        <string>absolute monarchy</string>
+        <key>ans2</key>
+        <string>ethnic rivalries</string>
+        <key>ans3</key>
+        <string>parliamentary democracy</string>
+        <key>ans4</key>
+        <string>imperialist policies</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: A parliamentary democracy is a government ruled democratically by a national representative body that has supreme legislative powers. This Parliament is controlled by a Prime Minister who is elected by the majority party.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In the Soviet Union, Joseph Stalin governed by means of secret police, censorship, and purges. This type of government is called</string>
+        <key>ans1</key>
+        <string>democracy</string>
+        <key>ans2</key>
+        <string>totalitarian</string>
+        <key>ans3</key>
+        <string>limited monarchy</string>
+        <key>ans4</key>
+        <string>theocracy</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: A totalitarian state is a nation in which the government controls every aspect of citizen’s lives through a single party dictatorship. The methods often include the use of censorship, secret police, and terror.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which aspect of a nation’s culture is most directly influenced by the physical geography of that nation?</string>
+        <key>ans1</key>
+        <string>form of government</string>
+        <key>ans2</key>
+        <string>religious beliefs</string>
+        <key>ans3</key>
+        <string>population distribution</string>
+        <key>ans4</key>
+        <string>social class system</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: People tend to live where there are abundant and easily attainable natural resources. These resources tend to attract industry and provide food and shelter.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>One reason the cultures of North Africa developed differently from the cultures of the rest of Africa was that these areas of Africa were separated by the</string>
+        <key>ans1</key>
+        <string>Congo River Basin</string>
+        <key>ans2</key>
+        <string>Great Rift Valley</string>
+        <key>ans3</key>
+        <string>Sahara Desert</string>
+        <key>ans4</key>
+        <string>Arabian Sea</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: The Sahara Desert has acted as a natural barrier in Africa which resulted in the diffusion of Middle Eastern culture in North Africa, while Sub-Saharan Africa maintained a variety of traditional cultures until the beginning of the Slave Trade and imperialism practiced by Europeans during the Scramble for Africa.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In China, the development of ethnocentrism was most influenced by</string>
+        <key>ans1</key>
+        <string>its historic reliance on foreign nations</string>
+        <key>ans2</key>
+        <string>a long history of democratic government</string>
+        <key>ans3</key>
+        <string>a strong belief in Christianity</string>
+        <key>ans4</key>
+        <string>its geographic isolation</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: The Gobi Desert to the North, the Himalayan Mountains to the Southwest, and the seas to the East all contribute to the geographic isolation of China. This isolation hindered cultural contact for many years which resulted in China considering itself the “Middle Kingdom,” or the center of human civilization.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In most societies, works of art and architecture generally serve to</string>
+        <key>ans1</key>
+        <string>satisfy the needs of the leaders</string>
+        <key>ans2</key>
+        <string>limit the influence of religion</string>
+        <key>ans3</key>
+        <string>reflect the values of that society</string>
+        <key>ans4</key>
+        <string>express opposition to the government in power</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Art and architecture have typically been seen as a window to the values of the society in which they are created. Examples include the appreciation of the human ideal expressed in the works of many Renaissance artists which contain human nudes, such as Michelangelo's famous statue of David.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In modern African nations, the continued strength of the tribe or ethnic group is a reflection of the continuing influence of</string>
+        <key>ans1</key>
+        <string>European imperialism</string>
+        <key>ans2</key>
+        <string>urban growth</string>
+        <key>ans3</key>
+        <string>the slave trade</string>
+        <key>ans4</key>
+        <string>traditional cultures</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: The tribalism, which often crosses national boundaries in modern-day Africa, illustrates the influence that traditional culture still has in that region of the world.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Traditional African art has had the greatest influence on</string>
+        <key>ans1</key>
+        <string>classical Roman mosaics and pottery</string>
+        <key>ans2</key>
+        <string>Renaissance painting</string>
+        <key>ans3</key>
+        <string>20th century sculpture and painting</string>
+        <key>ans4</key>
+        <string>Medieval European architecture</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Elements of traditional African art, such as abstract patterning rather than representation, can be seen in many examples of 20th century sculpture and painting.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which generalization is characteristic of most traditional societies?</string>
+        <key>ans1</key>
+        <string>people move from city to city seeking new jobs</string>
+        <key>ans2</key>
+        <string>sons learn the same trades as their fathers</string>
+        <key>ans3</key>
+        <string>a high degree of social mobility exists</string>
+        <key>ans4</key>
+        <string>all people have the same economic opportunities</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: In traditional societies, economic opportunities are limited to that which is practiced in the family. An example is that in traditional societies, sons learn the same trades as their fathers.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Recent archeological studies suggest the theory that</string>
+        <key>ans1</key>
+        <string>the earliest humans evolved in the Rift Valley in Africa</string>
+        <key>ans2</key>
+        <string>farming societies developed before hunting and gathering societies</string>
+        <key>ans3</key>
+        <string>all the continents were settled at about the same time</string>
+        <key>ans4</key>
+        <string>the wheel was used by all ancient societies</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Australopithecines, one of the earliest known human relatives, dates back 5 million years and was discovered in the Rift Valley of Africa.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which factor has contributed most to the social and cultural identity of the Middle East?</string>
+        <key>ans1</key>
+        <string>political stability of the region</string>
+        <key>ans2</key>
+        <string>ability of the region to export oil</string>
+        <key>ans3</key>
+        <string>lack of foreign involvement in the region</string>
+        <key>ans4</key>
+        <string>strong influence of Islam on the region</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Islam is the dominant religion practiced in the cultural region knows as the Middle East, and has thus maintained the social and cultural identity of this region.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The Chinese called their land “Middle Kingdom.” Europeans often used the term “backward” to refer to China. These statements best illustrate</string>
+        <key>ans1</key>
+        <string>the failure of geographers to establish a universal terminology</string>
+        <key>ans2</key>
+        <string>the importance of East Asia in world history</string>
+        <key>ans3</key>
+        <string>the adoption of policies of nonalignment</string>
+        <key>ans4</key>
+        <string>attitudes of ethnocentrism in both cultures</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Ethnocentrism refers to the idea that one holds their own culture to be superior to all others. Both of these statements illustrate the ethnocentric attitudes of both the Chinese and Europeans.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Geographic isolation of a people frequently reinforces</string>
+        <key>ans1</key>
+        <string>a traditional way of life</string>
+        <key>ans2</key>
+        <string>the development of scientific investigation</string>
+        <key>ans3</key>
+        <string>the need for higher education</string>
+        <key>ans4</key>
+        <string>a process of cultural diffusion</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Geographic isolation severely limits opportunities for cultural diffusion, so that a society that is isolated may maintain its traditional ways.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In most societies, urbanization has</string>
+        <key>ans1</key>
+        <string>weakened traditional values and life patterns</string>
+        <key>ans2</key>
+        <string>strengthened the influence of the extended family system</string>
+        <key>ans3</key>
+        <string>discouraged economic growth</string>
+        <key>ans4</key>
+        <string>promoted population growth</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: The process of urbanization brings many people from different backgrounds together in one place. Thus, through the exchange of ideas from different people, traditional values tend to be weakened.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which statement cites an example of cultural diffusion?</string>
+        <key>ans1</key>
+        <string>Venezuela has large reserves of oil</string>
+        <key>ans2</key>
+        <string>young people dance to rock music in Russia</string>
+        <key>ans3</key>
+        <string>students in China learn calligraphy in school</string>
+        <key>ans4</key>
+        <string>the Caste system is an important part of life in India</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Cultural diffusion refers to the sharing of ideas between different societies. Since rock music was pioneered in the United States, it can be safely assumed that it has been transmitted to Russia and adopted by young people there.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In most traditional societies, the teaching of values is mainly the responsibility of the</string>
+        <key>ans1</key>
+        <string>judicial system</string>
+        <key>ans2</key>
+        <string>government</string>
+        <key>ans3</key>
+        <string>educational system</string>
+        <key>ans4</key>
+        <string>family</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Families are the center of most traditional societies, and this is where values would be taught to the young.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The study of culture primarily involves</string>
+        <key>ans1</key>
+        <string>observing the physical environment of people</string>
+        <key>ans2</key>
+        <string>learning why various peoples live as they do</string>
+        <key>ans3</key>
+        <string>understanding the technology of modern machinery</string>
+        <key>ans4</key>
+        <string>analyzing the personalities of children in the same family</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Culture refers to all of the things that make up daily life for people. Therefore the study of culture involves learning why people live as they do.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Extended families and limited social mobility are characteristic of</string>
+        <key>ans1</key>
+        <string>constitutional monarchies</string>
+        <key>ans2</key>
+        <string>polytheistic religions</string>
+        <key>ans3</key>
+        <string>traditional societies</string>
+        <key>ans4</key>
+        <string>socialist economies</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: In traditional societies, families tend to consist of parents, children, and other extended relatives (e.g., grandparents, aunts, uncles, etc.). Children of these societies also are trained to do the same work as their parents, thus limiting their opportunities for social mobility.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>People in both Japan and India eat very little meat. A study of these cultures would show that</string>
+        <key>ans1</key>
+        <string>although these cultures have similar practices, the reasons for these practices differ</string>
+        <key>ans2</key>
+        <string>the raising of cattle in both nations is very difficult due to the extreme climate</string>
+        <key>ans3</key>
+        <string>neither culture is concerned with health issues</string>
+        <key>ans4</key>
+        <string>the governments of both nations enforce strict dietary laws</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: The Japanese eats very little red meat due to the abundance of life in the sea surrounding them, while many Indians practice Hinduism in which they believe in the cycle of reincarnation. Therefore, to a Hindu, eating animal flesh might constitute a form of murder.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The dominance of the Spanish language in Latin America and continued use of the French language in Senegal are examples of</string>
+        <key>ans1</key>
+        <string>cultural diffusion</string>
+        <key>ans2</key>
+        <string>social mobility</string>
+        <key>ans3</key>
+        <string>humanism</string>
+        <key>ans4</key>
+        <string>Marxism</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: These languages are not native to these areas. Rather, they were brought by Europeans practicing imperialism and are therefore a form of cultural diffusion.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which activity is the best example of cultural diffusion in Africa?</string>
+        <key>ans1</key>
+        <string>weaving kente cloth in Ghana</string>
+        <key>ans2</key>
+        <string>using masks in traditional African ceremonies</string>
+        <key>ans3</key>
+        <string>discovering bronze sculptures from Benin</string>
+        <key>ans4</key>
+        <string>practicing of Islam in Nigeria</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Islam was founded in Saudi Arabia and was transmitted throughout the Middle East, India, and northern Africa.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which statement about India is a fact rather than an opinion?</string>
+        <key>ans1</key>
+        <string>most Indians are happy with the Hindu practice of arranged marriages</string>
+        <key>ans2</key>
+        <string>India is fortunate to have a multiparty system of government</string>
+        <key>ans3</key>
+        <string>The Mongols ruled India for more that 100 years</string>
+        <key>ans4</key>
+        <string>the partition of British India in 1947 helped India prosper</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Mongol rule in India is the only answer that is based on historical fact, while the other answers represent opinions.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which reference would be used to find the most recent information about the gross domestic product (GDP) of a nation?</string>
+        <key>ans1</key>
+        <string>historical atlas</string>
+        <key>ans2</key>
+        <string>thesaurus</string>
+        <key>ans3</key>
+        <string>world almanac</string>
+        <key>ans4</key>
+        <string>dictionary</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Statistical information such as the GDP of a specific country can be most easily found in a world almanac. A dictionary and thesaurus each contain linguistic information, and an historical atlas would contain maps from different historical periods.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Culture is sometimes referred to as “a blueprint for living” because it</string>
+        <key>ans1</key>
+        <string>flourished best in traditional societies</string>
+        <key>ans2</key>
+        <string>includes all the things that contribute to a society’s development</string>
+        <key>ans3</key>
+        <string>is determined by genetics</string>
+        <key>ans4</key>
+        <string>determines the types of jobs offered to the members of a society</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Culture is comprised of all the things that make up daily life in an area.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In many African nations, a major result of migration from rural to urban areas has been</string>
+        <key>ans1</key>
+        <string>a strengthening of traditional values</string>
+        <key>ans2</key>
+        <string>a decline in employment opportunities for educated Africans</string>
+        <key>ans3</key>
+        <string>a weakening of ancestral lines and kinship bonds</string>
+        <key>ans4</key>
+        <string>increased agricultural productivity</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: The process of urbanization brings many people from different backgrounds together in one place. Thus, through the exchange of ideas from different people, traditional values tend to be weakened.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which statement about Japan is a fact rather than an opinion?</string>
+        <key>ans1</key>
+        <string>Japanese family values have declined with modernization</string>
+        <key>ans2</key>
+        <string>many of Japan’s cultural traditions were borrowed from China</string>
+        <key>ans3</key>
+        <string>rapid industrialization has caused few problems for the Japanese people</string>
+        <key>ans4</key>
+        <string>traditional farming techniques in Japan were better than modern ones</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: The transmission of Chinese culture to Japan is the only answer based in historical fact, while the other answers represent opinions.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>One similarity between the culture of traditional China under dynastic rule and the culture of modern China under communism is that both stress</string>
+        <key>ans1</key>
+        <string>a state-supported religion</string>
+        <key>ans2</key>
+        <string>loyalty to the authority of leaders</string>
+        <key>ans3</key>
+        <string>the importance of a matriarchal society</string>
+        <key>ans4</key>
+        <string>limits on population growth</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Both Confucianism and communism in modern China have emphasized loyalty to the authority of leaders.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The ancient Chinese expression “Middle Kingdom” and the European terms “Near East” and “Far East” best reflect</string>
+        <key>ans1</key>
+        <string>the impact of the Enlightenment on global thinking</string>
+        <key>ans2</key>
+        <string>an improved knowledge of world geography</string>
+        <key>ans3</key>
+        <string>an objective view of the world’s cultures</string>
+        <key>ans4</key>
+        <string>the influence of ethnocentrism on geographic perspective</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Both statements reveal that each culture is basing their perspective of the world on their own geographic location.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The accusations of witchcraft in 17th century England and the practice of foot-binding in 19th century China are examples of the</string>
+        <key>ans1</key>
+        <string>discrimination against women in various cultures</string>
+        <key>ans2</key>
+        <string>negative aspects of a matriarchal society</string>
+        <key>ans3</key>
+        <string>gradual improvement of women’s rights around the world</string>
+        <key>ans4</key>
+        <string>respect give to mothers in traditional cultures</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Both of these statements are examples of discrimination against women because they involve the maiming or killing of women.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Buildings such as the Gothic cathedrals in Western Europe and the Parthenon in ancient Greece reflect each society’s</string>
+        <key>ans1</key>
+        <string>imperialistic attitudes</string>
+        <key>ans2</key>
+        <string>cultural values</string>
+        <key>ans3</key>
+        <string>belief in democracy</string>
+        <key>ans4</key>
+        <string>rigid social structure</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Both buildings functioned as places of worship in these societies. Therefore, they reflect the particular religious beliefs of each society. These beliefs are part of their cultural values.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Before towns and cities can develop in a society, the society needs to establish</string>
+        <key>ans1</key>
+        <string>an educational system</string>
+        <key>ans2</key>
+        <string>an agricultural surplus</string>
+        <key>ans3</key>
+        <string>a writing system</string>
+        <key>ans4</key>
+        <string>a democratic government</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Before humans were able to settle down in one place, they needed to provide enough food for the community. This shift in society from hunting-gathering to agriculture is known as the Neolithic Revolution.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which statement best supports the idea that cultural diffusion has greatly affected Southeast Asia?</string>
+        <key>ans1</key>
+        <string>the population of Southeast Asia is concentrated in rural areas</string>
+        <key>ans2</key>
+        <string>monsoon climates affect food production in Indonesia</string>
+        <key>ans3</key>
+        <string>a reliance on subsistence agriculture remains a problem for many Southeast Asian economies</string>
+        <key>ans4</key>
+        <string>Buddhism, Hinduism, and Islam are practiced throughout Southeast Asia</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Buddhism and Hinduism originated in India while Islam was founded in the Middle East. These were transmitted to Southeast Asia through the process of cultural diffusion.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In India, which aspect of society has been most heavily influenced by religious beliefs, tradition, and the division of labor?</string>
+        <key>ans1</key>
+        <string>caste system</string>
+        <key>ans2</key>
+        <string>policy of neutrality</string>
+        <key>ans3</key>
+        <string>urbanization</string>
+        <key>ans4</key>
+        <string>parliamentary government</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: The Caste System ranked Hindus by class and divide labor among them. For example, at the top of this system, the Brahmin were considered the holy class, while untouchables were considered out of caste and were only allowed to do the most menial jobs.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>One similarity between the cultures of traditional China and traditional Japan was that</string>
+        <key>ans1</key>
+        <string>the educated class was held in high esteem</string>
+        <key>ans2</key>
+        <string>religion played a minor role in society</string>
+        <key>ans3</key>
+        <string>social mobility was encouraged</string>
+        <key>ans4</key>
+        <string>the people elected the political leaders</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Both China and Japan have traditionally held teachers and the educated in high regard.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The invention of writing systems and the growth of cities occurred only in civilizations that</string>
+        <key>ans1</key>
+        <string>originated in south Asia</string>
+        <key>ans2</key>
+        <string>developed matriarchal leadership</string>
+        <key>ans3</key>
+        <string>developed complex institutions</string>
+        <key>ans4</key>
+        <string>borrowed heavily from the Greeks and Romans</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: A sophisticated level of organization is required for civilizations to develop writing systems and cities.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>A sociologist interested in Indian culture would most likely focus on the study of</string>
+        <key>ans1</key>
+        <string>Hinduism and its influence on life in India</string>
+        <key>ans2</key>
+        <string>India’s development of nuclear weapons</string>
+        <key>ans3</key>
+        <string>the parliamentary government of India</string>
+        <key>ans4</key>
+        <string>the influence of agricultural production on India’s Gross national Product (GNP)</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Sociologists are interested in human social relationships and would therefore be most likely to study the effect of Hinduism on life in India.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In India, the Caste System determined a person’s occupation, personal associations, and marriage partner. This situation shows that the Caste system</string>
+        <key>ans1</key>
+        <string>has helped eliminate ethnic and religious rivalries</string>
+        <key>ans2</key>
+        <string>has promoted social mobility within Indian society</string>
+        <key>ans3</key>
+        <string>has been stronger in urban areas that in rural areas</string>
+        <key>ans4</key>
+        <string>has been a way of life as well as an element of religion</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: The Caste System originated in Hinduism and has influence many facets of life in India.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>During the centuries of dynastic rule, the Chinese rejected other cultures as inferior to their own. This situation illustrates the concept of</string>
+        <key>ans1</key>
+        <string>ethnocentrism</string>
+        <key>ans2</key>
+        <string>imperialism</string>
+        <key>ans3</key>
+        <string>social mobility</string>
+        <key>ans4</key>
+        <string>cultural diffusion</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Considering one’s own culture to be superior to that of others is an example of ethnocentrism.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which statement best describes the status of women in most traditional Asian societies?</string>
+        <key>ans1</key>
+        <string>women were encouraged to obtain an education</string>
+        <key>ans2</key>
+        <string>women were expected to run for political office</string>
+        <key>ans3</key>
+        <string>women were expected to dedicate their lives to their families</string>
+        <key>ans4</key>
+        <string>women were encouraged to work outside the home</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Women in most traditional Asian societies have very few opportunities outside of the home.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>One result of the Neolithic Revolution was</string>
+        <key>ans1</key>
+        <string>an increase in the number of nomadic tribes</string>
+        <key>ans2</key>
+        <string>a reliance on hunting and gathering for food</string>
+        <key>ans3</key>
+        <string>the establishment of villages and the rise of governments</string>
+        <key>ans4</key>
+        <string>a decrease in trade between cultural groups</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: The Neolithic Revolution occurred 10,000 years ago when humans began to grow crops from seeds and domesticate animals. These developments allowed humans to establish villages and form governments.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The Japanese feudal system and the Hindu caste system are similar in that both systems</string>
+        <key>ans1</key>
+        <string>promoted social mobility</string>
+        <key>ans2</key>
+        <string>developed a rigid class structure</string>
+        <key>ans3</key>
+        <string>encouraged the people to take part in government</string>
+        <key>ans4</key>
+        <string>resulted in economic opportunities for the lower classes</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Feudalism in Japan depended on a very rigid class structure in which the peasant labored for the upper class that provided them with land to live on and protection in times of warfare. Likewise, the Caste System which was reinforced by Hinduism in India, created a rigid class system consisting of priests, warriors, landowners, peasants, and the untouchables.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which situation best illustrates a traditional practice of women in Masai society?</string>
+        <key>ans1</key>
+        <string>a young woman leaving her village to attend a university in the capital city</string>
+        <key>ans2</key>
+        <string>an educated woman returning to her village to become leader of her tribe</string>
+        <key>ans3</key>
+        <string>a young woman marrying and her husband giving cattle to her family as a wedding gift</string>
+        <key>ans4</key>
+        <string>a young mother discouraging her children from practicing animism</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: The presentation of a dowry, or wedding gift from the groom’s family to the bride’s family, is an example of something done mainly in traditional societies.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The Japanese feudal system and the Hindu caste system are similar in that both systems</string>
+        <key>ans1</key>
+        <string>promoted social mobility</string>
+        <key>ans2</key>
+        <string>developed a rigid class structure</string>
+        <key>ans3</key>
+        <string>encouraged the people to take part in government</string>
+        <key>ans4</key>
+        <string>resulted in economic opportunities for the lower classes</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: All three of these societies had rigid class structures in which one was born into their social status with very few opportunities to advance socially.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which statement concerning modern Japan is most accurate?</string>
+        <key>ans1</key>
+        <string>Japan has modernized while maintaining some elements of its traditional culture</string>
+        <key>ans2</key>
+        <string>Japan has become a leader in global peacekeeping efforts</string>
+        <key>ans3</key>
+        <string>Japan has shown little concern for its natural environment</string>
+        <key>ans4</key>
+        <string>Japan has severed all traditional ties in favor of western values</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Japan followed the example of the West by modernizing, yet managed to retain their own culture during this process.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The introduction of Buddhism into China and of Islam into Indonesia are examples of</string>
+        <key>ans1</key>
+        <string>social mobility</string>
+        <key>ans2</key>
+        <string>cultural diffusion</string>
+        <key>ans3</key>
+        <string>ethnocentrism</string>
+        <key>ans4</key>
+        <string>interdependence</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: Cultural Diffusion is the spreading of ideas from one culture to another. This is accomplished through a variety of means such as trade and warfare.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>In a traditional society, the influence of an extended family decreases when that society is</string>
+        <key>ans1</key>
+        <string>being governed by a council of elders</string>
+        <key>ans2</key>
+        <string>experiencing rapid urbanization and industrialization</string>
+        <key>ans3</key>
+        <string>faced with a decreasing population</string>
+        <key>ans4</key>
+        <string>raising only enough crops to feed its people</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: The process of urbanization brings many people from different backgrounds together in one place. Thus, through the exchange of ideas from different people, traditional values tend to be weakened.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which factor has been most responsible for the common culture found in Japan?</string>
+        <key>ans1</key>
+        <string>religious diversity</string>
+        <key>ans2</key>
+        <string>success of democracy</string>
+        <key>ans3</key>
+        <string>ethnic homogeneity</string>
+        <key>ans4</key>
+        <string>political instability</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: Japan remained a closed society for centuries, which caused ethnic homogeneity. This resulted in a common culture among its people as little or no immigration was allowed until quite recently.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>The Church of the Holy Sepulchre, the Dome of the Rock, and the Western (Wailing) Wall are religious sites in Jerusalem. These sites symbolize the</string>
+        <key>ans1</key>
+        <string>Roman domination of the Mediterranean region in the 1st century</string>
+        <key>ans2</key>
+        <string>cultural diversity of the Middle East</string>
+        <key>ans3</key>
+        <string>limited architectural skills of builders in the Middle East</string>
+        <key>ans4</key>
+        <string>geographic isolation of the city</string>
+        <key>answer</key>
+        <string>2</string>
+        <key>explanation</key>
+        <string>Explanation: These places function as places of worship in these societies. Therefore, they reflect the particular religious beliefs of each society. These beliefs are part of their cultural values.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Throughout much of history, both China and Japan held a common view that other nations were</string>
+        <key>ans1</key>
+        <string>valued sources of worthwhile knowledge</string>
+        <key>ans2</key>
+        <string>envoys of an advanced civilization</string>
+        <key>ans3</key>
+        <string>barbarians not worthy of their attention</string>
+        <key>ans4</key>
+        <string>sources of cheap labor and goods</string>
+        <key>answer</key>
+        <string>3</string>
+        <key>explanation</key>
+        <string>Explanation: This is an example of ethnocentrism, where a particular civilization considers itself to be superior to all others.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Historians are interested in studying Maya ruins in Mexico, the haiku poetry of Japan, and the music of Chopin because such cultural and intellectual developments</string>
+        <key>ans1</key>
+        <string>reflect the values of that society</string>
+        <key>ans2</key>
+        <string>illustrate the economic status of individuals in that society</string>
+        <key>ans3</key>
+        <string>help to explain the role of geography in that society</string>
+        <key>ans4</key>
+        <string>reveal the political structure of that society</string>
+        <key>answer</key>
+        <string>1</string>
+        <key>explanation</key>
+        <string>Explanation: Art, architecture, and music are examples of cultural achievements that often reflect a civilization's values.</string>
+    </dict>
+    <dict><key>category</key><string>methodology</string>
+        <key>question</key>
+        <string>Which term is used to describe the spread of Buddhism from India through Southeast Asia?</string>
+        <key>ans1</key>
+        <string>ethnocentrism</string>
+        <key>ans2</key>
+        <string>isolation</string>
+        <key>ans3</key>
+        <string>imperialism</string>
+        <key>ans4</key>
+        <string>cultural diffusion</string>
+        <key>answer</key>
+        <string>4</string>
+        <key>explanation</key>
+        <string>Explanation: Cultural Diffusion is the spreading of ideas from one culture to another. This is accomplished through a variety of means such as trade and warfare.</string>
+    </dict>
+</array>
+</plist>
